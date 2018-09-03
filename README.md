@@ -1,0 +1,1 @@
+wykorzystać moje poprzednie osiągnięcia (zwłaszcza licencjat, OM, bug w Rubym), aby na mnie pracowały
