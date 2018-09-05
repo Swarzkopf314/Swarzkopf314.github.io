@@ -1,3 +1,9 @@
 # Cały świat to jedno wielkie placebo
 
 A mi o to, że to, co nazywamy światem, to struktura pojęciowa oparta na statystyce (inter)subiektywnego doświadczenia. A ponieważ statystyka bywa zdradliwa, to w szczególności nie powinniśmy się dziwić temu, co dziwne i np. nie powinniśmy odrzucać z góry akupunktury, bo na oko nie przystaje do naszego paradygmatu światopoglądowego. Z Twojego posta wnioskuję, że sporo osób tak mimo wszystko robi, uznając na przykład, że taka akupunktura to w najlepszym wypadku placebo. Więc tym osobom odpowiadam, że w zasadzie cały ich świat to placebo.
+
+## Czy rzeczywistość jest Tanglem?
+
+[Tangle IOTA](https://docs.iota.org/introduction/tangle/introduction)
+
+Tangle ~ Git. Nagradzamy za mergowanie branchy. Ciekawy pomysł.
