@@ -15,4 +15,6 @@ Nagradzamy za przepisową jazdę (taką, jak większość kierowców w okolicy?)
 ## Sieć zachęcająca wierzchołki do wymiany informacji
 
 Wysłanie informacji ma pewien koszt. Jak systemowo nagradzać uczestników, żeby chcieli wysyłać informacje między sobą?
+
 A może wystarczy zmniejszyć koszt wysłania informacji? Np. ustalając wspólny, prosty szablon komunikatów? 
+

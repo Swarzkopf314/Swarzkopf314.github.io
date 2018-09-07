@@ -1,0 +1,5 @@
+## Czy rzeczywistość jest Tanglem?
+
+[Tangle IOTA](https://docs.iota.org/introduction/tangle/introduction)
+
+Tangle ~ Git. Nagradzamy (możliwością zrobienia commita) za mergowanie branchy. Ciekawy pomysł.

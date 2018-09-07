@@ -13,4 +13,7 @@ również:
 
 Pisać tutaj notatki w formie postów? (Dział: posty nieuporządkowane?)
 
+Jakieś forum? Możliwość komentowania? Dobrze byłoby móc prowadzić wspólne dyskusje.
 
+http://downtothewire.io/ghpages-ghcomments/about/
+https://deepaksood619.github.io/technology/adding-comments-system-for-posts-in-jekyll/
