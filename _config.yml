@@ -16,9 +16,10 @@
 title: Maciej Satkiewicz blog
 email: msatkiewicz@gmail.com
 description: |
-  The world is a mystery that has to be taken seriously.
   This is my idea playground.
-  We are all in the gutter, but let's build some rockets.
+
+  The world is a mystery that has to be taken seriously or otherwise there's just death.
+  We are all in the gutter, but let's build some spaceships.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://satkiewicz.it" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Swarzkopf314
