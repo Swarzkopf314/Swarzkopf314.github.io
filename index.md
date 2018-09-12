@@ -5,3 +5,5 @@
 layout: home
 ---
 
+<script type="text/javascript" src="//counter.websiteout.net/js/22/0/0/0">
+</script>
