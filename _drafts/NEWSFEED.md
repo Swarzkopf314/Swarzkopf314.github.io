@@ -18,6 +18,9 @@ A mi o to, że to, co nazywamy światem, to struktura pojęciowa oparta na staty
 
 Tangle ~ Git. Nagradzamy (możliwością zrobienia commita) za mergowanie branchy. Ciekawy pomysł.
 
+## DriveCoin
+https://docs.google.com/document/d/1x3KFBEs7HiXjbfPuUYIHOZOkYxcxW_WzQjWsK6-D1Cc/edit?usp=sharing
+
 ## Sieć zachęcająca wierzchołki do wymiany informacji
 
 Wysłanie informacji ma pewien koszt. Jak systemowo nagradzać uczestników, żeby chcieli wysyłać informacje między sobą?
@@ -50,4 +53,17 @@ Stąd moje motto, ze tworzyć i odkrywać możesz tylko językiem ścisłym :P b
 
 Swiat jest taki ciekawy. Ciekawość nas zbawi. Bez ciekawości jest tylko śmierć.
 
+
+### kiedy ma sens robić kryptowalutę (!!!):
+
+- kiedy jest duża szansa na duży wzrost wartości (funding)
+- grywalizacja - chciwość zachęca do pozytywnych zachowań (takich, jak większość) - co też jest wartością
+
+dlaczego DriveCoin się stabilizuje poniżej ceny paliwa?
+- stacje benzynowe chcą przyjmować coiny, bo konkurencja + rośnie sprzedaż paliwa
+- coiny nabierają wartości (poza wartością wynikającą z grywalizacji, prestiżem czy spekulacją)
+- jeśli rośnie cena paliwa, to może też rosnąć wartość coinów
+- żeby uniknąć inflacji i zachęcać do wstąpienia do systemu - ilość kopanych coinów maleje z czasem
+- jeśli cena wzrośnie powyżej ceny paliwa, nikt nie będzie chciał kupować coina, bo każdy będzie chciał go generować i sprzedawać, więc cena automatycznie spadnie (czyli kurs ostatecznie wyznacza nie rynek, ale cena produktów oferowanych na stacjach)
+- coin nie jest wartością bez pokrycia - wartością jest jazda przepisowa, za którą można zapłacić kierowcom
 
