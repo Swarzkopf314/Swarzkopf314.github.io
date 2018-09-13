@@ -16,3 +16,9 @@ również:
 
 Pisać tutaj notatki w formie postów? (Dział: posty nieuporządkowane?)
 
+# TODO
+
+- [ ]Dodać disqs na strone
+- [ ] Dodac link do coinow na LinkedIn?
+- [x] Dodać lepszy licznik odwiedzin?
+- [ ] [Google analytics](https://michaelsoolee.com/google-analytics-jekyll/)

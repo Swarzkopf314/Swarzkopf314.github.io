@@ -24,6 +24,16 @@ Wysłanie informacji ma pewien koszt. Jak systemowo nagradzać uczestników, że
 
 A może wystarczy zmniejszyć koszt wysłania informacji? Np. ustalając wspólny, prosty szablon komunikatów? 
 
+## depresja + karteczki z lodówki
+
+Life is too much of a mystery to waste energy on depression...
+
+But getting out of it is a choice, right? If you can decide to get out of it then why can't you decide not to fall in it in the beginning? Depression is not binary, you can decide to fight it early, before it developes too much.
+
+Jeśli człowiek może podjąć decyzję o próbie wyjścia z depresji, to może także zdecydowac, żeby w nią nie wpaść, kiedy widzi pierwsze objawy. Szach mat, #depresjatowybór (albo brak samoświadomości).
+
+Co nie oznacza, że tego wyboru nie należy nigdy dokonywać. Być może w pewnych sytuacjach wpadnięcie w depresję to najlepsze rozwiązanie?
+
 ## kogo lubię
 
 Ja lubię wszystkich, tylko zazwyczaj są nudni, czasem agresywni; no i żyją w równoległej rzeczywistości. To nie powód, żeby nie lubić, ale też ciężko w takiej sytuacji o radość z interakcji.
@@ -31,5 +41,13 @@ Ja lubię wszystkich, tylko zazwyczaj są nudni, czasem agresywni; no i żyją w
 Sam więc nie wiem, co rozumiem przez "lubię". Pewnie "lubię" tak, jak lubi się pieska sąsiada czy gołąbka.
 
 Niektóre psy to straszne skurczybyki. No ale nie do końca wiedzą, co robią.
+
+# tworzenie językiem ścisłym
+
+Stąd moje motto, ze tworzyć i odkrywać możesz tylko językiem ścisłym :P bo reszta to niedookreślone intuicje, które mogą być ostatecznie błędne, bo nie sprawdziłaś ich do końca. I tak naprawdę nie wiesz, co mówisz, jeśli nie zaimplementowałaś tego w programie, KTÓRY DZIAŁA.
+
+## without curiosity there is just death
+
+Swiat jest taki ciekawy. Ciekawość nas zbawi. Bez ciekawości jest tylko śmierć.
 
 
