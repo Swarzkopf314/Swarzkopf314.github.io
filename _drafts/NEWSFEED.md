@@ -54,16 +54,19 @@ Stąd moje motto, ze tworzyć i odkrywać możesz tylko językiem ścisłym :P b
 Swiat jest taki ciekawy. Ciekawość nas zbawi. Bez ciekawości jest tylko śmierć.
 
 
-### kiedy ma sens robić kryptowalutę (!!!):
+### kiedy ma sens robić kryptowalutę :
 
 - kiedy jest duża szansa na duży wzrost wartości (funding)
 - grywalizacja - chciwość zachęca do pozytywnych zachowań (takich, jak większość) - co też jest wartością
 
 dlaczego DriveCoin się stabilizuje poniżej ceny paliwa?
+- jeśli cena wzrośnie powyżej ceny paliwa, nikt nie będzie chciał kupować coina, bo każdy będzie chciał go generować i sprzedawać, więc cena automatycznie spadnie (czyli kurs ostatecznie wyznacza nie rynek, ale cena produktów oferowanych na stacjach)
+
+
+Kolejne zalety
 - stacje benzynowe chcą przyjmować coiny, bo konkurencja + rośnie sprzedaż paliwa
 - coiny nabierają wartości (poza wartością wynikającą z grywalizacji, prestiżem czy spekulacją)
-- jeśli rośnie cena paliwa, to może też rosnąć wartość coinów
-- żeby uniknąć inflacji i zachęcać do wstąpienia do systemu - ilość kopanych coinów maleje z czasem
-- jeśli cena wzrośnie powyżej ceny paliwa, nikt nie będzie chciał kupować coina, bo każdy będzie chciał go generować i sprzedawać, więc cena automatycznie spadnie (czyli kurs ostatecznie wyznacza nie rynek, ale cena produktów oferowanych na stacjach)
+- jeśli rośnie cena paliwa, to może też rosnąć wartość coinów, co kompensuje kierowcom wzrost cen paliwa
+- żeby uniknąć inflacji i zachęcać do wstąpienia do systemu - ilość kopanych coinów maleje z czasem i jest ograniczona z góry
 - coin nie jest wartością bez pokrycia - wartością jest jazda przepisowa, za którą można zapłacić kierowcom
 

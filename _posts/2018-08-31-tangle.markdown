@@ -3,7 +3,7 @@ layout: post
 categories: jekyll update
 ---
 
-## Czy rzeczywistość jest Tanglem?
+## Czy rzeczywistość jest Tanglem? Rozmaitością topologiczną?
 
 [Tangle IOTA](https://docs.iota.org/introduction/tangle/introduction)
  
