@@ -70,3 +70,14 @@ Kolejne zalety
 - żeby uniknąć inflacji i zachęcać do wstąpienia do systemu - ilość kopanych coinów maleje z czasem i jest ograniczona z góry
 - coin nie jest wartością bez pokrycia - wartością jest jazda przepisowa, za którą można zapłacić kierowcom
 
+## wiara w cuda
+
+Należy zdefiniować cud. Jeśli cudem jest to, co dzieje się wbrew regułom, wg których działa świat, to cuda z definicji są niemożliwe.
+
+Ale to kiepska definicja, bo tak naprawdę do końca nie wiemy, jak działa świat (wizja świata jest rodzajem rozmaitości topologicznej, dość dziurawej). Tak więc lepsza definicja cudu jest taka - zjawisko, które przeczy naszej teorii czy raczej intuicji na temat tego, jak działa dany fragment świata (jeśli przeczy teorii, to teorię trzeba zweryfikować, jeśli przeczy intuicji - to zawsze można się powołać na to, że to przypadek. W ogóle nasze teorie przestają być falsyfikowalne, skoro opierają się na prawdopodobieństwie). Wtedy wiara w cuda to po prostu zdrowy sceptycyzm odnośnie naszych intuicji dotyczących działania świata - wiara w to, że te intuicje mogą być w pewnym stopniu błędne.
+
+Tak więc w cuda oczywiście trzeba wierzyć.
+
+Natomiast nie należy uważać, że cuda są dobrą teorią świata - znowu, odwołajmy się do kryteriów jakości teorii naukowych - taka teoria jest niepraktyczna, bo nie daje prostego, jednoznaczego przepisu na tworzenie wiarygodnych przewidywań. 
+
+UWAGA - Tak więc piszemy dużo tego typu notatek i chcemy je linkować wzajemnie.
