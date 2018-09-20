@@ -24,12 +24,17 @@ description: |
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://satkiewicz.it" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Swarzkopf314
+google_analytics: UA-125781990-1
 
 # Build settings
 markdown: kramdown
+# theme: jekyll-sleek
 theme: minima
 plugins:
   - jekyll-feed
+
+disqus:
+  shortname: satkiewicz-it
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
