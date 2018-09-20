@@ -2,7 +2,6 @@
 layout: post
 categories: jekyll update
 comments: true
-
 ---
 
 ## Czy rzeczywistość jest Tanglem? Rozmaitością topologiczną?
