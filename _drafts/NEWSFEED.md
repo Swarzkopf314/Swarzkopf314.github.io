@@ -21,6 +21,10 @@ Tangle ~ Git. Nagradzamy (możliwością zrobienia commita) za mergowanie branch
 ## DriveCoin
 https://docs.google.com/document/d/1x3KFBEs7HiXjbfPuUYIHOZOkYxcxW_WzQjWsK6-D1Cc/edit?usp=sharing
 
+## filmiki z łyżew i rolek
+
+## muzyka, teksty
+
 ## Sieć zachęcająca wierzchołki do wymiany informacji
 
 Wysłanie informacji ma pewien koszt. Jak systemowo nagradzać uczestników, żeby chcieli wysyłać informacje między sobą?
@@ -91,3 +95,9 @@ Tak więc w cuda oczywiście trzeba wierzyć.
 Natomiast nie należy uważać, że cuda są dobrą teorią świata - znowu, odwołajmy się do kryteriów jakości teorii naukowych - taka teoria jest niepraktyczna, bo nie daje prostego, jednoznaczego przepisu na tworzenie wiarygodnych przewidywań. 
 
 UWAGA - Tak więc piszemy dużo tego typu notatek i chcemy je linkować wzajemnie.
+
+## dlaczego chemia jednak jest ważna (pomimo tego, że mija)
+
+ale ostatnio gadałem z mamą i mnie olśniło, że chemia jednak jest ważna, nawet, jeśli mija - bo ją pamiętasz i możesz ją wspominać. Kiedy nachodzą Cię wątpliwości, przypominasz sobie chemię i wiesz, że to jednak to
+działa nawet, jeśli jest tylko w pamięci. Możesz sobie ją wyobrazić i wiedzieć, że kiedyś ją czułaś właśnie do tego konkretnego człowieka.
+i może wtedy znowu ją poczuć na chwilę
