@@ -29,5 +29,38 @@ Gołębie tez biorą wszystko do siebie. Czy gołębie są perfekcjonistami?
 
 "nie" oznacza bunt. "nie" bierze się z dyskomfortu. Funkcja działania - tworzenia różnicy - to funkcja unikania dyskomfortu. Więc dyskomfort jest tym, co dodajemy do świata - pozwala nam zaistnieć. Może stąd bierze się zło?
 
-"Nie" bierze się z poczucia dyskomfortu - jest sprzeciwem wobec czegoś, cos sprawia nam dyskomfort. To ten dyskomfort jest wartością dodaną do świata. Sprzeciw. Bunt. To jest różnica, którą wnosimy. A istnieć to przecież robić różnicę.
+
+Sławek:
+„Tak” bierze się z akceptacji dyskomfortu. To znaczy ze będąc istota ludzka nie jesteśmy idealni i układamy nasze życie tylko wobec siebie. Jesteśmy częścią społeczeństwa wiec dyskomfort czasami przyjmujemy dla większego dobra. Istniejesz kiedy mówisz tak
+Istniejesz kiedy mówisz „spaghetti jest dobre”. Bo nikt inny kto nie istnieje nie jest w stanie tego powiedzieć.
+
+
+Maciek:
+Kiedy mówisz „tak", stajesz się częścią większej całości, wtapiasz się w coś większego. „Nie” sprawia, że istniejesz samodzielnie.
+
+Nie wartościuję między „tak” a „nie”, tylko zauważam, że jedno robi różnicę, więc niejako z definicji istnieje.
+kiedy za często mówisz „tak”, Twoje istnienie staje się redundantne
+ale mi chodziło o spostrzeżenie, że istotą naszego bytu jest ten bunt, dyskomfort, sprzeciw, „nie"
+gdyby nie „nie”, nie mielibyśmy po co istnieć
+
+a ściślej - w ogóle by nas nie było
+
+spaghetti też powstało dzięki czyjemuś „nie” w przeszłości
+
+nawet ewolucyjnie - funkcją świadomości jest raczej unikanie niebezpieczeństwa, niż zdobywanie pożywienia. Gdyby na świecie nie było niebezpieczeństw, organizmy nie musiałyby być świadome
+mogłyby być sobie takimi zombie
+
+
+Sławek:
+Dla mnie to dorabianie ideologii bo odpowiedz tak/nie zależy od pytania. Jako niewolnik na pytanie „czy podoba ci sie to co robisz” dyskomfortem jest nie, a na pytanie „czy chcesz być wolny” dyskomfortem jest tak
+
+
+Maciek
+bierzesz to za mało abstrakcyjnie. Niewolnik odpowiada „tak”, ale to jest tylko gra, bo wewnętrznie mówi „nie”. Chodzi o ten wewnętrzny bunt.
+
+więc niewolnik chce powiedzieć „nie”, ale unika niebezpieczeństwa, czyli minimalizuje swój dyskomfort. Mówi „nie” perspektywie śmierci.
+
+
+# jesteśmy świadomi dokładnie po to, żeby się buntować :)
+
 
