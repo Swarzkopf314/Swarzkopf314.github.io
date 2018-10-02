@@ -63,4 +63,21 @@ więc niewolnik chce powiedzieć „nie”, ale unika niebezpieczeństwa, czyli 
 
 # jesteśmy świadomi dokładnie po to, żeby się buntować :)
 
+to, że świadomość rozwinęła się dokładnie po to, zeby organizmy unikały niebezpieczeństw, to bardzo konkretna teza
+i nawet pomocna w moim researchu, bo dzięki temu spostrzeżeniu mogę uprościć funkcję kosztu
 
+i algorytm działa wydajniej i dokładniej
+
+może dlatego tak mi się to podoba - bo widzę dokładnie przełożenie na formalną strukturę mojego programu
+
+faktycznie dla innych to może być taka tam jałowa teza, którą można zrozumieć na milion sposobów
+
+tough luck 🙂
+
+ale bardzo mi się to w tym wszystkim podoba, że pewne egzystencjalne tezy dają się w bardzo precyzyjny sposób interpretować w kontekście detali algorytmów uczenia maszynowego
+
+to naprawde bardzo inspirujące
+
+i odwrotnie, pewne rzeczy, które wychodzą przy konstrukcji algorytmów inpsirują ciekawe tezy egzystencjalne
+
+choćby to, że decyzyjność można opisać jako minimalizowanie dyskomfortu
