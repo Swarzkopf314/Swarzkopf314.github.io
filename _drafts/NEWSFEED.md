@@ -101,3 +101,9 @@ UWAGA - Tak więc piszemy dużo tego typu notatek i chcemy je linkować wzajemni
 ale ostatnio gadałem z mamą i mnie olśniło, że chemia jednak jest ważna, nawet, jeśli mija - bo ją pamiętasz i możesz ją wspominać. Kiedy nachodzą Cię wątpliwości, przypominasz sobie chemię i wiesz, że to jednak to
 działa nawet, jeśli jest tylko w pamięci. Możesz sobie ją wyobrazić i wiedzieć, że kiedyś ją czułaś właśnie do tego konkretnego człowieka.
 i może wtedy znowu ją poczuć na chwilę
+
+## pingwinie penisy
+
+Trzymanie kurczaków całe życie w ciasnych klatkach i podłych warunkach jest ok, ale amputacja pingwinowi penisa to barbarzyństwo. Ot nasza urocza "moralność".
+
+https://worldnewsdailyreport.com/seaworld-employee-arrested-for-smuggling-penguin-penises-to-china/
