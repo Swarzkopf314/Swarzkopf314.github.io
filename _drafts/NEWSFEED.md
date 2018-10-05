@@ -107,3 +107,5 @@ i może wtedy znowu ją poczuć na chwilę
 Trzymanie kurczaków całe życie w ciasnych klatkach i podłych warunkach jest ok, ale amputacja pingwinowi penisa to barbarzyństwo. Ot nasza urocza "moralność".
 
 https://worldnewsdailyreport.com/seaworld-employee-arrested-for-smuggling-penguin-penises-to-china/
+
+## W społeczeństwie pełnym masek największym trollem jest ten, kto mówi prawdę. ;>
