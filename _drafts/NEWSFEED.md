@@ -109,3 +109,9 @@ Trzymanie kurczaków całe życie w ciasnych klatkach i podłych warunkach jest 
 https://worldnewsdailyreport.com/seaworld-employee-arrested-for-smuggling-penguin-penises-to-china/
 
 ## W społeczeństwie pełnym masek największym trollem jest ten, kto mówi prawdę. ;>
+
+Rozbebeszający, wszędobylski intelekt. 
+
+W społeczeństwie pełnym masek największym trollem jest ten, kto mówi prawdę. Więc pytam o nią, przewrotnie i bezczelnie. 
+
+Od filozofii przez poezję i matematykę po IT.
