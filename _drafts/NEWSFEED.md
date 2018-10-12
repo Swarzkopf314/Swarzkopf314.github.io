@@ -115,3 +115,46 @@ Rozbebeszający, wszędobylski intelekt.
 W społeczeństwie pełnym masek największym trollem jest ten, kto mówi prawdę. Więc pytam o nią, przewrotnie i bezczelnie. 
 
 Od filozofii przez poezję i matematykę po IT.
+
+## beka z klimatologów, wrzucić analizę
+
+https://www.facebook.com/neuropa/posts/1574001302745407?__xts__%5B0%5D=68.ARBX8Mck0h_icWVcwRyBOsJfErc2Y-c-pEZfIvZSxXBgb5kh3Ng0UDzNEiwSTW6KxjJr8Xi0xgdb6OHIAlJcnwx5BMadXE5ciMv0HV_elGE2i3dGzX9fA8sdu7b295rx1vsLfM0pXYAvOAsIJEkz51pO9I3R_-K3Iar-YCDCdKAAFVv0NPJPIg&__tn__=K-R
+
+Czytaliście w ogóle te badania? np. to:
+[4] https://cowles.yale.edu/sites/default/files/files/pub/d20/d2096.pdf
+
+Na kilka pierwszych rzutów oka te badania to jakieś śmiechu warte. Panowie stosują jakieś regresje do mikrego zbioru danych i stąd koncypują jakieś estymaty. 
+
+Najważniejszym wnioskiem jest moim zdaniem to:
+
+"it appears that the quadratic or linear-quadratic is a reasonable way of
+approximating the shape of the damage function."
+
+Czy ktoś, kto się wczytał w tę pracę mógłby mi wyjaśnić, jak autorzy doszli do tego wniosku? I czy to czasem nie wynika po prostu z ich "intuicji" czy założeń wstępnych?
+
+Czyli panowie po prostu przeanalizowali wykresik i stąd te grube wnioski. To jest kpina.
+
+"A final important finding concerns the possibility of sharp thresholds in damages.
+Technically, this concerns the degree of convexity of the damage function. Many damage
+functions are assumed to be linear-quadratic (as for example in most versions of the DICE
+model). By contrast, some scholars believe that the damage function is more convex. An
+important example that has been used in policy discussions is an approach which
+assumes a sharp threshold at a temperature increase of 2 °C; implicitly this implies a very
+sharp kink in the curve near that threshold. There is virtually no information on this
+question in the impacts literature, but we can test it using the results collected here.
+Tests for thresholds or convexity are shown in Table 7 in the rows labeled
+“Exponent.” This reports results of an equation of the form . There are
+four versions of this: weighted and unweighted combined with ones with and without the
+linear term (γ). Note that, implicitly, the quadratic version has no linear term. The
+estimate of β averages 1.3 for four the different specifications. The four estimates of β are
+shown as the estimate of c(2) in the last four rows of Appendix Table A-7C. The authors’
+preferred estimate would be a weighted regression with the linear term, which has an
+exponent of β = 1.15 (+ 0.28). This result is important because it indicates that the impact
+estimates suggest a convexity that is less than quadratic. Moreover it strongly rejects
+damage estimates with a sharp discontinuity or convexity (as would be represented by a
+high value of β). Instead, it appears that the quadratic or linear-quadratic is a reasonable
+way of approximating the results of the damage studies.
+We can also examine the degree of polynomial in the FUND and PAGE09 models
+(from data supplied by their authors). In a linear-quadratic specification, the PAGE09
+model has an exponent of β = 1.82 (+ 0.20). The FUND model is virtually linear over the
+range of observations used in the MUP study."
