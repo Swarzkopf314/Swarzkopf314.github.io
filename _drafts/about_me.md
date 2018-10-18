@@ -57,12 +57,16 @@ Yet I have this prohibiting psychological feature, a strong need to be independe
 
 ### We are all in the gutter, but some of us are building rockets.
 
-Ten blog to zabawa, a Twoje życie to konwecja.
+Twoje życie to komedia improwizowana, żonglerka konwencjami, które bierzesz zbyt poważnie. Twoja wiedza to zbiór arbitralnych struktur, które mają sens, o ile możesz je sprawdzić w praktyce. Tym strukturom też za często ufasz. Przykładowo to, co nazywasz "kosmosem" jest dużo mniej realne, niż pies, którego głaszczesz albo kamień, którym możeesz rzucić. Jeśli nic nie wiesz, to wypada chociaż słuchać swojego serca.
 
-Jeśli mam nie być tragicznie śmieszny w tym życiu, to powinienem efektywnie poszukiwać prawdy o świecie i o sobie samym. Dopóki nie znam tej prawdy, wszystko, co robię, można poddać w wątpliwość. W razie czego wypada chociaż żyć dobrze.
+Jednakże skoro nic nie wiem, to mogę przewrotnie dociekać prawdy. Trolluję w ten sposób rzeczywistość i śmieję się w twarz pozornej pustce oraz ludziom, którzy "wiedzą" za dużo.
 
-Na tym blogu poszukuję prawdy, ale nieefektywnie, bo używam tu języka naturalnego i własnych intuicji. Jest to więc głównie rozrywka, która w najlepszym wypadku prowadzi do pomysłów przydatnych w bardziej poważnym zajęciu, jakim jest konstruowanie precyzyjnych, weryfikowalnych i działających modeli. Bo tworzyc i odkrywać tak naprawdę można tylko językiem ścisłym, reszta to rozrywkowa paplanina bez większego pokrycia. 
+Tutaj robię to mało poważnie, bo używam języka naturalnego, a kryterium prawdy jest moja intuicja; jest to więc na dobrą sprawę taka paplanina bez pokrycia. 
 
-Jeśli nie potrafisz tego zaprogramować, to tak naprawdę nie wiesz, co mówisz.
+Żeby szukać prawdy efektywnie, powinienem budować coś, co jest weryfikowalne w praktyce. Mamy dziś wspaniałe narzędzia poznawcze w postaci nauk ścisłych, w szczególności języków programowania, dzięki którym można budować precyzyjne struktury, które wykraczają daleko poza pojemność naszych umysłów i są niezależne od naszych intuicji i przekonań. Najbardziej złożona teoria może być obalona za pomocą odpowiedniego programu, który wbrew naszym nadziejom nie działa.
 
-Badania badaniami, na tym blogu się bawimy koncepcjami, w myśl maksymy, że największym trollem jest ten, kto szuka prawdy.
+Jeśli nie potrafisz tego zaprogramować, to tak naprawdę nie wiesz, co mówisz. 
+
+Jako, że nie podoba mi się perspektywa bycia egzystencjalnym pajacem, któremu za dużo się wydaje, to faktycznie tak robię. Programuję i weryfikuję swoje intuicje dotyczące działania świadomości. Efekty poznacie w przyszłości. Z resztą sami powinniście zacząć efektywnie szukać prawdy o nas i o świecie. No chyba, że nie macie czasu, bo pochłania Was jakaś codzienna, wyjęta z zadu konwencja, w którą wcisnęliście swoje życia. W takim wypadku życzę udanej śmierci.
+
+Ten blog to mimo wszystko zabawa. Humor, którego istotą nie jest gra słów czy zmyślny fałsz, tylko prawda. Na przekór. Zawsze i wszędzie. Bo można by odpuścić, wybrać łatwe rozwiązanie, skłamać. Tutaj kwestionujemy i pytamy tym bardziej, im bardziej mamy dość. Przecież to zabawne.
