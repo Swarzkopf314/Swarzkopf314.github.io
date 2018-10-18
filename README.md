@@ -18,10 +18,10 @@ Pisać tutaj notatki w formie postów? (Dział: posty nieuporządkowane?)
 
 # TODO
 
-- [ ] Dodać disqs na strone
+- [X] Dodać disqs na strone
 - [ ] Dodac link do coinow na LinkedIn?
 - [x] Dodać lepszy licznik odwiedzin?
-- [ ] [Google analytics](https://michaelsoolee.com/google-analytics-jekyll/)
+- [X] [Google analytics](https://michaelsoolee.com/google-analytics-jekyll/)
 - [ ] Airdrop tokenów przyszłych firm [howto](https://medium.freecodecamp.org/how-i-built-a-multi-token-airdrop-central-to-distribute-erc20-tokens-cb70b6218b5c)
 
 # COIN, promocja
