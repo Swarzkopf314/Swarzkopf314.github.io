@@ -16,6 +16,11 @@ również:
 
 Pisać tutaj notatki w formie postów? (Dział: posty nieuporządkowane?)
 
+theme:
+https://github.com/janczizikow/sleek
+https://janczizikow.github.io/sleek/
+https://jekyllrb.com/docs/themes/
+
 # TODO
 
 - [X] Dodać disqs na strone
