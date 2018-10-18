@@ -158,3 +158,28 @@ We can also examine the degree of polynomial in the FUND and PAGE09 models
 (from data supplied by their authors). In a linear-quadratic specification, the PAGE09
 model has an exponent of β = 1.82 (+ 0.20). The FUND model is virtually linear over the
 range of observations used in the MUP study."
+
+### każdy ruch jest trochę intelektualny
+
+salsa to gówno intelektualne
+
+co Ci sie nie podoba w salsie?
+Salsa
+miałem kolegę w liceum, który tańczył salsę, a teraz nawet jest instruktorem w jakiejś szkole
+wtedy też już był
+nawzajem sobą gardziliśmy, chociaż zachowywaliśmy pozory
+i gardziłem tym, jak się ruszał
+on w ogóle cały był tą salsą
+bardzo mi się z nim kojarzy
+takie dreptanie, pozornie wyluzowane, a tak naprawdę strasznie zadufane w sobie
+w ogóle nie lubię latino
+wyczuwam jakiś głęboki fałsz w tym wszystkim
+niby taka otwartość i wolność, ale jest w tym jakieś napięcie wewnątrz
+jakaś tragedia wewnętrzna. Ta salsa to taka radosna maska, która skrywa małostkowość i pustkę
+tak to odbieram
+nie ma w tym żadnej głębi
+jest pozór głębi w stylu "świat nie ma sensu, a my mimo to tańczymy"
+ale na tym sloganie się kończy
+niepogłębiony egzystencjalnie taniec
+w skrócie gówno intelektualne
+bo każdy ruch jest trochę intelektualny

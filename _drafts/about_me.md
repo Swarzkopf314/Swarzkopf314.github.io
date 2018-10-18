@@ -53,3 +53,16 @@ Programming is just an extension of logic - but it's practical and basically it'
 I'm pretty serious about it.
 
 Yet I have this prohibiting psychological feature, a strong need to be independent from others, from rules or even from death itself. I could work for Google (at least they were the first to contact me to start the recruitment process) but I realised I need to pursue my own goals, answer my own questions. It's pretty demanding as you can't see the immediate result of your effort - you follow your intuitions but you stay in the dark for the most part - and you start to doubt yourself. But the only way is to keep pushing.  
+
+
+### We are all in the gutter, but some of us are building rockets.
+
+Ten blog to zabawa, a Twoje życie to konwecja.
+
+Jeśli mam nie być tragicznie śmieszny w tym życiu, to powinienem efektywnie poszukiwać prawdy o świecie i o sobie samym. Dopóki nie znam tej prawdy, wszystko, co robię, można poddać w wątpliwość. W razie czego wypada chociaż żyć dobrze.
+
+Na tym blogu poszukuję prawdy, ale nieefektywnie, bo używam tu języka naturalnego i własnych intuicji. Jest to więc głównie rozrywka, która w najlepszym wypadku prowadzi do pomysłów przydatnych w bardziej poważnym zajęciu, jakim jest konstruowanie precyzyjnych, weryfikowalnych i działających modeli. Bo tworzyc i odkrywać tak naprawdę można tylko językiem ścisłym, reszta to rozrywkowa paplanina bez większego pokrycia. 
+
+Jeśli nie potrafisz tego zaprogramować, to tak naprawdę nie wiesz, co mówisz.
+
+Badania badaniami, na tym blogu się bawimy koncepcjami, w myśl maksymy, że największym trollem jest ten, kto szuka prawdy.
