@@ -57,7 +57,7 @@ Yet I have this prohibiting psychological feature, a strong need to be independe
 
 ### We are all in the gutter, but some of us are building rockets.
 
-Twoje życie to komedia improwizowana, żonglerka konwencjami, które bierzesz zbyt poważnie. Twoja wiedza to zbiór arbitralnych struktur, które mają sens, o ile możesz je sprawdzić w praktyce. Tym strukturom też za często ufasz. Przykładowo to, co nazywasz "kosmosem" jest dużo mniej realne, niż pies, którego głaszczesz albo kamień, którym możeesz rzucić. Jeśli nic nie wiesz, to wypada chociaż słuchać swojego serca.
+Twoje życie to komedia improwizowana, żonglerka konwencjami, które bierzesz zbyt poważnie. Twoja wiedza to zbiór arbitralnych struktur, które mają sens, o ile możesz je sprawdzić w praktyce, a bez tego są jałowymi historyjkami, które dają Ci co najwyżej poczucie, że coś rozumiesz. Tym strukturom też za często ufasz. Przykładowo to, co nazywasz "kosmosem" jest dużo mniej realne, niż pies, którego głaszczesz albo kamień, którym możeesz rzucić. Jeśli nic nie wiesz, to wypada chociaż słuchać swojego serca.
 
 Jednakże skoro nic nie wiem, to mogę przewrotnie dociekać prawdy. Trolluję w ten sposób rzeczywistość i śmieję się w twarz pozornej pustce oraz ludziom, którzy "wiedzą" za dużo.
 

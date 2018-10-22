@@ -183,3 +183,44 @@ ale na tym sloganie się kończy
 niepogłębiony egzystencjalnie taniec
 w skrócie gówno intelektualne
 bo każdy ruch jest trochę intelektualny
+
+
+### władza, mądry władca jest niewidzialny
+
+Właśnie napawam sie potencjalna wladza, jaka daje mi moja nowa wiedza 😀
+Dzis kolejne wazne rzeczy odkrylem
+Piekne i dziala
+Znowu sie wszystko uproscilo
+Musze jeszcze po te wladze siegnac
+
+tylko badz silny
+niech Cie nie przerosnie 😗
+
+brak władzy może mnie przerosnąć
+
+ciekawe, ta chec wladzy
+
+to nie jest chęć władzy, tylko chęć niezależności
+poza tym jestem dobry
+władza to nie ucisk
+władza to opieka
+chcesz, żeby los Hani był w Twoich rękach, chcesz mieć władzę nad jej losem
+dla jej dobra
+nie chcesz, żeby stało się coś poza Twoją władzą
+chcesz, żeby była wolna i do tego potrzebujesz siły, władzy nad wszystkim, co się może stać
+taką chcę władzę. Chcę ludzi inspirować i sprawiać, żeby robili rzeczy pożyteczne, a nie żmudne
+
+i ciesze sie, bo Ty jestes dobry i madry
+
+i żeby nie krzywdzili się nawzajem
+chcę mieć taką władzę, żeby nikt w ogóle nie wiedział, że ją mam
+
+mądry władca jest niewidzialny
+
+ludzie to takie zwierzątka właśnie, którymi też trzeba się opiekować. Ludzie jako masa
+
+i muszą czuć się wolni, żeby się rozwijać
+
+### ludzie powinni sprawdzać swoje idee/modele na komputerach, zanim w nie za mocno uwierzą
+
+### jedzenie świnek -> niespójność naszej moralności, powinno nas obrzydzać, a nie obrzydza
