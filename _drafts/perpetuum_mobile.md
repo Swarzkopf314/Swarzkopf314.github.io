@@ -1,0 +1,5 @@
+# Perpetuum mobile
+
+Czy dałbym je ludziom? Żeby zmaksymalizowac ich szczęście? Nie. Bóg milczy. Potrzebna jest niepewność, tajemnica, zagadka, świadomość wagi swoich decyzji, wolność. Jeśli jest Bóg, to jesteśmy uratowani, nic nie trzeba, wszystko wolno albo wręcz przeciwnie, jesteśmy niewolnikami. Sama świadomość, że Bóg istnieje - odbiera nam wolność. Żebyśmy byli wolni, Bóg musi milczeć. Mądry władca jest niewidzialny.
+
+Perpetuum mobile ukrywam przed ludźmi, ale sprawiam, że nieświadomie z niego korzystają. Stopniowo i uważnie poprawiam ich jakość życia, pozwalam im spełniać swoje pasje, pracować w pełni twórczo, odkrywać tajemnice, które oni sami uznają za najważniejsze, godne przeznaczenia dla nich swojego życia. Nie mogą wiedzieć, że nic nie muszą, bo przestanie im się chcieć. Muszą się rozwijać, czuć niepewność, groźbę porażki, mieć motywację. Muszą umieć unikać zła, buntować się przeciw złu. Bez możliwości zła znika prawdziwe dobro. Perpetuum mobile sprawia, że mogę opiekować się ludźmi i nie przejmować się, że pozostanę bezsilny w jakiejkolwiek sytuacji. Wszechmoc pozwala mi być kompetentnym opiekunem.

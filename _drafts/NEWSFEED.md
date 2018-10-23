@@ -224,3 +224,4 @@ i muszą czuć się wolni, żeby się rozwijać
 ### ludzie powinni sprawdzać swoje idee/modele na komputerach, zanim w nie za mocno uwierzą
 
 ### jedzenie świnek -> niespójność naszej moralności, powinno nas obrzydzać, a nie obrzydza
+
