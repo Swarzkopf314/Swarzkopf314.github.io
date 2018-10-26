@@ -223,5 +223,11 @@ i muszą czuć się wolni, żeby się rozwijać
 
 ### ludzie powinni sprawdzać swoje idee/modele na komputerach, zanim w nie za mocno uwierzą
 
+powinni wymieniać się intuicyjnymi ideami, ale ostatecznie powinni precyzować swoje modele w postaci programów i sprawdzać, czy te modele faktycznie działają w konretnych symulacjach. W życiowych problemach jest za dużo parametrów, żeby się łudzić, że to, co nam się wydaje jest w jakimkolwiek stopniu prawdziwe - dopóki tego w danym stopniu nie sprawdzimy.
+
+
 ### jedzenie świnek -> niespójność naszej moralności, powinno nas obrzydzać, a nie obrzydza
 
+### ludzie zapośredniczają swój byt
+
+Bo żyją w prostych konwencjach, idą stąd-dotąd, zamiast dziać się tu i teraz. Jeśli są pochłonięci ideą, to ich byt sprowadza się do tej idei, więc są tym prostsi, im mniej złożone są idee, którymi zaprzątają sobie głowy. Ludzie są zazwyczaj prości i nieciekawi.

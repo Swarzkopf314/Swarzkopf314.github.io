@@ -57,11 +57,11 @@ Yet I have this prohibiting psychological feature, a strong need to be independe
 
 ### We are all in the gutter, but some of us are building rockets.
 
-Twoje życie to komedia improwizowana, żonglerka konwencjami, które bierzesz zbyt poważnie. Twoja wiedza to zbiór arbitralnych struktur, które mają sens, o ile możesz je sprawdzić w praktyce, a bez tego są jałowymi historyjkami, które dają Ci co najwyżej poczucie, że coś rozumiesz. Tym strukturom też za często ufasz. Przykładowo to, co nazywasz "kosmosem" jest dużo mniej realne, niż pies, którego głaszczesz albo kamień, którym możeesz rzucić. Jeśli nic nie wiesz, to wypada chociaż słuchać swojego serca.
+Twoje życie to komedia improwizowana, żonglerka konwencjami, które bierzesz zbyt poważnie. Twoja wiedza to zbiór arbitralnych struktur, które mają sens, o ile możesz je sprawdzić w praktyce, a bez tego są jałowymi historyjkami, które dają Ci co najwyżej poczucie, że coś rozumiesz. Tym strukturom też za często ufasz. Przykładowo to, co nazywasz "kosmosem" jest dużo mniej realne, niż pies, którego głaszczesz albo kamień, którym możesz rzucić. Jeśli nic nie wiesz, to wypada chociaż słuchać swojego serca.
 
 Jednakże skoro nic nie wiem, to mogę przewrotnie dociekać prawdy. Trolluję w ten sposób rzeczywistość i śmieję się w twarz pozornej pustce oraz ludziom, którzy "wiedzą" za dużo.
 
-Tutaj robię to mało poważnie, bo używam języka naturalnego, a kryterium prawdy jest moja intuicja; jest to więc na dobrą sprawę taka paplanina bez pokrycia. 
+Tutaj robię to mało poważnie, bo używam języka naturalnego, a kryterium prawdy jest moja intuicja; jest to więc na dobrą sprawę paplanina bez pokrycia. 
 
 Żeby szukać prawdy efektywnie, powinienem budować coś, co jest weryfikowalne w praktyce. Mamy dziś wspaniałe narzędzia poznawcze w postaci nauk ścisłych, w szczególności języków programowania, dzięki którym można budować precyzyjne struktury, które wykraczają daleko poza pojemność naszych umysłów i są niezależne od naszych intuicji i przekonań. Najbardziej złożona teoria może być obalona za pomocą odpowiedniego programu, który wbrew naszym nadziejom nie działa.
 
@@ -70,3 +70,15 @@ Jeśli nie potrafisz tego zaprogramować, to tak naprawdę nie wiesz, co mówisz
 Jako, że nie podoba mi się perspektywa bycia egzystencjalnym pajacem, któremu za dużo się wydaje, to faktycznie tak robię. Programuję i weryfikuję swoje intuicje dotyczące działania świadomości. Efekty poznacie w przyszłości. Z resztą sami powinniście zacząć efektywnie szukać prawdy o nas i o świecie. No chyba, że nie macie czasu, bo pochłania Was jakaś codzienna, wyjęta z zadu konwencja, w którą wcisnęliście swoje życia. W takim wypadku życzę udanej śmierci.
 
 Ten blog to mimo wszystko zabawa. Humor, którego istotą nie jest gra słów czy zmyślny fałsz, tylko prawda. Na przekór. Zawsze i wszędzie. Bo można by odpuścić, wybrać łatwe rozwiązanie, skłamać. Tutaj kwestionujemy i pytamy tym bardziej, im bardziej mamy dość. Przecież to zabawne.
+
+### Rozbebeszający, wszędobylski intelekt
+
+Ciekawskie, wszędobylskie stworzenie, które rozbebesza różne idee, miejsca czy emocje z ciekawości, co znajdzie w środku, a potem układa z wydobytego sedna eleganckie konstrukcje.
+
+Ten blog to zbiór moich małych trofeów intelektualnych, rzeczy, które rozbebeszyłem, część z nich robebeszam dalej, część mnie znudziła. Chciałbym kiedyś robebeszyć całą rzeczywistość i spotkać ukrytego demiurga.
+
+Dlatego część rzeczy rozbebeszam poważnie, precyzyjnymi, weryfikowalnymi i niesłychanie ogólnymi narzędziami, jakimi są pobłogosławione nasze czasy - języki i nauki ścisłe, w tym także języki programowania. Bo dopóki nie potrafisz czegoś zaprogramować, tak naprawdę nie wiesz, co mówisz. A dopóki ten program nie działa odpowiednio, Twoja idea nie ma żadnego pokrycia.
+
+Ale czasem pokryciem może być intuicja, poczucie estetyczne czy zwyczajnie zabawa, dlatego inne rzeczy traktuję po prostu pazurami, dla zabicia czasu. Kto wie, czy w środku nie znajdę czegoś użytecznego. Głównie dla tych rzeczy znajdzie się tu miejsce.
+
+Z pobłażaniem przyglądam się wszechobecnym komediom improwizowanym, żonglerce konwencjami, przekonaniu, że wszystko jest odkryte. Dlatego ludzie kłamią, odrywają się od rzeczywistości, która ich znudziła, bo nigdy jej nie poznali. Stają się swoimi własnymi, przewidywalnymi historiami, a w całym ich świecie jest mniej treści, niż w spojrzeniu ptaka czy zdziwieniu psa. Ostatecznie więc trzeba żyć dobrze, bo cały ten kosmos, który napaplaliśmy wokół siebie, jest mniej realny, niż cichy głos serca.
