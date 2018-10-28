@@ -8,7 +8,7 @@ Ciekawskie, wszędobylskie stworzenie, które rozbebesza różne idee, miejsca c
 
 Ten blog to zbiór moich małych trofeów intelektualnych, rzeczy, które rozbebeszyłem, część z nich robebeszam dalej, część mnie znudziła. Chciałbym kiedyś robebeszyć całą rzeczywistość i spotkać ukrytego demiurga.
 
-Dlatego część rzeczy rozbebeszam poważnie, precyzyjnymi, weryfikowalnymi i niesłychanie ogólnymi narzędziami, jakimi są pobłogosławione nasze czasy - języki i nauki ścisłe, w tym także języki programowania. Bo dopóki nie potrafisz czegoś zaprogramować, tak naprawdę nie wiesz, co mówisz. A dopóki ten program nie działa odpowiednio, Twoja idea nie ma żadnego pokrycia.
+Dlatego część rzeczy rozbebeszam poważnie, precyzyjnymi, weryfikowalnymi i niesłychanie ogólnymi narzędziami, jakimi są pobłogosławione nasze czasy - języki i nauki ścisłe, w tym także języki programowania. Bo dopóki nie potrafisz czegoś zaprogramować, tak naprawdę nie wiesz, co mówisz. A dopóki ten program nie działa odpowiednio, Twoja idea nie ma pokrycia w rzeczywistości.
 
 Ale czasem pokryciem może być intuicja, poczucie estetyczne czy zwyczajnie zabawa, dlatego inne rzeczy traktuję po prostu pazurami, dla zabicia czasu. Kto wie, czy w środku nie znajdę czegoś użytecznego. Głównie dla tych rzeczy znajdzie się tu miejsce.
 

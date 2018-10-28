@@ -231,3 +231,67 @@ powinni wymieniać się intuicyjnymi ideami, ale ostatecznie powinni precyzować
 ### ludzie zapośredniczają swój byt
 
 Bo żyją w prostych konwencjach, idą stąd-dotąd, zamiast dziać się tu i teraz. Jeśli są pochłonięci ideą, to ich byt sprowadza się do tej idei, więc są tym prostsi, im mniej złożone są idee, którymi zaprzątają sobie głowy. Ludzie są zazwyczaj prości i nieciekawi.
+
+### Czy coś może mieć trzecie dno, jeśli nie ma drugiego?
+
+Ja myślę, że tak. Drugie dno to np. podtekst. Coś może mieć potencjalny podtekst, ale tak naprawdę go nie ma, a trzecim dnem jest właśnie wrobienie kogoś w zastanawianie się, czy ten podtekst tam jest i wyciąganie wniosków z wniosków, jakie ten ktoś wyciąga.
+
+np. zapraszasz kogoś na kawę, ten ktoś się zastanawia, czy jest tu drugie dno i czy to nie ma być randka, a Ty tak naprawdę chciałaś wybadać uczucia tego kogoś i sprawdzić, czy odbierze to jak zaproszenie na randkę, kiedy Ty tak naprawdę chcesz tylko pogadać o czymś innym. Wtedy zaproszenie na kawę nie ma drugiego dna, ale ma trzecie.
+
+No raczej nie. Jeżeli chcesz wybadać uczucia to właśnie jest drugie dno
+
+Trzecie, bo bez pozornego drugiego by się nie udało.
+
+Ale drugie dno istnieje
+Ma go ta druga osoba myśląca czy to jest randka
+
+Ważna uwaga. Tylko dlaczego ludzie pytają o drugie dno? Bo mają kandydata na drugie dno, zazwyczaj jest jeden sensowny kandydat. I przyjmują, że drugie dno tam jest, jeśli było zamierzone, tj. było częścią komunikatu. Więc to, że ono istnieje u drugiej osoby jeszcze nie znaczy, że ono tam jest - musi przyjść potwierdzenie od nadawcy, że faktycznie je tam umieścił. Ale nadawca nie chciał go tam umieścić - natomiast chciał, żeby odbiorca o nie zapytał. Dlatego nadawca umieścił trzecie dno, ale nie drugie. Drugie to taki decoy.
+
+Myśle ze drugie dno = ukryte znaczenie i tutaj „drugie” jest jako inne a nie jako drugie z kolei
+Podobnie druga strona medalu
+I n-te dno będzie ciagle drugim dnem
+
+No ale w tej sytuacji trzecim - zamierzonym - dnem jest zmanipulowanie odbiorcy, aby zapytał o bardzo konkretne drugie dno. Ok, można powiedzieć, że to po prostu jest inne drugie dno, a tego pierwszego tam nie ma. Ale skoro to drugie drugie dno jest drugie, bo najpierw trzeba pomyśleć pierwsze pozorne, to można chyba nazwać je trzecim dnem?
+
+Ja obstaje przy swoim
+Po angielsku masz hidden agenda
+I nie jest zależne od liczebnika
+
+no ale zobacz, gdyby to drugie dno tam faktycznie było, to chyba zgodziłbyś się, że jest też trzecie? Np. zapraszam kogoś na kawę, drugim dnem jest to, że faktycznie chcę zaprosić tego kogoś na randkę, a trzecim dnem jest zobaczenie, jak ta osoba zareaguje na drugie dno.
+Ale jeśli ja wcale nie chcę randki, ale chcę zobaczyć reakcję na potencjalne drugie dno, to można powiedzieć, że nie ma drugiego dna
+no ale trzecie przecież zostaje
+
+Dla mnie to wciąż powiedzenie xd
+I dla mnie drugie i dno jest łączne
+
+no to możesz zamiast "trzecie dno" mówić "drugie dno drugiego dna" i masz to samo
+przeformułuj sobie moją argumentację i dostaniesz przykład na istnienie komunikatu z drugim dnem drugiego dna, ale bez drugiego dna 😜
+w pełni precyzyjnie to byłoby: drugie dno pozornego drugiego dna
+więc wszystko sprowadza się faktycznie do tego, jak zdefiniujemy trzecie dno - czy będzie tylko to drugie dno istniejącego drugiego dna, czy także drugie dno nawet pozornego drugiego dna.
+
+No a jak się gra w szachy i ktoś zrobi ruch a druga osoba pomyśli o chce bym się ruszył tu to ustawie tu na co pierwszy pewnie zrobię to bo pomyśli ze chce tamtego na co znowu tamten pomyśli „a co jeśli spodziewa się ze go zblefuje...”
+To mamy czwarte dno?
+
+no na moje mamy
+dobry przykład podałeś
+
+Zostawię to i czekam na komentarz reszty
+Bo ja wszystko bym opisał jako drugie dno
+
+więc za pomocą szachów można generować przykłady na N-te dno dla całkiem dużych N
+Tak naprawdę doszliśmy do sporu o definicję "drugiego dna". Twoja jest dość gruba i znaczy coś w rodzaju "dowolne ukryte znaczenie". Moja jest bardziej zniuansowana i rozróżnia hierarchię ukrytych znaczeń. O definicje nie ma się co spierać. Wg Twojej definicji w ogóle nie może istnieć taki byt jak "trzecie dno". Za pomocą mojego pojęcia da się zdefiniować Twoje, ale nie odwrotnie.
+A nie, za pomocą Twojego można też oczywiście iteracyjnie wydefiniować N-te dno dla każdego N, więc w sumie git. Więc Ty też rozróżniasz N-te dno, tylko dla Ciebie N-te dno jest także M-tym dnem dla każdego M mniejszego lub równego N.
+I dlatego wg Ciebie nie może istnieć trzecie dno bez drugiego, bo 2 < 3 i trzecie dno jest także drugim dnem.
+Więc problem sprowadza się do tego, czy uznamy, że N-te dno jest M-tym dnem dla M <= N.
+Ja twierdzę, że śmieszniej jest tak nie uznać, bo wtedy prawdziwe są zabawne twierdzenia w stylu "istnieje trzecie dno, ale nie ma drugiego".
+Więc problem sprowadza się w gruncie rzeczy do tego, czy chcemy być nudni.
+
+### mega tekst na podryw
+
+O cholera, to niezły test psychologiczny, zacznę o to pytać laski na randkach.
+
+podchodzisz do nieznanej laski i pytasz: "Czy komunikat może mieć trzecie dno, ale nie mieć drugiego?". Genialne. Dzięki.
+i zacznie się zastanawiać nad drugim i trzecim dnem tego tekstu! 😀 A tak naprawdę chodzi o to, żeby zobaczyć jej reakcję
+Czyli sam ten komunikat będzie miał trzecie dno, ale niekoniecznie drugie
+
+Jak odpowie "tak, właśnie podałeś przykład" to wiem, że warto :D
