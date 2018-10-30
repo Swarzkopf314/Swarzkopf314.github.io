@@ -324,3 +324,11 @@ W kontrargumencie mówię o żulach, ale tak naprawdę chodzi o 100k przeciętny
 
 Żule z czasem się nauczą, a ich interesy się uśrednią. Ciężko uśrednić interesy garstki profesorów.
 
+
+Z założenia nie są. Mi chodziło o odniesienie się do argumentu przeciw demokracji, że "żul spod budy ma taki sam głos, jak profesor z uniwersytetu". Żuli jest więcej, niż profesorów i jako masa są dużo mądrzejsi, niż pojedynczy żul. Łatwo uśrednić interesy wielu żuli, którzy jako kolektyw działają dla swojego dobra, trudniej sprawić, żeby garstka profesorów cały czas stosowała dobre i bezstronne modele.
+
+Oczywiście powiedziałem o żulach i profesorach, bo pierwotny argument o nich traktuje. Tak naprawdę chodzi o "szarych ludzi" vs "elity". Skoro świadomość społeczna najwyraźniej rośnie z czasem, to demokracja jest całkiem dobrym modelem, bo z samej kontrukcji nie daje żadnej grupie "legitymacji" do nadużywania władzy, tylko liczy na mądrość zbiorową, która z czasem rośnie.
+
+No ale właśnie żuli/szarych ludzi jest więcej, niż profesorów/elit. Więc wskazuję raczej, że oryginalny argument ma błędne ukryte założenie, bo nie można porównywać żula i profesora (1:1) w kontekście demokracji.
+
+Inna rzecz, że 100 żuli prędzej podejmie w miarę dobrą decyzję, niż 100 profesorów jakąkolwiek.
