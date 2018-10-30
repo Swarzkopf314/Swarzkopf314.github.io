@@ -295,3 +295,32 @@ i zacznie się zastanawiać nad drugim i trzecim dnem tego tekstu! 😀 A tak na
 Czyli sam ten komunikat będzie miał trzecie dno, ale niekoniecznie drugie
 
 Jak odpowie "tak, właśnie podałeś przykład" to wiem, że warto :D
+
+A ja wtedy: "nieprawda, bo faktycznie chcę Cię zaprosić na randkę!" :PP
+
+## demokracja 
+
+Żul spod budy może nie znać się na rządzeniu państwem. Ale 100 tysięcy żuli w dłuższej perspektywie może podjąć dużo lepsze decyzje, niż jeden profesor prawa. Być może nawet lepsze, niż 100 tysięcy profesorów prawa...
+
+Demokracja to bardzo dobry model, wszystko inne prowadzi do nadużyć władzy. Problemem nie jest demokracja, tylko tabloidyzacja polityki i mediów.
+
+Nie możesz też dzielić ludzi na lepszych i gorszych przydzielając ich głosom różną wagę, bo to myślenie z gruntu nazistowskie ze wszystkimi tego wadami i zagrożeniami. Ludzie jako masa mają dostatecznie dużo intuicji i rozsądku, to jest wręcz fakt statystyczny (Prawo Wielkich Liczb).
+
+Trzeba raczej podnosić świadomość społeczną i wymogi merytoryczne wobec mediów albo znaleźć dla tych mediów alternatywę, np. jakieś obowiązkowe lokalne kluby dyskusyjne dla głosujących czy cokolwiek, ot pierwszy lepszy pomysł.
+
+
+"wszystko inne prowadzi do nadużyć władzy", bo demokracja jest niby od tego wolna? I te słowa padają w sytuacji, gdzie osoby z wyrokami zostają wybrane na włodarzy? Gdzie całe grono ludzi zamieszanych w afery wciąż ma swoje stołki?
+
+
+No właśnie o to chodzi, że fakt, że w demokracji "całe grono ludzi zamieszanych w afery wciąż ma swoje stołki" nas oburza. W monarchii na przykład byłoby to oczywiste, z góry założone przez model. W demokracji wszyscy ludzie cyklicznie wybierają władzę, więc z założenia chodzi właśnie o to, żeby żadne grono ludzi nie miało co do zasady "legitymacji" do nadużywania władzy.
+
+Lepszy model może dać nam dopiero technologia, np. państwa z demokracją bezpośrednią na blockchainie, bo tam faktycznie o nadużycia technicznie bardzo trudno.
+
+W ogóle sam fakt, że o tych aferach wiemy, to zasługa modelu demokratycznego.
+
+Ukrytym założeniem demokracji jest przecież to, że świadomość społeczna rośnie z czasem; i tak faktycznie się dzieje na świecie.
+
+W kontrargumencie mówię o żulach, ale tak naprawdę chodzi o 100k przeciętnych obywateli. A mówię o żulach, zeby odnieść się do argumentu „profesor powinien mieć większy głos, niż żul”. Tyle. Zastosowałem analogiczne uproszczenie.
+
+Żule z czasem się nauczą, a ich interesy się uśrednią. Ciężko uśrednić interesy garstki profesorów.
+
