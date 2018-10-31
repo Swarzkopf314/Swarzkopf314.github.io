@@ -101,3 +101,4 @@ zamiast pomóc je przyrządzić
 dlatego nie jest to środowisko, w którym ja osobiście mogę się rozwijać
 albo gadki o czymś dobrze znanym i oczywistym, albo wyrzucanie za okno idei surowych, ale ciekawych
 mensanie musza mieć wszystko podane na talerzu, sami nie obiorą tych jebanych ziemniaków
+
