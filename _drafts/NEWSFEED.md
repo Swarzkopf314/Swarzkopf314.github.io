@@ -308,7 +308,7 @@ Nie możesz też dzielić ludzi na lepszych i gorszych przydzielając ich głoso
 
 Trzeba raczej podnosić świadomość społeczną i wymogi merytoryczne wobec mediów albo znaleźć dla tych mediów alternatywę, np. jakieś obowiązkowe lokalne kluby dyskusyjne dla głosujących czy cokolwiek, ot pierwszy lepszy pomysł.
 
-
+Jakaś cipa:
 "wszystko inne prowadzi do nadużyć władzy", bo demokracja jest niby od tego wolna? I te słowa padają w sytuacji, gdzie osoby z wyrokami zostają wybrane na włodarzy? Gdzie całe grono ludzi zamieszanych w afery wciąż ma swoje stołki?
 
 
@@ -332,3 +332,15 @@ Oczywiście powiedziałem o żulach i profesorach, bo pierwotny argument o nich 
 No ale właśnie żuli/szarych ludzi jest więcej, niż profesorów/elit. Więc wskazuję raczej, że oryginalny argument ma błędne ukryte założenie, bo nie można porównywać żula i profesora (1:1) w kontekście demokracji.
 
 Inna rzecz, że 100 żuli prędzej podejmie w miarę dobrą decyzję, niż 100 profesorów jakąkolwiek.
+
+MD:
+W kwestiach etycznych zaufałbym bardziej profesorowi etyki, który jest w stanie zaobserwować milion żuli i zrozumieć przyczyny ich zachowań. Owszem, niektóre negatywne zachowania w tłumie się wygaszają, ale inne są wzmacniane. W szczególności żule są podatne na strach i stąd wybierają na lidera kogoś takiego jak Hitler.
+
+MS:
+A profesorów możesz zastraszyć, przekupić, zdemoralizować, etc.
+
+"Głupich jest więcej, niż mądrych" to zły argument przeciw demokracji, bo masa głupich jest mądrzejsza od jednego głupiego i mniej podatna na błędy, manipulacje i nadużycia, niż kilku mądrych.
+
+Nawet głupi ludzie mają intuicyjną mądrość życiową, której może zabraknąć profesorom, zwłaszcza, jeśli trudno jest wymodelować jakieś zjawisko. Ta mądrość życiowa głupich się uśrednia i wychodzi coś, co a priori nie musi być dużo głupsze od decyzji mędrców w perspektywie czasu i na pewno jest mniej podatne na błędy i nadużycia.
+
+Tak naprawdę to nie wiem, czy mam rację, ale możliwe, że mam rację, a skoro możliwe, że mam rację, to argument "głupich jest więcej, niż mądrych" jest niewystarczający, co chciałem wykazać.
