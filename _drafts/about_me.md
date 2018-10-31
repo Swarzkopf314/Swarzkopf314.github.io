@@ -82,3 +82,22 @@ Dlatego część rzeczy rozbebeszam poważnie, precyzyjnymi, weryfikowalnymi i n
 Ale czasem pokryciem może być intuicja, poczucie estetyczne czy zwyczajnie zabawa, dlatego inne rzeczy traktuję po prostu pazurami, dla zabicia czasu. Kto wie, czy w środku nie znajdę czegoś użytecznego. Głównie dla tych rzeczy znajdzie się tu miejsce.
 
 Z pobłażaniem przyglądam się wszechobecnym komediom improwizowanym, żonglerce konwencjami, przekonaniu, że wszystko jest odkryte. Dlatego ludzie kłamią, odrywają się od rzeczywistości, która ich znudziła, bo nigdy jej nie poznali. Stają się swoimi własnymi, przewidywalnymi historiami, a w całym ich świecie jest mniej treści, niż w spojrzeniu ptaka czy zdziwieniu psa. Ostatecznie więc trzeba żyć dobrze, bo cały ten kosmos, który napaplaliśmy wokół siebie, jest mniej realny, niż cichy głos serca.
+
+### o trybie, w jakim przedstawiam idee - kładę na stół idee w stanie surowym i je rozbebeszam, aby zobaczyć, jakie sedno z nich zostanie. 
+
+Czy dane zjawisko jest instancją ogólniejszej zależności? Jakiej? Rozbebeszam, stawiam śmiałe intuicje, żeby sprawdzić, ile zostanie z nich prawdy.
+
+więc ataki na nią są dla mnie stratą czasu
+to, że uznały, że jest do dupy w niczym mi nie pomaga
+jeśli nie potrafią znaleźć w tym krztyny prawdy i pomóc mi do niej dojść, do mogliby się przymknąć
+pewnie jest fundamentalne niezrozumienie co do trybu, w jakim dzielę się tymi refleksjami
+ja je właśnie wykładam na stół i mówię „słuchajcie, tu w środku jest jakaś prawda, pomóżcie mi ją wydobyć"
+ale Wy to rozumiecie tak: „słuchajcie, to jest prawda objawiona, w 100% słuszna i spróbujcie mi pokazać, że się mylę, barany"
+stąd się bierze potem moje wkurwienie i zawód
+naprawdę nie ma nic prostszego i nudniejszego, niż obalenie idei, która nie jest dopracowana, tylko położona na stół w stanie surowym
+ale mensanie lubują się w wyrzucaniu za okno surowych idei
+zamiast pomóc je przyrządzić
+
+dlatego nie jest to środowisko, w którym ja osobiście mogę się rozwijać
+albo gadki o czymś dobrze znanym i oczywistym, albo wyrzucanie za okno idei surowych, ale ciekawych
+mensanie musza mieć wszystko podane na talerzu, sami nie obiorą tych jebanych ziemniaków
