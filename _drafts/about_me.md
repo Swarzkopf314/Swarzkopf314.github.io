@@ -83,9 +83,9 @@ Ale czasem pokryciem może być intuicja, poczucie estetyczne czy zwyczajnie zab
 
 Z pobłażaniem przyglądam się wszechobecnym komediom improwizowanym, żonglerce konwencjami, przekonaniu, że wszystko jest odkryte. Dlatego ludzie kłamią, odrywają się od rzeczywistości, która ich znudziła, bo nigdy jej nie poznali. Stają się swoimi własnymi, przewidywalnymi historiami, a w całym ich świecie jest mniej treści, niż w spojrzeniu ptaka czy zdziwieniu psa. Ostatecznie więc trzeba żyć dobrze, bo cały ten kosmos, który napaplaliśmy wokół siebie, jest mniej realny, niż cichy głos serca.
 
-### o trybie, w jakim przedstawiam idee - kładę na stół idee w stanie surowym i je rozbebeszam, aby zobaczyć, jakie sedno z nich zostanie. 
+### o trybie, w jakim przedstawiam idee - kładę na stół idee w stanie surowym i je rozbebeszam, aby zobaczyć, jakie sedno z nich zostanie.
 
-Czy dane zjawisko jest instancją ogólniejszej zależności? Jakiej? Rozbebeszam, stawiam śmiałe intuicje, żeby sprawdzić, ile zostanie z nich prawdy.
+Czy dane zjawisko jest instancją ogólniejszej zależności? Jakiej? Rozbebeszam, stawiam śmiałe intuicje, żeby sprawdzić, co z nich zostanie.
 
 więc ataki na nią są dla mnie stratą czasu
 to, że uznały, że jest do dupy w niczym mi nie pomaga
