@@ -102,3 +102,22 @@ dlatego nie jest to środowisko, w którym ja osobiście mogę się rozwijać
 albo gadki o czymś dobrze znanym i oczywistym, albo wyrzucanie za okno idei surowych, ale ciekawych
 mensanie musza mieć wszystko podane na talerzu, sami nie obiorą tych jebanych ziemniaków
 
+### marzenie o filozofii programistycznej
+
+Marzy mi się upowszechnienie się takiej metody filozofowania a wręcz sposobu myślenia - pisanie programu jako uzupełnienie wypowiedzi. Tworzenie testu do programu jako sprawdzenie, czy przedstawiona idea działa. Czyli potrafimy szybko weryfikować swoje pomysły i szybko odrzucać błędne, a te poprawne rozbudowywać w sposób wcześniej niespotykany.
+
+Program to zarówno rozszerzenie umysłu, jak i rzeczywistości - jest jednocześnie plastyczny, kreowany przez umysł, ale też jego działanie jest realne, weryfikowane przez rzeczywistość. 
+
+Sam tak robię oficjalnie od roku i uważam, że wykonałem pracę, która trwałaby dziesięciolecia, gdybym nie miał możliwości szybko weryfikować swoich pomysłów w Pythonie.
+
+Ostatecznie jeśli ktoś nie potrafi takiego programu napisać, to tak naprawdę do końca sam nie wie, co mówi.
+
+### dociekliwy człowiek współczesny i jaskiniowiec
+
+"Swoją drogą różnica w rozmiarach moich powyższych wiadomości uświadamia mi, jak faktycznie wielkie skróty myślowe robię zazwyczaj, bo ja naprawdę wierzyłem, że moje pierwotne pytanie przekazuje to wszystko, co przekazała ta długa wypowiedź. Nawet ciągle w to wierzę, wręcz wydaje mi się to oczywiste. Pewnie stąd się bierze większość nieporozumień w rozmowach ze mną ;( Mariusz Baran, podziwiaj."
+
+Idzie sobie dociekliwy człowiek współczesny i spotyka jaskiniowca. Z ciekawości, co sądzi jaskiniowiec, człowiek współczesny dzieli się z nim zagadnieniem, które właśnie go nurtuje. Jaskiniowiec puka się w czoło. Dociekliwy człowiek współczesny idzie dalej, tylko lekko poruszony.
+
+Jakiś czas później człowiek współczesny spotyka dociekliwego jaskiniowca. Radośnie dzieli się z nim swoimi dociekaniami, aby poznać zdanie dociekliwego jaskiniowca. Ale dociekliwy jaskiniowiec twierdzi, że człowiek współczesny wypowiada się niezrozumiale i dopytuje o sformułowania i skróty myślowe, których człowiek współczesny użył. Człowiek współczesny stara się wytłumaczyć, ale jego tłumaczenia generują tylko pytania o kolejne sformułowania, których użył w swoich tłumaczeniach swoich poprzednich sformułowań. Z czasem okazuje się, że jaskiniowiec musiałby nadrobić całą historię, która dzieli go od człowieka współczesnego, aby mógł porozmawiać o idei, którą przedstawił mu człowiek współczesny na początku. Dociekliwy człowiek współczesny jest podłamany i sfrustrowany, tym bardziej, że jaskiniowiec ma go teraz za buca.
+
+Cóż, dociekliwy człowiek współczesny idzie dalej...
