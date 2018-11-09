@@ -344,3 +344,8 @@ A profesorów możesz zastraszyć, przekupić, zdemoralizować, etc.
 Nawet głupi ludzie mają intuicyjną mądrość życiową, której może zabraknąć profesorom, zwłaszcza, jeśli trudno jest wymodelować jakieś zjawisko. Ta mądrość życiowa głupich się uśrednia i wychodzi coś, co a priori nie musi być dużo głupsze od decyzji mędrców w perspektywie czasu i na pewno jest mniej podatne na błędy i nadużycia.
 
 Tak naprawdę to nie wiem, czy mam rację, ale możliwe, że mam rację, a skoro możliwe, że mam rację, to argument "głupich jest więcej, niż mądrych" jest niewystarczający, co chciałem wykazać.
+
+### french
+
+d'accord jest takie dziewczęce, filigranowe, kokieteryjne, a très bien bardziej zmysłowe, namiętne, wyzywające
+i oba znaczą to samo

@@ -73,7 +73,7 @@ Ten blog to mimo wszystko zabawa. Humor, którego istotą nie jest gra słów cz
 
 ### Rozbebeszający, wszędobylski intelekt
 
-Ciekawskie, wszędobylskie stworzenie, które rozbebesza różne idee, miejsca czy emocje z ciekawości, co znajdzie w środku, a potem układa z wydobytego sedna eleganckie konstrukcje.
+Ciekawskie, wszędobylskie stworzenie, które rozbebesza idee, miejsca czy emocje z ciekawości, co znajdzie w środku, a potem układa z wydobytego sedna eleganckie konstrukcje.
 
 Ten blog to zbiór moich małych trofeów intelektualnych, rzeczy, które rozbebeszyłem, część z nich robebeszam dalej, część mnie znudziła. Chciałbym kiedyś robebeszyć całą rzeczywistość i spotkać ukrytego demiurga.
 
