@@ -1,3 +1,10 @@
+# TODO teksty
+
+ptaki (ich życie jest przed nami odsłonięte, prowadzą je równolegle, bez żenady, czasem się spotykamy, nasze ścieżki się przecinają)
+wege (sprzeczność w moralności, ustawa, bajki dla dzieci, pobłażliwość sądów, niesmak) 
+314
+programowanie obiektowe (skąd się bierze, chcemy coś zmienić w kodzie, dzielimy na funkcje, potem na grupy funkcji,
+które współdzielą stan (obiekty), potem na grupy obiektów, które współdzielą stan (kolejne obiekty i delegacja), możemy chcieć coś zmienić w grupie funkcji (dziedziczenie))
 
 wykorzystać moje poprzednie osiągnięcia, zwłaszcza:
 - licencjat, 
