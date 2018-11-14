@@ -349,3 +349,20 @@ Tak naprawdę to nie wiem, czy mam rację, ale możliwe, że mam rację, a skoro
 
 d'accord jest takie dziewczęce, filigranowe, kokieteryjne, a très bien bardziej zmysłowe, namiętne, wyzywające
 i oba znaczą to samo
+
+### etyka 
+
+[spostrzeżenie] społeczność + walka o zasoby + ograniczona dysproporcja siły jednostek => powstaje etyka (w interesie silnych, tj. silni muszą mieć motywację - najprościej intuicyjną, więc etyczną - żeby nie wykorzystywać słabszych, bo zostaną wyeliminowani przez pewną grupę słabszych lub odizolowani od społeczności). Etyka jest potrzebna silniejszemu, słabszy ma inne motywacje.
+
+Etyka to narzędzie regulujące zachowanie, które na dłuższą metę pozwala przetrwać w społeczeństwie osobnikom silnym, którzy nie są bezpośrednio zagrożeni, więc strach czy instynkt samozachowawczy nie działają.
+
+Sęk w tym, że słabi też mogą być silni pośród słabych, więc oni także potrzebują zmysłu etycznego.
+
+Moje spostrzeżenie spostrzega, że motywacją dla etyki jest długoterminowe przetrwanie silnych w społeczeństwie słabszych. Nie widzę motywacji dla etyki w sytuacji słabszego. Słabszy niejako nie ma wyboru, bo musi grać tak, jak mu zagra silniejszy, musi być sprytny bądź uległy, musi kombinować, jak przetrwać albo liczyć na łaskę silniejszego.
+
+Silny ma wybór, więc potrzebny jest abstrakcyjny mechanizm regulujący, który sprawi, że nierozważnie sobie tym wyborem nie zaszkodzi w dłuższej perspektywie w kontakcie ze słabszymi i możliwe, że właśnie stąd wziął się zmysł etyczny.
+
+Chociaż w tym przypadku silny czuje bezpośrednio respekt, może szybko doświadczyć konsekwencji swoich akcji. Respektu może się efektywnie nauczyć w życiu osobniczym. Etyki efektywnie sam się nie nauczy, bo będzie martwy/odrzucony i niekoniecznie powiąże przyczyny ze skutkiem, bo proces (np. dojrzewający bunt słabych) jest przed nim ukryty i rozciągnięty w czasie. Tutaj potrzebny jest intuicyjny mechanizm wyuczony ewolucyjnie.
+
+Tak więc nie nazwałbym respektu etyką i nie sądzę, że etyka (jako wrodzona intuicja) ma także źródła w relacji silny-silny, bo nie jest potrzebna do wyjaśnienia mechanizmów tej relacji.
+
