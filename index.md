@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: default
 featured-img: sleek #optional - if you want you can include hero image
 title: Getting Started with Sleek # title of your post
 

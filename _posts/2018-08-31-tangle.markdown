@@ -7,4 +7,7 @@ comments: true
 
 [Tangle IOTA](https://docs.iota.org/introduction/tangle/introduction)
  
+
+{{ site.baseurl }}{% link about.md %}
+
 Tangle ~ Git. Nagradzamy (możliwością zrobienia commita) za mergowanie branchy. Ciekawy pomysł.

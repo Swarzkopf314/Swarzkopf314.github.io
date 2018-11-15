@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about
 ---
 
 Ciekawskie, wszędobylskie stworzenie, które rozbebesza różne idee, miejsca czy emocje - z ciekawości, co znajdzie w środku. A potem układa z wydobytego sedna eleganckie konstrukcje.
