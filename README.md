@@ -1,12 +1,19 @@
 # TODO teksty
 
 ptaki (ich życie jest przed nami odsłonięte, prowadzą je równolegle, bez żenady, czasem się spotykamy, nasze ścieżki się przecinają)
-wege (sprzeczność w moralności, ustawa, bajki dla dzieci, pobłażliwość sądów, niesmak) 
+
+wege (sprzeczność w moralności, ustawa, bajki dla dzieci, pobłażliwość sądów, niesmak)
+Ale czy moralność w ogóle powinna być niesprzeczna? Bo zdecydowanie nie jest niesprzeczna. Jeśli powinna być, to dlatego, że dzięki temu jest przewidywalna, więc daje poczucie bezpieczeństwa. Ale moralność może być sprzeczna i przewidywalna jednocześnie, jeśli jest ustalona przez grupę, która odczuwa podobnie. Tak czy siak jedzenie mięsa może budzić niesmak, bo trzeba pogodzić ze sobą sprzeczności - albo jemy i udajemy, że jest ok, albo nie udajemy, że jest ok i wtedy mięso budzi niesmak. Albo żyjemy ze sprzecznością, albo ponosimy logiczne konsekwencje swoich przekonań.
+
 314
+
 programowanie obiektowe (skąd się bierze, chcemy coś zmienić w kodzie, dzielimy na funkcje, potem na grupy funkcji,
 które współdzielą stan (obiekty), potem na grupy obiektów, które współdzielą stan (kolejne obiekty i delegacja), możemy chcieć coś zmienić w grupie funkcji (dziedziczenie))
 
-
+Działanie jako funkcja dyskomfortu
+Motywacją dla działania dużo bardziej jest unikanie dyskomfortu, niż dążenie do przyjemności. Jeśli jakaś perspektywa sprawia, że czujesz się niekomfortowo, to starasz się jej uniknąć. Tak podejmujemy decyzje. 
+W konsekwencji postępujemy dobrze dopiero wtedy, kiedy nas na to stać. Czyn jest zły wtedy, kiedy czujemy moralny dyskomfort, kiedy go podejmiemy, a jest dobry wtedy, kiedy czujemy moralny dyskomfort, kiedy go nie podejmiemy. Więc postępujemy dobrze wtedy, kiedy moralny dyskomfort wynikający z nie podjęcia czynu jest większy, niż dyskomfort ogólny wynikający z podjęcia czynu - wtedy unikamy dyskomfortu przez zadziałanie. Tak więc postępujemy dobrze tylko wtedy, gdy nas na to stać.
+Aborcja vs brak aborcji - co sprawi nam większy dyskomfort? Ubój zwierząt czy brak mięsa?
 
 
 
