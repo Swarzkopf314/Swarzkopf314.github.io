@@ -2,13 +2,17 @@
 
 ptaki (ich życie jest przed nami odsłonięte, prowadzą je równolegle, bez żenady, czasem się spotykamy, nasze ścieżki się przecinają)
 
+
 wege (sprzeczność w moralności, ustawa, bajki dla dzieci, pobłażliwość sądów, niesmak)
 Ale czy moralność w ogóle powinna być niesprzeczna? Bo zdecydowanie nie jest niesprzeczna. Jeśli powinna być, to dlatego, że dzięki temu jest przewidywalna, więc daje poczucie bezpieczeństwa. Ale moralność może być sprzeczna i przewidywalna jednocześnie, jeśli jest ustalona przez grupę, która odczuwa podobnie. Tak czy siak jedzenie mięsa może budzić niesmak, bo trzeba pogodzić ze sobą sprzeczności - albo jemy i udajemy, że jest ok, albo nie udajemy, że jest ok i wtedy mięso budzi niesmak. Albo żyjemy ze sprzecznością, albo ponosimy logiczne konsekwencje swoich przekonań.
 
+
 314
+
 
 programowanie obiektowe (skąd się bierze, chcemy coś zmienić w kodzie, dzielimy na funkcje, potem na grupy funkcji,
 które współdzielą stan (obiekty), potem na grupy obiektów, które współdzielą stan (kolejne obiekty i delegacja), możemy chcieć coś zmienić w grupie funkcji (dziedziczenie))
+
 
 Działanie jako funkcja dyskomfortu
 Motywacją dla działania dużo bardziej jest unikanie dyskomfortu, niż dążenie do przyjemności. Jeśli jakaś perspektywa sprawia, że czujesz się niekomfortowo, to starasz się jej uniknąć. Tak podejmujemy decyzje.
@@ -20,6 +24,11 @@ Ben Shapiro robi błąd już na samym początku, kiedy zakłada, że da się zna
 Sęk chyba w tym, żeby nasze odczucia były spójne (niesprzeczne). Odczucia mięsożerców w kulturze zachodniej mają w sobie sprzeczność, bo z jednej strony lubimy krówki i świnki, a z drugiej zadajemy im cierpienie, a potem je jemy. Jeśli nie chcemy tej sprzeczności (która musi powodować moralny dyskomfort, który możemy co najwyżej zagłuszyć, bo wszyscy tak robią, więc wygodniej jest tego nie analizować, bo pewnie wszyscy mają rację), to zaczynamy czuć niesmak wobec mięsa albo przestajemy lubić krówki i świnki.
 Ben robi błąd na samym początku, kiedy chce być uczciwy intelektualnie i racjonalny. Nasze odczucia nie są racjonalne.
 
+
+Śmiech jako sposób na trening z innymi!
+
+
+# end
 
 wykorzystać moje poprzednie osiągnięcia, zwłaszcza:
 - licencjat, 

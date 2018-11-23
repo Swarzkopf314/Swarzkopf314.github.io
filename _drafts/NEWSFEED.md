@@ -366,3 +366,18 @@ Chociaż w tym przypadku silny czuje bezpośrednio respekt, może szybko doświa
 
 Tak więc nie nazwałbym respektu etyką i nie sądzę, że etyka (jako wrodzona intuicja) ma także źródła w relacji silny-silny, bo nie jest potrzebna do wyjaśnienia mechanizmów tej relacji.
 
+
+# live together, die alone
+
+Śmiech jako sposób na trening z innymi!
+
+W dosłownym rozumieniu tekst na poziomie Bravo Girl, w porywach Coehlo (tak sądzę), ale jednak znalazłem interpretację, dzięki której nawet się broni.
+
+Otóż w tym odczytaniu twist polega na tym, że podmiot liryczny życzy adresatowi, aby ten uświadomił sobie, że poza punktem "someone who is your lover" adresat sam dla siebie jest (czy powinien być) taką osobą. Więc podmiot liryczny życzy adresatowi, aby ten stał się w pełni dojrzałym człowiekiem.
+
+Z tego mogą wypływać interesujące wnioski dotyczące tego, do czego tak naprawdę potrzebni są nam inni ludzie.
+
+
+No tak, zdarzają się takie dopasowania potwierdzam :) Ale chyba służą głównie temu, żeby zauważyć, że do tych rzeczy nie potrzeba drugiej osoby. Mają wyleczyć z tej tęsknoty i dzięki temu jeszcze bardziej otworzyć na innych, nawet mniej dopasowanych?
+
+Hm, może w "live together, die alone" wcale nie ma egzystencjalnej goryczy, może po prostu taki jest sens doczesnego życia? :D
