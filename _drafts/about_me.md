@@ -121,3 +121,9 @@ Idzie sobie dociekliwy człowiek współczesny i spotyka jaskiniowca. Z ciekawo�
 Jakiś czas później człowiek współczesny spotyka dociekliwego jaskiniowca. Radośnie dzieli się z nim swoimi dociekaniami, aby poznać zdanie dociekliwego jaskiniowca. Ale dociekliwy jaskiniowiec twierdzi, że człowiek współczesny wypowiada się niezrozumiale i dopytuje o sformułowania i skróty myślowe, których człowiek współczesny użył. Człowiek współczesny stara się wytłumaczyć, ale jego tłumaczenia generują tylko pytania o kolejne sformułowania, których użył w swoich tłumaczeniach swoich poprzednich sformułowań. Z czasem okazuje się, że jaskiniowiec musiałby nadrobić całą historię, która dzieli go od człowieka współczesnego, aby mógł porozmawiać o idei, którą przedstawił mu człowiek współczesny na początku. Dociekliwy człowiek współczesny jest podłamany i sfrustrowany, tym bardziej, że jaskiniowiec ma go teraz za buca.
 
 Cóż, dociekliwy człowiek współczesny idzie dalej...
+
+
+### świadomość
+
+Chcę rozbebeszyć rzeczywistość i zobaczyć sedno, świadomość to trochę bardziej konkretny cel, a dzięki komputerom i językom programowania jest całkiem realny (przynajmniej jeśli chodzi o algorytmiczny opis świadomości, a to już byłoby dużo). Więc po co mierzyć niżej w tym życiu?
+
