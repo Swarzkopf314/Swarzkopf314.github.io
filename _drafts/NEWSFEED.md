@@ -381,3 +381,9 @@ Z tego mogą wypływać interesujące wnioski dotyczące tego, do czego tak napr
 No tak, zdarzają się takie dopasowania potwierdzam :) Ale chyba służą głównie temu, żeby zauważyć, że do tych rzeczy nie potrzeba drugiej osoby. Mają wyleczyć z tej tęsknoty i dzięki temu jeszcze bardziej otworzyć na innych, nawet mniej dopasowanych?
 
 Hm, może w "live together, die alone" wcale nie ma egzystencjalnej goryczy, może po prostu taki jest sens doczesnego życia? :D
+
+# independent researcher
+
+Well, in fact that's painfully obvious and yet somehow I feel more secure about my life-choices now. On top of that - part time job can pay more than full time in academia.
+
+https://www.timeshighereducation.com/blog/if-you-love-research-academia-may-not-be-you?fbclid=IwAR3yf1kJU3DuabQxzbu9Q-J2TMMbBDPNwSjpm6FJ50PPSGEeB3EM51_6qBA
