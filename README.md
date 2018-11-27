@@ -28,6 +28,10 @@ Ben robi błąd na samym początku, kiedy chce być uczciwy intelektualnie i rac
 Śmiech jako sposób na trening z innymi!
 
 
+Bóg czy matematyka?
+Co z tym Bogiem? Niby etyka ma wyjaśnienie ewolucyjne i teoriogrowe. Ale jednak świadomość zdumiewa. Argument z ignorancji, niestety. 
+
+
 # end
 
 wykorzystać moje poprzednie osiągnięcia, zwłaszcza:
