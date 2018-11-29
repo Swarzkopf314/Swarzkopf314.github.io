@@ -12,7 +12,7 @@ Ale czy moralność w ogóle powinna być niesprzeczna? Bo zdecydowanie nie jest
 
 programowanie obiektowe (skąd się bierze, chcemy coś zmienić w kodzie, dzielimy na funkcje, potem na grupy funkcji,
 które współdzielą stan (obiekty), potem na grupy obiektów, które współdzielą stan (kolejne obiekty i delegacja), możemy chcieć coś zmienić w grupie funkcji (dziedziczenie))
-
+Obiekty jako akapity!
 
 Działanie jako funkcja dyskomfortu
 Motywacją dla działania dużo bardziej jest unikanie dyskomfortu, niż dążenie do przyjemności. Jeśli jakaś perspektywa sprawia, że czujesz się niekomfortowo, to starasz się jej uniknąć. Tak podejmujemy decyzje.
@@ -29,7 +29,12 @@ Ben robi błąd na samym początku, kiedy chce być uczciwy intelektualnie i rac
 
 
 Bóg czy matematyka?
-Co z tym Bogiem? Niby etyka ma wyjaśnienie ewolucyjne i teoriogrowe. Ale jednak świadomość zdumiewa. Argument z ignorancji, niestety. 
+Co z tym Bogiem? Niby etyka ma wyjaśnienie ewolucyjne i teoriogrowe (strategia długoterminowa silniejszego). Ale jednak świadomość zdumiewa. Argument z ignorancji, niestety. 
+
+
+omega sprzeczność arytmetyki i problemy z grą, która "kiedyś się skończy". To dobre miejsce na tego typu rzeczy.
+Co to znaczy "istnieje"? Czyli reguły eliminacji kwantyfikatora egzystencjalnego i dlaczego przy dowodzie nie wprost możemy wprowadzić tę regułę? To nie jest oczywiste. Możemy co najwyżej udowodnić regułę eliminacji z podwójnym przeczeniem.
+Czy da się pokazać, że nie może istnieć platoniczna omega? A jeśli tak, to czy to nie będzie dowód sprzeczności TM? Pewnie trzeba stworzyć nową teorię i pokazać jej równoniesprzeczność?
 
 
 # end
