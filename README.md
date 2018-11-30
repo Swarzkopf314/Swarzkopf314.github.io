@@ -4,7 +4,7 @@ ptaki (ich życie jest przed nami odsłonięte, prowadzą je równolegle, bez ż
 
 
 wege (sprzeczność w moralności, ustawa, bajki dla dzieci, pobłażliwość sądów, niesmak)
-Ale czy moralność w ogóle powinna być niesprzeczna? Bo zdecydowanie nie jest niesprzeczna. Jeśli powinna być, to dlatego, że dzięki temu jest przewidywalna, więc daje poczucie bezpieczeństwa. Ale moralność może być sprzeczna i przewidywalna jednocześnie, jeśli jest ustalona przez grupę, która odczuwa podobnie. Tak czy siak jedzenie mięsa może budzić niesmak, bo trzeba pogodzić ze sobą sprzeczności - albo jemy i udajemy, że jest ok, albo nie udajemy, że jest ok i wtedy mięso budzi niesmak. Albo żyjemy ze sprzecznością, albo ponosimy logiczne konsekwencje swoich przekonań.
+Ale czy moralność w ogóle powinna być niesprzeczna? Bo zdecydowanie nie jest niesprzeczna. Jeśli powinna być, to dlatego, że dzięki temu jest przewidywalna, więc daje poczucie bezpieczeństwa. Ale moralność może być sprzeczna i przewidywalna jednocześnie, jeśli jest ustalona przez grupę, która odczuwa podobnie. Tak czy siak jedzenie mięsa może budzić niesmak, bo trzeba pogodzić ze sobą sprzeczności - albo jemy i udajemy, że jest ok, albo nie udajemy, że jest ok i wtedy mięso budzi niesmak. Albo żyjemy ze sprzecznością, albo ponosimy logiczne konsekwencje swoich przekonań. Wzbudzenie niesmaku jest logiczne w naszej kulturze, a bronienie się przed poczuciem niesmaku - podobnie, chociaż to jest wtedy hipokryzja.
 
 
 314
@@ -35,7 +35,40 @@ Co z tym Bogiem? Niby etyka ma wyjaśnienie ewolucyjne i teoriogrowe (strategia 
 omega sprzeczność arytmetyki i problemy z grą, która "kiedyś się skończy". To dobre miejsce na tego typu rzeczy.
 Co to znaczy "istnieje"? Czyli reguły eliminacji kwantyfikatora egzystencjalnego i dlaczego przy dowodzie nie wprost możemy wprowadzić tę regułę? To nie jest oczywiste. Możemy co najwyżej udowodnić regułę eliminacji z podwójnym przeczeniem.
 Czy da się pokazać, że nie może istnieć platoniczna omega? A jeśli tak, to czy to nie będzie dowód sprzeczności TM? Pewnie trzeba stworzyć nową teorię i pokazać jej równoniesprzeczność?
+Wnioski: Teoria mnogości może mieć model, ale jej rozszerzenie o odpowiednie zdania (które gdzieś platonicznie istnieją, właśnie w tym modelu) przestaje być interpretowalne w tym modelu.
 
+
+#### paradoks bliźniąt, niezrozumienie wśród fizyków, dramat, że nawet w fizyce są takie raki
+
+Paradoks bliźniąt - brat przyśpieszający - jego czas, tj. wewnętrzny ruch cząsteczek jego ciała - powstał na ziemi. Wyruszając w podróż zmienia układ odniesienia, w efekcie jest różnica między jego aktualnym czasem, a czasem jego "wnętrzności" ? 
+https://www.researchgate.net/profile/Golden_Nyambuya/publication/268075105_A_Solution_to_the_Twin_Paradox_from_Within_the_STR_Without_Invoking_Accelerations_Paper_I/links/5460c29a0cf27487b4525c89/A-Solution-to-the-Twin-Paradox-from-Within-the-STR-Without-Invoking-Accelerations-Paper-I.pdf
+
+A co z wszechświatem-torusem? Dwaj bracia lecą w przeciwnych kierunkach i spotykają się cyklicznie. Który jest młodszy?
+Albo wylatują z ziemi w przeciwnych kierunkach i wracają
+https://physics.stackexchange.com/questions/361/symmetrical-twin-paradox-in-a-closed-universe
+https://physics.stackexchange.com/questions/29921/why-isnt-the-symmetric-twin-paradox-a-paradox
+
+Więc tu chodzi o zmianę inercjalnego układu odniesienia z oddalającego się na powracający, a nie o samo przyśpieszenie/spowolnienie/zawrócenie. W tym powracającym układzie brat na ziemi jest dużo starszy.
+<!-- ptak na parapecie, SĄ 3 UKŁADY ODNIESIENIA, JEDEN Z BRACI ZMIENIA UKŁADY -->
+(plik)[sources/The_case_of_the_identically_accelerated_twins.pdf]
+https://www.researchgate.net/publication/241349452_The_case_of_the_identically_accelerated_twins
+chodzi o to, że jak bliźniak wraca w tej rakiecie, to wskakuje do układu odniesienia, w którym wylot z ziemi był dużo dawniej
+i dlatego wg bliźniaka w rakiecie ten na ziemi nagle jest dużo starszy
+wytłumaczenie jest wewnątrz teorii względności
+a nie "ten w rakiecie przyśpiesza, więc teoria względności nie ma zastosowania"
+ptak nasrał na parapet, więc sugester nie działa
+
+To jest jakiś dramat, w tym wątku przez 17 stron toczy się dyskusja o znaczeniu przyśpieszenia dla problemu:
+
+https://www.scienceforums.net/.../74683-acceleration-is.../
+
+Ludzie piszą nawet papiery, w których dowodzą, że to przyśpieszenie ma kluczowe znaczenie:
+
+https://arxiv.org/abs/1807.02148
+
+Autorom kompletnie umyka sedno. To przypomina jakieś dyskusje polityczne, w których jedna ze stron ma raka mózgu i kompletnie nie rozumie argumentu drugiej - przyśpieszenie nie jest kluczowe, kluczowa jest zmiana układu odniesienia, a przyśpieszenie jest jedynie sposobem na uzyskanie tej zmiany, akurat taki, a nie inny jest dostępny w naszym wszechświecie - ale STW nie mówi o geometrii wszechświata, tylko o transformacjach między inercjalnymi układami odniesienia. Paradoks bliźniąt można rozważać w sferycznym wszechświecie etc. i wtedy STW też sobie radzi, tylko w tym wypadku dochodzi do skrócenia Lorenza całego wszechświata.
+
+Nie miałem pojęcia, że nawet w fizyce są takie raki...
 
 # end
 
