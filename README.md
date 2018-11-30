@@ -70,6 +70,9 @@ Autorom kompletnie umyka sedno. To przypomina jakieś dyskusje polityczne, w kt�
 
 Nie miałem pojęcia, że nawet w fizyce są takie raki...
 
+Z wikipedii:
+"Although some solutions attribute a crucial role to the acceleration of the travelling twin at the time of the turnaround,[16][17][18][19] others note that the effect also arises if one imagines separate outward-going and inward-coming travellers, who pass each other and synchronize their clocks at the point corresponding to "turnaround" of a single traveller. In this version, physical acceleration of the travelling clock plays no direct role;[20][21][22] "the issue is how long the world-lines are, not how bent".[23] The length referred to here is the Lorentz-invariant length or "proper time interval" of a trajectory which corresponds to the elapsed time measured by a clock following that trajectory (see Section Difference in elapsed time as a result of differences in twins' spacetime paths below). In Minkowski spacetime, the travelling twin must feel a different history of accelerations from the earthbound twin, even if this just means accelerations of the same size separated by different amounts of time,[23] however "even this role for acceleration can be eliminated in formulations of the twin paradox in curved spacetime, where the twins can fall freely along space-time geodesics between meetings".[5]
+
 # end
 
 wykorzystać moje poprzednie osiągnięcia, zwłaszcza:
