@@ -387,3 +387,10 @@ Hm, może w "live together, die alone" wcale nie ma egzystencjalnej goryczy, mo�
 Well, in fact that's painfully obvious and yet somehow I feel more secure about my life-choices now. On top of that - part time job can pay more than full time in academia.
 
 https://www.timeshighereducation.com/blog/if-you-love-research-academia-may-not-be-you?fbclid=IwAR3yf1kJU3DuabQxzbu9Q-J2TMMbBDPNwSjpm6FJ50PPSGEeB3EM51_6qBA
+
+## Portal randkowy oparty na Dixicharakterystyce? (!!!)
+
+## nauka, popularyzacja nauki
+
+Nie trawię tego, bo to odziera naukę z tego, co w niej najlepsze - uczciwości, niepewności, przyznania, ile jeszcze nie wiemy, ile z tego, co wiemy, to tak naprawdę nasze zgadywanki, które jakoś jeszcze o dziwo trzymaja sie kupy etc. etc. Nauka ma wiele dziur i one sa fascynujące.
+
