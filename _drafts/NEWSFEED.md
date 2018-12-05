@@ -397,9 +397,14 @@ Nie trawię tego, bo to odziera naukę z tego, co w niej najlepsze - uczciwości
 
 ## ewolucyjna motywacja dla idei Boga?
 
-Czy pojęcie Boga ma motywację ewolucyjną? Jaką? Taką samą, jak etyka? Jeśli słabi są dostatecznie silni, żeby się zbuntować, to silny musi uważać, więc np. ma poczucie piekła, sędziego, odpowiedzialności przed kimś wyższym, transcendentnym. To poczucie jest mu potrzebne do przetrwania.
+Czy pojęcie Boga ma motywację ewolucyjną? Jaką? Taką samą, jak etyka? Jeśli słabi są dostatecznie silni, żeby się zbuntować, to silny musi uważać, więc np. ma poczucie piekła, sędziego, odpowiedzialności przed kimś wyższym, transcendentnym. To poczucie jest mu potrzebne do przetrwania. Przeczucie Boga jest implementacją teorii gier (poczucie niezbywalnej odpowiedzialności - za coś, co sobie wybierzemy, za swoje życie i za swoje czyny).
+
+Tutaj jest połączenie religii i rozumu (dobór naturalny). Jeśli nie ma celu i symulacja jest testowa, to dobór naturalny tłumaczy, dlaczego mamy poczucie niezbywalnej odpowiedzialności. Jeśli jest cel, to być może świat został zaprojektowany właśnie w taki sposób, aby dobór naturalny prowadził do poczucia niezbywalnej odpowiedzialności. Czy Bóg jest implementacją teorii gier w naszych umysłach, czy to on sam zaimplementował świat, w której ma zastosowanie teoria gier prowadząca do poczucia niezbywalnej odpowiedzialności i w koncekwencji do wytworzenia się pojęcia Boga? (!!!)
 
 ## symulacja ze specyfikacją (krótko i na temat)
 
 Bóg jako cel symulacji. Celu może nie być, a może to symulacja treningowa. To jest współczesne ujęcie religii. Krótko i na temat.
+
+Kryteria wyboru teorii egzystencjalnych są inne niż kryteria wyboru teorii naukowych - kryteria naukowe są niepraktyczne dla teorii egzystencjalnych, byłyby praktyczne, gdybyśmy potrafili wyjść poza naszą rzeczywistość. A skoro nie potrafimy, to potrzebujemy innych kryteriów.
+Teoria naukowa ma być pragmatyczna. Teoria egzystencjalna ma mnie rozwijać.
 
