@@ -29,7 +29,7 @@ Ben robi błąd na samym początku, kiedy chce być uczciwy intelektualnie i rac
 
 
 Bóg czy matematyka?
-Co z tym Bogiem? Niby etyka ma wyjaśnienie ewolucyjne i teoriogrowe (strategia długoterminowa silniejszego). Ale jednak świadomość zdumiewa. Argument z ignorancji, niestety. 
+Co z tym Bogiem? Niby etyka ma wyjaśnienie ewolucyjne i teoriogrowe (strategia długoterminowa silniejszego). Ale jednak świadomość zdumiewa. Argument z ignorancji, niestety.
 
 
 omega sprzeczność arytmetyki i problemy z grą, która "kiedyś się skończy". To dobre miejsce na tego typu rzeczy.

@@ -394,3 +394,12 @@ https://www.timeshighereducation.com/blog/if-you-love-research-academia-may-not-
 
 Nie trawię tego, bo to odziera naukę z tego, co w niej najlepsze - uczciwości, niepewności, przyznania, ile jeszcze nie wiemy, ile z tego, co wiemy, to tak naprawdę nasze zgadywanki, które jakoś jeszcze o dziwo trzymaja sie kupy etc. etc. Nauka ma wiele dziur i one sa fascynujące.
 
+
+## ewolucyjna motywacja dla idei Boga?
+
+Czy pojęcie Boga ma motywację ewolucyjną? Jaką? Taką samą, jak etyka? Jeśli słabi są dostatecznie silni, żeby się zbuntować, to silny musi uważać, więc np. ma poczucie piekła, sędziego, odpowiedzialności przed kimś wyższym, transcendentnym. To poczucie jest mu potrzebne do przetrwania.
+
+## symulacja ze specyfikacją (krótko i na temat)
+
+Bóg jako cel symulacji. Celu może nie być, a może to symulacja treningowa. To jest współczesne ujęcie religii. Krótko i na temat.
+
