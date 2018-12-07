@@ -15,3 +15,10 @@ Teoria naukowa ma być pragmatyczna. Teoria egzystencjalna ma mnie rozwijać.
 
 Co ze znaczącymi przypadkami (znakami)? Czy to błąd poznawczy (torowanie), czy jednak w świecie istnieje takie zjawisko? Bardzo słabo rozumiemy świadomość i jej relację ze światem.
 Jaką motywację ewolucyjną miałoby dostrzeganie znaków? Dostrzeganie sensu w przypadkach? Czy ten sens tam jest i jest odkrywany, czy to my go dopisujemy? Intuicyjnie to dałoby się zbadać - jaka jest "pojemność interpretacyjna" przypadków? Jak prawdopodobne są określone sekwencje zdarzeń, które ludzie interpretują jako znaki? Czy znaki (interpretowalne przypadki) występują zbyt często? To wskazywałoby na nietrywialny związek świadomości ze światem.
+
+## TODO - z zeszytu
+
+dorabianie czy odkrywanie sensu?
+czy jesteśmy bardziej zorientowani na dorobienie/odkrycie sensu w kluczowych wydarzeniach?
+
+skąd się wzięła niezbywalna odpowiedzialność? Czy jest warunkiem niezbędnym dla wolnej woli? Wydaje się być sprzężona z wolną wolą, inteligencją i stadnością (jeśli nie masz poczucia odpowiedzialności za swoje czyny, to jakkolwiek silny byś nie był, jeśli inni są dostatecznie inteligentni, to się zorganizują i Cię wykoszą).

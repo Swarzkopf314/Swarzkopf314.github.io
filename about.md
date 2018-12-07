@@ -6,6 +6,8 @@ permalink: /about
 
 Rozbebeszający, wszędobylski intelekt, który wykorzystuje umysł ścisły, aby znaleźć wyjście z labiryntu.
 
+Że zadaję dużo pytań etc.
+
 Ciekawskie, wszędobylskie stworzenie, które rozbebesza różne idee, miejsca czy emocje - z ciekawości, co znajdzie w środku. A potem układa z wydobytego sedna eleganckie konstrukcje.
 
 Ten blog to zbiór moich małych trofeów intelektualnych, rzeczy, które rozbebeszyłem, część z nich robebeszam dalej, część mnie znudziła. Chciałbym kiedyś robebeszyć całą rzeczywistość i spotkać ukrytego demiurga.
