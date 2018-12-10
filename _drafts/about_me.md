@@ -127,3 +127,6 @@ Cóż, dociekliwy człowiek współczesny idzie dalej...
 
 Chcę rozbebeszyć rzeczywistość i zobaczyć sedno, świadomość to trochę bardziej konkretny cel, a dzięki komputerom i językom programowania jest całkiem realny (przynajmniej jeśli chodzi o algorytmiczny opis świadomości, a to już byłoby dużo). Więc po co mierzyć niżej w tym życiu?
 
+
+Outsider, ale raczej w stylu Ricka Sancheza. Zadaję dużo pytań i wiem, co chcę osiągnąć, a przy tym mam dystans i duże poczucie humoru. Poza pracą, niezależnym researchem i ostukiwaniem rzeczywistości eksperymentuję też z freestylem na łyżwach i rolkach. Lubię się dać porwać muzyce.
+

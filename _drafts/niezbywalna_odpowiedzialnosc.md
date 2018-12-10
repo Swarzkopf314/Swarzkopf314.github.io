@@ -1,5 +1,11 @@
 # ewolucyjna motywacja dla idei Boga? POCZUCIE NIEZBYWALNEJ ODPOWIEDZIALNOŚCI == BÓG
 
+Niezbywalna odpowiedzialność - za siebie, za swoje decyzje i za swoich bliskich
+
+Silny musi mieć poczucie niezbywalnej odpowiedzialności przed czymś nieokreślonym (bo nie ma bezpośredniego zagrożenia), tym czymś de facto jest bunt dostatecznie inteligentnych słabych, ale manifestuje się jako poczucie transcendentnej odpowiedzialności. Czy Bóg zaprojektował świat tak, żebyśmy byli w stanie Go pojąć, mieć poczucie transcendentnej, niezbywalnej odpowiedzialności? Wtedy ten świat jest prawdziwym testem, bo podejmujemy decyzje w obliczu poczucia tej odpowiedzialności, więc możemy się testować, a także rosnąć, określać się. Ale być może idea Boga jest po prostu matematyczną konsewkencją ewolucji inteligentnych organizmów stadnych.
+
+
+
 Czy pojęcie Boga ma motywację ewolucyjną? Jaką? Taką samą, jak etyka? Jeśli słabi są dostatecznie silni, żeby się zbuntować, to silny musi uważać, więc np. ma poczucie piekła, sędziego, odpowiedzialności przed kimś wyższym, transcendentnym. To poczucie jest mu potrzebne do przetrwania. Przeczucie Boga jest implementacją teorii gier (poczucie niezbywalnej odpowiedzialności - za coś, co sobie wybierzemy, a dalej za swoje życie i za swoje czyny).
 
 Tutaj jest połączenie religii i rozumu (dobór naturalny). Jeśli nie ma celu i symulacja jest testowa, to dobór naturalny i teoria gier tłumaczą, dlaczego mamy poczucie niezbywalnej odpowiedzialności. Jeśli jest cel, to być może świat został zaprojektowany właśnie w taki sposób, aby dobór naturalny prowadził do poczucia niezbywalnej odpowiedzialności. Ludzie są umieszczeni w świecie, w którym dobór naturalny prowadzi do wykształcenia poczucia niezbywalnej odpowiedzialności, co jest niezbędne dla Boskiego planu - aby ludzie byli odpowiedzialni. Czyli świat to taka gleba, a ludzie to ziarna, które wzrastają w odpowiedni sposób, ale także mają wolny wybór - czym byłaby wolna wola bez poczucia niezbywalnej odpowiedzialności? Chaosem i destrukcją? 
@@ -22,3 +28,8 @@ dorabianie czy odkrywanie sensu?
 czy jesteśmy bardziej zorientowani na dorobienie/odkrycie sensu w kluczowych wydarzeniach?
 
 skąd się wzięła niezbywalna odpowiedzialność? Czy jest warunkiem niezbędnym dla wolnej woli? Wydaje się być sprzężona z wolną wolą, inteligencją i stadnością (jeśli nie masz poczucia odpowiedzialności za swoje czyny, to jakkolwiek silny byś nie był, jeśli inni są dostatecznie inteligentni, to się zorganizują i Cię wykoszą).
+
+## moralność - evolutional science
+
+https://philosophynow.org/issues/109/The_Prisoners_Dilemma_and_The_Evolution_of_Morality
+https://plato.stanford.edu/entries/game-ethics/
