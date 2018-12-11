@@ -42,6 +42,7 @@ plugins:
 disqus:
   shortname: satkiewicz-it
 
+paginate: 9
 navigation:
   - name: O mnie
     link: /about

@@ -2,7 +2,7 @@
 
 Niezbywalna odpowiedzialność - za siebie, za swoje decyzje i za swoich bliskich
 
-Silny musi mieć poczucie niezbywalnej odpowiedzialności przed czymś nieokreślonym (bo nie ma bezpośredniego zagrożenia), tym czymś de facto jest bunt dostatecznie inteligentnych słabych, ale manifestuje się jako poczucie transcendentnej odpowiedzialności. Czy Bóg zaprojektował świat tak, żebyśmy byli w stanie Go pojąć, mieć poczucie transcendentnej, niezbywalnej odpowiedzialności? Wtedy ten świat jest prawdziwym testem, bo podejmujemy decyzje w obliczu poczucia tej odpowiedzialności, więc możemy się testować, a także rosnąć, określać się. Ale być może idea Boga jest po prostu matematyczną konsewkencją ewolucji inteligentnych organizmów stadnych.
+Silny musi mieć poczucie niezbywalnej odpowiedzialności przed czymś nieokreślonym (bo nie ma bezpośredniego zagrożenia), **tym czymś de facto jest bunt dostatecznie inteligentnych słabych**, ale manifestuje się jako poczucie transcendentnej odpowiedzialności. Czy Bóg zaprojektował świat tak, żebyśmy byli w stanie Go pojąć, mieć poczucie transcendentnej, niezbywalnej odpowiedzialności? Wtedy ten świat jest prawdziwym testem, bo podejmujemy decyzje w obliczu poczucia tej odpowiedzialności, więc możemy się testować, a także rosnąć, określać się. Ale być może idea Boga jest po prostu matematyczną konsewkencją ewolucji inteligentnych organizmów stadnych.
 
 
 
