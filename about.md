@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Maciej Satkiewicz
 permalink: /about
 ---
 
