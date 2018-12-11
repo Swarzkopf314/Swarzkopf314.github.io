@@ -6,7 +6,7 @@
   background-color: #dde5ea;
   background-repeat: no-repeat;
   background-position: 50%;
-  background-size: contain;
+  background-size: cover;
 
   @include breakpoint($lg) {
     margin: 0 auto;
@@ -21,7 +21,7 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(52, 56, 81, .8);
+    background: rgba(52, 56, 81, .5);
   }
 }
 
@@ -67,12 +67,15 @@
   .hero__title {
     font-size: 1.8em;
     color: $bg-color;
+    padding: 1rem 0;
+    // color: $text-color;
 
 
     @include breakpoint($md) {
       padding: 1rem 0;
       font-size: 2.625em;
       line-height: 3.125rem;
+      // padding-top: 5em;
     }
   }
 }
