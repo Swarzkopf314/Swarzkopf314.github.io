@@ -21,6 +21,9 @@ description: |
   The world is a mystery that has to be taken seriously or otherwise there's just death.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://satkiewicz.it" # the base hostname & protocol for your site, e.g. http://example.com
+base_url: ""
+hero_img: 'background_dixit.jpg'
+
 github_username:  Swarzkopf314
 google_analytics: UA-125781990-1
 
@@ -38,6 +41,19 @@ plugins:
 
 disqus:
   shortname: satkiewicz-it
+
+navigation:
+  - name: O mnie
+    link: /about
+
+compress_html:
+  clippings: all
+  comments: [""]
+  endings: [html, head, body, li, dt, dd, rt, rp, optgroup, option, colgroup, caption, thead, tbody, tfoot, tr, td, th]
+  profile: false
+  blanklines: false
+  ignore:
+    envs: []
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
