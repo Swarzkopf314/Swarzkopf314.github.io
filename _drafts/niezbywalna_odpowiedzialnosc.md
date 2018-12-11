@@ -25,9 +25,17 @@ Jaką motywację ewolucyjną miałoby dostrzeganie znaków? Dostrzeganie sensu w
 ## TODO - z zeszytu, wysokopoziomowa teoria sensu?
 
 dorabianie czy odkrywanie sensu?
-czy jesteśmy bardziej zorientowani na dorobienie/odkrycie sensu w kluczowych wydarzeniach? Jeśli nie, to czy można podać jakąś wysokopoziomową teorię sensu, która pozwoliłaby dać przewidywania lepsze od losowych?
+czy jesteśmy bardziej zorientowani na dorobienie/odkrycie sensu w kluczowych wydarzeniach? Jeśli nie, to czy można podać jakąś wysokopoziomową teorię sensu, która pozwoliłaby dać przewidywania lepsze od losowych? Czy taka teoria działa, bo ludzie podejmują decyzje w odpowiedni sposób? Czy jednak dotyczy zdarzeń i przypadków nieożywionych?
 
 skąd się wzięła niezbywalna odpowiedzialność? Czy jest warunkiem niezbędnym dla wolnej woli? Wydaje się być sprzężona z wolną wolą, inteligencją i stadnością (jeśli nie masz poczucia odpowiedzialności za swoje czyny, to jakkolwiek silny byś nie był, jeśli inni są dostatecznie inteligentni, to się zorganizują i Cię wykoszą).
+
+Bóg to z definicji poczucie transcendentnej, niezbywalnej odpowiedzialności, dla której jednak można znaleźć teoriogrowe uzasadnienie ewolucyjne.
+
+Co z sensem jako wysokopoziomową regułą?
+
+Chyba jak czegos szczerze i mocno chcesz, to zdarzenia zaczynaja temu sprzyjac.
+
+Ale sama musisz dzialac, nie mozesz czekać, ze cos dostaniesz. Jakby opatrzność chciala Ci pomoc, ale nie chciala Cie wyręczyć. Być może wydaje Ci się, że czegoś chcesz, a tak naprawdę potrzebujesz czegoś innego. Albo tylko czekasz, aż coś dostaniesz, zamiast starać się to zdobyć.
 
 ## moralność - evolutional science
 

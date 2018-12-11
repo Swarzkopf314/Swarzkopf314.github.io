@@ -130,3 +130,8 @@ Chcę rozbebeszyć rzeczywistość i zobaczyć sedno, świadomość to trochę b
 
 Outsider, ale raczej w stylu Ricka Sancheza. Zadaję dużo pytań i wiem, co chcę osiągnąć, a przy tym mam dystans i duże poczucie humoru. Poza pracą, niezależnym researchem i ostukiwaniem rzeczywistości eksperymentuję też z freestylem na łyżwach i rolkach. Lubię się dać porwać muzyce.
 
+# szczęście jest dla lam.
+
+Chcę żyć dostatecznie długo, żeby osiągnąć to, co chcę osiągnąć i dowiedzieć się tego, czego chcę się dowiedzieć. Szczęście jest dla lam.
+
+Life's not about happiness, it's about pursuit. You're happy when you're dead and you're dead when you're happy.

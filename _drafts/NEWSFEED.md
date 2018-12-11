@@ -393,3 +393,8 @@ https://www.timeshighereducation.com/blog/if-you-love-research-academia-may-not-
 Nie trawię tego, bo to odziera naukę z tego, co w niej najlepsze - uczciwości, niepewności, przyznania, ile jeszcze nie wiemy, ile z tego, co wiemy, to tak naprawdę nasze zgadywanki, które jakoś jeszcze o dziwo trzymaja sie kupy etc. etc. Nauka ma wiele dziur i one sa fascynujące.
 
 
+# dlaczego ja? błąd eksperymentu myślowego z klonowaniem. Może tożsamość to struktura niematerialna, jeśli dwa mózgi są podobne, to może świadomości się łączą albo jest tylko jedna?
+
+Dlaczego ja to ja? Dlaczego jestem sobą, ale nie jestem Tobą? Tożsamość jest ograniczona przez pamięć. Substancja świadomości jest niezależna od pamięci, ale tożsamość jest zdefiniowana przez pamięć. Ja to kłębek pamięci, ograniczony fragment ogólnej świadomości. Jestem konkretną strukturą świadomości, kryształem soli w solance.
+
+Czy mogą być dwie identyczne struktury świadomości? Może jest jakiś zakaz Pauliego? Skąd wiesz, że moja kopia ożyje? Albo że będzie miała odrębną świadomość? Jeśli tak myslisz, to zakładasz tezę, która chcesz udowodnić. Trzeba zrobić eksperyment.
