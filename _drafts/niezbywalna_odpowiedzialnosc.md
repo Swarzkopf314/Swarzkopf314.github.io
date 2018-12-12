@@ -29,7 +29,9 @@ czy jesteśmy bardziej zorientowani na dorobienie/odkrycie sensu w kluczowych wy
 
 skąd się wzięła niezbywalna odpowiedzialność? Czy jest warunkiem niezbędnym dla wolnej woli? Wydaje się być sprzężona z wolną wolą, inteligencją i stadnością (jeśli nie masz poczucia odpowiedzialności za swoje czyny, to jakkolwiek silny byś nie był, jeśli inni są dostatecznie inteligentni, to się zorganizują i Cię wykoszą).
 
-Bóg to z definicji poczucie transcendentnej, niezbywalnej odpowiedzialności, dla której jednak można znaleźć teoriogrowe uzasadnienie ewolucyjne.
+
+
+Bóg to z definicji poczucie transcendentnej, niezbywalnej odpowiedzialności, dla której jednak można znaleźć teoriogrowe uzasadnienie ewolucyjne (obrona przed buntem).
 
 Co z sensem jako wysokopoziomową regułą?
 
