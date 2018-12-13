@@ -38,6 +38,15 @@ Czy da się pokazać, że nie może istnieć platoniczna omega? A jeśli tak, to
 Wnioski: Teoria mnogości może mieć model, ale jej rozszerzenie o odpowiednie zdania (które gdzieś platonicznie istnieją, właśnie w tym modelu) przestaje być interpretowalne w tym modelu.
 
 
+Wrzucić wiersze, ale i stare teskty w stylu Liceomachia i Weselicho na bloga.
+Dorzucić też sucharki.
+Filmiki z freestylem
+
+Dlaczego Ida tak śledzi?
+Bo śledź nie idzie.
+
+Dodać kontakt do mnie - email, facebook, linkedin etc.
+
 #### paradoks bliźniąt, niezrozumienie wśród fizyków, dramat, że nawet w fizyce są takie raki
 
 Paradoks bliźniąt - brat przyśpieszający - jego czas, tj. wewnętrzny ruch cząsteczek jego ciała - powstał na ziemi. Wyruszając w podróż zmienia układ odniesienia, w efekcie jest różnica między jego aktualnym czasem, a czasem jego "wnętrzności" ? 
