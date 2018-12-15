@@ -10,7 +10,7 @@ Rozbebeszający, wszędobylski intelekt, który wykorzystuje umysł ścisły, ab
 Że zadaję dużo pytań etc. 
 -->
 
-Nie interesuje mnie szczęście, szczęście to śmierć. Ja chcę się dowiedzieć dokładnie, czym jest to wszystko, ten świat, ja. Mam niewiele czasu, który wybija nas jak muchy.
+Chcę się dowiedzieć dokładnie, czym jest to wszystko, ten świat, ja. Mam niewiele czasu, który wybija nas jak muchy.
 
 W tym celu potrzebuję narzędzi, które pozwolą mi odkryć i zweryfikować nowe zależności. Dlatego chcę mieć dostatecznie wydajną firmę, żeby zatrudniać ludzi, którzy mi w tym pomogą. Inni ludzie mają wielki potencjał, który zazwyczaj marnują. Ja chcę ten potencjał wykorzystać i wszystko, czego potrzebuję, to pieniądze. Dlatego jednym z projektów, które realizuję, jest stworzenie komercyjnej firmy. To stosunkowo łatwe, ale niezbędne. Planuję wystartować do 2020 roku.
 
