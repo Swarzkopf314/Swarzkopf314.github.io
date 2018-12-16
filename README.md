@@ -105,7 +105,15 @@ theme:
 https://janczizikow.github.io/sleek/
 https://jekyllrb.com/docs/themes/
 
-# SLEEK
+# linki
+
+Google on extending our lifes
+https://www.calicolabs.com/
+
+Tinypng
+https://tinypng.com/
+ 
+SLEEK
 https://github.com/janczizikow/sleek
 
 # TODO
