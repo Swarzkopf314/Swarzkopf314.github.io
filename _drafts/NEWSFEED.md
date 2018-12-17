@@ -403,3 +403,13 @@ Morty Smith
 Dlaczego ja to ja? Dlaczego jestem sobą, ale nie jestem Tobą? Tożsamość jest ograniczona przez pamięć. Substancja świadomości jest niezależna od pamięci, ale tożsamość jest zdefiniowana przez pamięć. Ja to kłębek pamięci, ograniczony fragment ogólnej świadomości. Jestem konkretną strukturą świadomości, kryształem soli w solance.
 
 Czy mogą być dwie identyczne struktury świadomości? Może jest jakiś zakaz Pauliego? Skąd wiesz, że moja kopia ożyje? Albo, że będzie miała odrębną świadomość? Jeśli tak myslisz, to zakładasz tezę, którą chcesz udowodnić. Trzeba zrobić eksperyment.
+
+# feminizm
+
+Dorośli radzą sobie w świecie lepiej od dzieci. Czy to dlatego, że świat jest przystosowany do dorosłych, czy raczej dlatego, że dorośli są przystosowani do świata?
+
+Jak dużą moc kosmoplastyczną mają dorośli? A mężczyźni? A fizycy?
+
+"Jestem słaba. Świat powinien przyjść mnie przytulić i jeszcze przeprosić, że tak długo musiałam czekać. To zły świat, który dyskryminuje słabych. Poczekam, aż się zmieni. Wierzę, że kiedyś to się stanie, świat przeprosi, przytuli, a ja mu przebaczę."
+
+A przecież wystarczyłoby powiedzieć: "Jestem słaba. Proszę, pomóż mi stać się silniejszą."
