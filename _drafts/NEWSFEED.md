@@ -413,3 +413,12 @@ Jak dużą moc kosmoplastyczną mają dorośli? A mężczyźni? A fizycy?
 "Jestem słaba. Świat powinien przyjść mnie przytulić i jeszcze przeprosić, że tak długo musiałam czekać. To zły świat, który dyskryminuje słabych. Poczekam, aż się zmieni. Wierzę, że kiedyś to się stanie, świat przeprosi, przytuli, a ja mu przebaczę."
 
 A przecież wystarczyłoby powiedzieć: "Jestem słaba. Proszę, pomóż mi stać się silniejszą."
+
+# IIT + struktury świadomości i zakaz Pauliego
+
+Dlaczego jestem sobą, ale nie Tobą? Co nas odróżnia? Pamięć. Pamięć zadaje strukturę świadomości. Być może nie mogą istnieć dwie zbyt podobne struktury świadomości? Byłoby to coś w rodzaju zakazu Pauliego?
+
+Prawda jest taka, że nie wiemy, co się stanie, jak stworzę swoją idealną kopię - czy moja świadomość dostanie dwa inputy? Czy jedna z moich kopii po prostu nie będzie świadoma, bo druga już istnieje? A może mogą istnieć dwie identyczne?
+
+Czy jest jakaś przestrzeń świadomości? 
+
