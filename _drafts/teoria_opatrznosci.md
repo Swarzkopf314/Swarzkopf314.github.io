@@ -46,3 +46,31 @@ Wszystko sprowadzałoby się do zaufania wobec rzeczywistości - czy rzeczywisto
 
 No nie wiem, biedactwo. A jak wyznaczysz granicę dla absurdalnego wytłumaczenia czegoś? Samą ideę opatrzności można potraktować jako absurd. Np. “zepsucie mojego komputera nie może być świadectwem gorączki Nguney Maruto z Chin.” - dlaczego? A gdyby dopisać do tego wydarzenia jakiś sens? Np. na płycie głównej Twojego komputera jest napisane “made in China by  Nguney Maruto” - czy teraz Twój przykład dalej jest absurdalny? Czy jest sens wyznaczać wobec tego granice? “Absurd” to coś, co nie mieści się w naszych ramach pojęciowych. Ale nasze ramy pojęciowe to nasze konstrukcje, które przykładamy do świata tak, żeby potrafić przewidywać zdarzenia i czuć się dobrze. Ramy pojęciowe to nie świat. Jeśli chcemy stworzyć nową teorię - teorię opatrzności - to z definicji wychodzimy poza dotychczasowe ramy pojęciowe - więc eksplorujemy poniekąd regiony absurdu. Nadajemy sens czemuś, co jest absurdalne, oswajamy absurd i pokazujemy, że działa.
 
+Sek w tym, zeby to zrobic w dostatecznie ostrożny i systematyczny sposób.
+
+Komentarz Gosi z łyżew, której zaproponowałem zastanowienie się nad Opatrznością:
+A propos Opatrzności,  jak zaczęłam myśleć o tym to pomyślałam że ona musiałaby mieć pewną istotną sztywność, nie mogłaby się uczyć ale wyobraziłam sobie że jest głównie zainteresowana tym żeby jej mechanizm pozostał nieodkryty więc właśnie powinna uczyć się reagować i Cię blokować. Tylko że Ty chyba chcesz poznać ten algorytm jak ona się uczy w ramach opracowywania teorii wszystkiego. Jak to testować w ogóle?
+
+
+
+
+
+
+
+# case Marty
+
+Dlaczego czasem życzymy innym ludziom źle? Czy tak naprawdę dlatego, że wierzymy, że te zdarzenia nauczą ich czegoś, czego im brakuje?
+
+bo Marta ostatnio mi powiedziała, że pękła jej vege gumka z jakimś kolesiem 3 dni po okresie i teraz analizuję swoje odczucia, bo z jednej strony autentycznie chcę dla niej jak najlepiej, a z drugiej wyczuwam w sobie jakąś pokusę, żeby życzyć jej tej ciąży - i zastanawiam się, skąd to się bierze. Na razie przekonuje mnie wyjaśnienie, że faktycznie mam przeczucie, że takie wydarzenie by ją nauczyło czegoś, czego moim zdaniem nie rozumie i co odbijało się trochę na mnie. Ale z drugiej strony to byłoby jednak za mocne
+
+może sam stres, że będzie ciąża już wystarczy
+o, mogę jej życzyć, żeby jej się okres spóźnił 2 tygodnie :D
+albo tydzień
+
+ale bardzo mi się podoba ta miara moich odczuć do niej
+
+okres spóźniony 2 tygodnie to trochę za dużo
+ale jak się spóźni tydzień, to spoko, mogę tego jej życzyć
+czyli jakiś kwasik jest, ale niewielki
+
+W związku z tym pytanie - czy Opatrzność przeprowadza podobny proces myślowy? Przywali komuś, ale tylko wtedy, kiedy ten ktoś to zniesie i coś z tego wyniesie? Czy w takim razie bylibyśmy w stanie przewidzieć, jak mocno Marcie spóźni się okres? A może już sama pęknięta gumka jest dostateczną “karą” za niedostateczną samoświadomość seksualną? Czy dało się to przewidzieć? Przysiągłbym, że o tym myślałem, że coś takiego może się stać. Nawet gadałem z Martą dużo wcześniej, że byłoby “zabawnie”, gdyby zaszła w ciążę po mojej wyprowadzce i że czułbym jakiś cień satysfakcji wtedy. Ale niechciana ciąża to za dużo, w gruncie rzeczy chodziło o jakiś prztyczek, jakąś naukę. Pękniętą gumkę dałoby się przewidzieć. Pytanie, czy okres jej się spóźni około tygodnia (tak czuję, że wtedy nauczka byłaby adekwatna).
