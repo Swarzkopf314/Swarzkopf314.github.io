@@ -1,6 +1,6 @@
 ## motywacja
 
-Ludzie dostrzegają sens w zdarzeniach/sekwencjach zdarzeń 
+Ludzie dostrzegają sens w zdarzeniach/sekwencjach zdarzeń, bardzo ciekawie byłoby to sformalizować i zobaczyć, czy faktycznie działa.
 - czy dopisują go arbitralnie, a zdarzeń jest dostatecznie dużo i są dostatecznie pojemne znaczeniowo, że można dopisać cokolwiek?
 - czy może jednak ten sens *odkrywamy*?
 
@@ -74,3 +74,25 @@ ale jak się spóźni tydzień, to spoko, mogę tego jej życzyć
 czyli jakiś kwasik jest, ale niewielki
 
 W związku z tym pytanie - czy Opatrzność przeprowadza podobny proces myślowy? Przywali komuś, ale tylko wtedy, kiedy ten ktoś to zniesie i coś z tego wyniesie? Czy w takim razie bylibyśmy w stanie przewidzieć, jak mocno Marcie spóźni się okres? A może już sama pęknięta gumka jest dostateczną “karą” za niedostateczną samoświadomość seksualną? Czy dało się to przewidzieć? Przysiągłbym, że o tym myślałem, że coś takiego może się stać. Nawet gadałem z Martą dużo wcześniej, że byłoby “zabawnie”, gdyby zaszła w ciążę po mojej wyprowadzce i że czułbym jakiś cień satysfakcji wtedy. Ale niechciana ciąża to za dużo, w gruncie rzeczy chodziło o jakiś prztyczek, jakąś naukę. Pękniętą gumkę dałoby się przewidzieć. Pytanie, czy okres jej się spóźni około tygodnia (tak czuję, że wtedy nauczka byłaby adekwatna).
+
+Czy świat jest opatrznościowy czy czysto mechanistyczny? Czy istnieją wysokopoziomowe reguły rządzące światem? 
+
+Psy istnieją. Jeśli świat jest opatrznosciowy, to psy powinny istnieć z duzym prawdopodobienstwem. Jesli nie jest, to z mniejszym. Więc istnienie psów może zwiększać prawdopodobienstwo a posteriori tego, ze swiat jest opatrznosciowy.
+
+Mechanika kwantowa jest fundamentalne probabilistyczna. Ta probabilistyczna właściwość objawia się w skali wielu eksperymentów - dopiero wtedy widzimy, jak rozkładają się wyniki i że podążają za pewnym rozkładem prawdopodobieństwa. Można powiedzieć, że ten rozkład to właśnie reguła opatrznościowa - indywidualne cząstki zachowuja sie w sposob nieprzewidywalny, ale ich grupa jest już czymś, co podlega pewnej regule. Reguła ta nie jest mechanistyczna, bo nie ma”hidden variables” (eksperyment Bella). Jest to coś “narzuconego z góry”, prawdopodobieństwo kojarzy się z jakimś “duchem”, który “czuwa”, aby swiat podążał w określonym kierunku.
+
+No właśnie, w jaki sposób prawdopodobienstwo wpływa na ruch konkretnego fotonu? Co to znaczy, ze ten ruch podlega pewnej fali prawdopodobienstwa, kiedy rozpatrujemy tylko jeden foton, a nie ich grupę? Dopiero w grupie mozemy sprawdzic te prawdopodobienstwa. Indywidualny foton moze wpaść gdziekolwiek, nie dostrzezemy w jego zachowaniu zadnej reguly, bo patrzymy ze zbyt bliska.
+
+Więc mechanika kwantowa jest fundamentalnie opatrznosciowa. Pytanie, czy opatrzność występuje też w makroskali? Czy zdarzenia, które indywidualnie są czysto losowe, podlegają pewnym regulom opatrznosciowym, jeśli rozważyć sekwencję zdarzeń albo cała grupę zdarzeń?
+
+Makrozdarzenia tez mozemy traktowac jak zdarzenia losowe z pewnym rozkladem prawdopodobienstwa. Jest to uproszczony opis w stosunku do opisu mechanistycznego, ale w praktyce wystarczajacy i w sumie jedyny mozliwy, a byc moze nawet bardziej adekwatny, bo nie wiemy, jak zjawiska kwantowe wplywaja na makroskale (efekt motyla). Pytanie, jak opisac te rozklady prawdopodobienstw dla zdarzen. Mechanistycznie intuicyjnie wszedzie upychamy rozklady jednostajne. A niekoniecznie. Od czego moga zależeć te rozklady? Tutaj mozemy w sesnowny sposob mowic o teorii opatrzności, bo wedlug teorii opatrznosci te rozklady będą takie, aby ukozliwic dzialanie opatrzności z dostatecznie duzym prawdopodobienstwem (czyli w grupie makrozdarzen zaczna sie ujawniac pewne wzorce i tendencje, bo w grupie ujawnia sie rozklady prawdopodobienstw poszczegolnych zdarzen).
+
+Opatrznosciowy/probabilistyczny opis wydarzeń w makroskali. Czy intencje i dążenia ludzi mogą wpływać na prawdopodobieństwa (grup) makrozdarzeń (praktycznie każde makrozdarzenie mozna w sumie traktowac jak grupę mniejszych makroszdarzen)? Czy modlitwa może na to wpływać?
+
+Pojawienie sie w bliskiej odleglosci w czasie wystąpień 314 moze byc opatrznosciowe. Byc moze swiat ma intencje, żeby pokazac mi te numerki blisko siebie, zeby ujawnic w ten sposób działanie opatrzności. Cokolwiek. Nie wiemy, jakie dokladnie jest prawdopodobienstwo tego, ze pan w szatni da mi numerek 314. Mechanistycznie zakladamy, ze moze mi dac jakikolwiek, ale znowu, byc moze to zbyt mala perspektywa. Byc moze fala prawdopodobienstwa dla pana z szatni ma zwiekszona gęstość w okolicy nunerka 314, z jakiegokolwiek powodu. Być może jest to widoczne dopiero z perspektywy tego, ze ja dostrzeglem 314 wczesniej, a potem watpilem w dzialanie opatrznosci - byc moze poprawnym opisem swiata jest tu wlasnie opis, ktory bierze wszystkie te wydarzenia pod uwagę (a nie zaklada, ze ich rozklady sa calkowicie niezalezne i rozwaza pana z szatni w oderwaniu od reszty).
+
+Tego nie wiemy. Nie wiemy, jaki dokladnie jest zwiazek swiadomosci (indywidualnego doświadczenia) ze swiatem. Być moze swiatem rządzą tego typu reguły opatrznosciowe.
+
+Podobnie zła osoba moze zwiekszac prawdopodobienstwo, ze zachoruje. Marta moze zwiekszac ryzyko tego, ze zajdzie w ciaze etc.
+
+To jest teoria jak najbardziej naukowa. Jest weryfikowalna. Trzeba zebrac dostatecznie duzo przypadkow i je przeanalizowac pod katem prawdopodobienstw. Nasz postulat jest taki, ze znamy pewne reguly rzadzace opatrznościa, czyli znamy mniej wiecej rozklady prawdopodobienstw pewnych zdarzen. Szukamy takich sekwencji zdarzen, w ktorych te rozklady moglyby sie ujawnic. Nie ujawnia sie zawsze, tak samo, jak grupa 100 fotonow nie zawsze da kanoniczny rozklad na ekranie.
