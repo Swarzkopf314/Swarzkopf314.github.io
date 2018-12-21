@@ -23,7 +23,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://satkiewicz.it" # the base hostname & protocol for your site, e.g. http://example.com
 base_url: ""
 hero_img: 'panteon.jpg'
-img_url: 'assets/img/'
+img_url: '/assets/img/'
 
 github_username:  Swarzkopf314
 google_analytics: UA-125781990-1
