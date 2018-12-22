@@ -31,7 +31,7 @@ skąd się wzięła niezbywalna odpowiedzialność? Czy jest warunkiem niezbędn
 
 
 
-Bóg to z definicji poczucie transcendentnej, niezbywalnej odpowiedzialności, dla której jednak można znaleźć teoriogrowe uzasadnienie ewolucyjne (obrona przed buntem).
+Bóg to z definicji poczucie transcendentnej, niezbywalnej odpowiedzialności, dla której jednak można znaleźć teoriogrowe uzasadnienie ewolucyjne (obrona przed buntem). To bunt jest tym transcendentnym, ledwie przeczutym, wymykającym się doświadczeniu. Silni nie doświadcza rodzącego się buntu, to tylko pewna perspektywa, przeczucie, groźba "spoza świata", więc transcendentna.
 
 Co z sensem jako wysokopoziomową regułą?
 

@@ -96,3 +96,60 @@ Tego nie wiemy. Nie wiemy, jaki dokladnie jest zwiazek swiadomosci (indywidualne
 Podobnie zła osoba moze zwiekszac prawdopodobienstwo, ze zachoruje. Marta moze zwiekszac ryzyko tego, ze zajdzie w ciaze etc.
 
 To jest teoria jak najbardziej naukowa. Jest weryfikowalna. Trzeba zebrac dostatecznie duzo przypadkow i je przeanalizowac pod katem prawdopodobienstw. Nasz postulat jest taki, ze znamy pewne reguly rzadzace opatrznościa, czyli znamy mniej wiecej rozklady prawdopodobienstw pewnych zdarzen. Szukamy takich sekwencji zdarzen, w ktorych te rozklady moglyby sie ujawnic. Nie ujawnia sie zawsze, tak samo, jak grupa 100 fotonow nie zawsze da kanoniczny rozklad na ekranie.
+
+
+## Opatrzność == wola == tożsamość == funkcja falowa
+
+Informacja to zawężenie rozkładu prawdopodobieństwa przyszłych możliwych stanów. Informację sumujemy, sumując log-prawdopodobieństwa. Konfiguracje zawierają informację, która jest (predyktywnie przydatna) czymś więcej, niż sumą swoich części
+
+Świat kwantowy jest fundamentalnie probabilistyczny. Jak jest zaimplementowane to prawdopodobieństwo? Objawia się dopiero w przypadku wielu zdarzeń - nie zobaczymy prawdopodobieństwa w przypadku jednego fotonu czy jednego eksperymentu.
+
+Podobnie Opatrzność nie objawi się zaledwie w jednym zdarzeniu. Opatrzność to dokładnie rozkład prawdopodobieństwa, zawężenie przyszłych możliwości, funkcja falowa. Opatrzność objawia się w sekwencjach zdarzeń. To funkcja falowa opisująca makrozdarzenia, która objawia się dopiero w sekwencji wielu makrozdarzeń - bo dopiero wtedy widać tendencję, dopiero wtedy może być mowa o prawdopodobieństwie.
+
+Prawdopodobieństwo == intencja
+
+Losowość umożliwia wolną wolę. Człowiek wydobywa z chaosu wzorce. Te wzorce są arbitralne, ale zależą od struktury (świadomości) człowieka. Te wzorce z kolei kształtują świat człowieka, a to dalej wpływa na decyzje tego człowieka. Decyzje wydają się zdeterminowane (a przynajmniej ograniczone do pewnego rozkładu prawdopodobieństwa?), ale ich determinacja wynika ze świata, w jakim żyje człowiek, ten świat wydobywa się z chaosu, a sposób, w jaki się wydobywa zależy od człowika, od struktury jego świadomości, od jego intencji, od jego woli. 
+
+Wola to nie jest wybór spośród dostępnych możliwości - to sposób interpretacji chaosu. Istotą świadomości jest porządkowanie chaosu, wydobywanie, a raczej tworzenie wzorców. Jeśli świadomość ma pewną intencję, to z tą intencją będzie obserwować świat. Wówczas “wyłowi” ze świata (ze zbioru zdarzeń) zdarzenia, które pasują do tej intencji. W ten sposób świadomość wytworzy sobie świat z wyłowionych z chaosu zdarzeń, które odpowiadają jej intencji. W tym świecie zapadną pewne decyzje, bo odfiltrowane zdarzenia zaczną ze sobą oddziaływać. W efekcie zwiększy się prawdopodobieństwo, że świadomość wyewoluuje w sposób zgodny z intencją. A więc świadomość ma strukturę, dzięki niej filtruje, dzięki filtrowaniu dookreśla swoją strukturę, w strukturze świadomości zachodzą decyzje (zdeterminowane, ale jak zobaczyliśmy, są zdeterminowane samą strukturą świadomości, więc w gruncie rzeczy wolne, bo zależą tylko od świadomości), te decyzje odpowiednio wpływają na świat i dodają nowe zdarzenia, które następnie można filtrować. Tak więc świadomość jest pewną siłą, która porządkuje i kierunkuje zdarzenia. Świadomość zadaje pewien rozkład prawdopodobieństwa na zdarzeniach, który ujawnia się w sekwencji zdarzeń (bo nie w jednym zdarzeniu). Świadomość jest falą prawdopodobieństwa. Jest opatrznością.
+
+Tak więc mamy ten sam schemat/opis/strukturę na trzech poziomoach - mechaniki kwantowej, świadomości człowieka i być może Opatrzności (czyli siły porządkującej makrozdarzenia, ale zdarzenia niezależne od ludzi - tego nie możemy sprowadzić wyłącznie do działania ludzi. To zdarzenia wykraczjące poza działanie ludzi, przynależące do świata nieożywionego, “przypadki”).
+
+Więc jeszcze raz, pytaliśmy, w jaki sposób w świecie “zaimplementowane” jest prawdopodobieństwo, czym są funkcje falowe, co sprawia, że fotony w sekwencji pomiarów dają wyniki, które podchodzą pod pewien rozkład prawdopodobieństwa. Znaleźliśmy analogię z człowiekiem, ze świadomością człowieka (a nawet z postulowanymi własnościami Opatrzności). Człowiek wpływa na świat, bo filtruje zdarzenia zgodnie ze swoją strukturą. Jego struktura zawęża prawdopodobieństwo nie tylko dotyczące jego decyzji, ale przede wszystkim dotyczące interpretacji świata. Człowiek wpływa na świat, bo go interpretuje. Świadomość jest strukturą przede wszystkim interpretującą, filtrującą. Mając interpretację bodźców, świadomość może podjąć akcje, które są zdeterminowane tą interpretacją. W ten sposób świadomość wpływa na ewolucję rzeczywistości, kierunkuje tę ewolucję zgodnie z tym, w jaki sposób interpretuje świat.
+
+Czy Opatrzność interpretuje świat?
+
+Czy obiekty kwantowe interpretują świat?
+
+# Dekoherencja
+
+Czy to nie jest czasem wstęp do rozwiązania zagadki dekoherencji? Każdy obiekt kwantowy jest pewną informacją. A więc w jakimś sensie zawężeniem możliwości. Ale być może nie zdeterminowaniem tych możliwości. Informacja nie musi być zdeterminowaniem możliwości, to klasyczny, mechanistyczny obrazek. Informacja to zawężenie chaosu, ale nie do jednej możliwości. To zawężenie, które się objawia w sekwencjach różnych zdarzeń, bo dopiero wtedy można mówić o prawdopodobieństwie.
+
+Więc obiekty kwantowe mają pewne intencje. Filtrują swoje otoczenie, interpretują. Tak, obiekty kwantowe interpretują to, co się wokół nich dzieje, wydobywają z okolicznych zdarzeń takie, które pasują do ich “intencji”, to ich “kierunku” ewolucji, do ich “woli”, struktury, Obiekty kwantowe to takie małe świadomości, które interpretują otoczenie, tworzą wewnętrzne modele, na bazie tych modeli podejmują decyzje i wpływają na świat w sposób zgodny z tym, jak go interpretują, czyli w sposób zgodny ze swoją strukturą, informacją, którą niosą, sposobem zawężania możliwości. Więc wszystko interpretuje i filtruje wszystko wokół, zgodnie ze swoją wewnętrzną intencją.
+
+Czy cząstki elementarne to atomy świadomości? Czy elektron to zawsze konkretna intencja, dlatego zawsze ma takie same własności, tj. zawsze w ten sam sposób oddziałuje ze światem, czy też zawęża pewne możliwości? Czy świadomość to orkiestra złożona z tych atomów?
+IIT - Integrated Information Theory - cząstka złożona z atomów świadomości ma więcej informacji, niż suma informacji zawartych w atomach. Nie zawsze, ale jeśli tak jest, to tworzy się nowa jakość - nowa informacja, nowy sposób zawężania możliwości, nowy sposób filtrowania i interpretowania otoczenia, a w konsekwencji nowy sposób wpływania na otoczenie.
+
+Świat jest taką strukturą informacji.
+
+Fala prawdopodobieństwa == filtrowanie zdarzeń == intencja == świadomość
+
+Świadomość to struktura informacji. Wydaje nam się, że “jesteśmy w mózgu”, bo nasz struktura informacji jest oparta na danych dostarczanych do mózgu i przetwarzanych przez mózg. Ale “mózg” to tylko podstruktura struktury informacji. Nasz punkt widzenia jest własnością tej struktury informacji. Jest to struktura z punktem widzenia. Nazywamy to “ja”.
+
+Raczej nie każda struktura informacji ma punkt widzenia. Zapewne istnieją struktury informacji, które nie są oparte na działaniu mózgu. Nie są scentralizowane. Te struktury mogą dalej interpretować rzeczywistość, a w konsekwencji na nią wpływać, bo podejmują działania na bazie swojej interpretacji.
+
+Przedmioty to takie (zdecentralizowane?) struktury informacji. Przedmiot wpływa na swoje otoczenie, tj. ogranicza możliwości. Czy są większe, mniej widzialne struktury? 
+
+My żyjemy wewnątrz tych struktur. Żyjemy wśród struktur informacji, które filtrują i interpretują otoczenie. Te struktury mają wpływ na nasze interpretacje. Interpretujemy się wzajemnie.
+
+Człowiek i świat wzajemnie się interpretują. Czyli nie tylko wpływają na siebie bezpośrednio (zdarzenia jednostkowe), ale także zawężają wzajemnie swoje możliwości. Działają na siebie nawzajem opatrznościowo. Człowiek porusza się w świecie z pewnymi intencjami, więc ma na ten świat wpływ opatrznościowy, intencjonalny, opisywalny tylko z perspektywy sekwencji zdarzeń, bo dopiero wtedy widać tendencje i jest sens mówić o prawdopodobieństwie. Ale tak samo świat interpretuje człowieka, oddziałuje na niego zgodnie ze swoimi filtrami, interpretacjami i intencjami. Świat ma wpływ opatrznościowy na człowieka.
+
+Tj. powyższe zachodzi przy założeniu, że zarówno świat, jak i człowiek to struktury informacji, które filtrują i interpretują otoczenie, a następnie na nie oddziałują. Człowiek jest przywiazany do mózgu, jest strukturą z punktem widzenia. Świat nie musi mieć punktu widzenia, ale ciągle może mieć swoje filtry i interpretacje.
+
+Tak więc teoria sprowadza się do opisu struktury i dynamiki świadomości.Jakie struktury świadomości obecne są w świecie? Jak filtrują i interpretują ten świat? A jeśli dana jest interpretacja, tj. pewna struktura informacji, to w jaki sposób ta struktura ewoluuje? Na skutek ewolucji (zmiany) struktury informacji zmienia się sposób zawężania możliwości (otoczenia). Potrafimy dość dobrze opisać struktury naszych, scentralizowanych struktur informacji (psychologia). Dobrze opisujemy też struktury informacji odpowiadające cząstkom elementarnym i przedmiotom (fizyka). Co ze strukturami mniej stałymi? Przedmioty to struktury deterministyczne, ale ludzie i cząstki kwantowe to struktury probabilistyczne. Czy są jakieś jeszcze struktury probabilistyczne w świecie? Opatrzność to dobry kandydat na taką strukturę.
+
+Reasumując, Opatrzność jest probabilistyczną strukturą informacji, która filtruje i interpretuje świat, a następnie na bazie (pewnie jakiejś kanonicznej) mechaniki informacji podejmuje decyzje w terminach tych interpretacji, tj. Ewoluuje w określony sposób, a zmieniając się, zmienia sposób, w jaki zawęża pewne możliwości w świecie.
+
+Przykładowo jeśli Opatrzność chce dobrze dla Maćka, to będzie siłą, która zwiększa prawdopodobieństwo tego, że pojawią się zdarzenia sprzyjające Maćkowi. Będzie tłumić zdarzenia negatywne i propagować pozytywne. Będzie filtrować ze świata zdarzenia pozytywne.
+
+
+
