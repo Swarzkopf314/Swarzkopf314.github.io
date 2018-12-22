@@ -152,3 +152,5 @@ Reasumując, Opatrzność jest probabilistyczną strukturą informacji, która f
 Przykładowo jeśli Opatrzność chce dobrze dla Maćka, to będzie siłą, która zwiększa prawdopodobieństwo tego, że pojawią się zdarzenia sprzyjające Maćkowi. Będzie tłumić zdarzenia negatywne i propagować pozytywne. Będzie filtrować ze świata zdarzenia pozytywne.
 
 Ludzie wpływają na ewolucję świata w DOKŁADNIE TAKI SAM SPOSÓB, w jaki funkcja falowa “wpływa” na ewolucję cząstki. A zatem pełna analogia. Analogicznie miałaby działać Opatrzność w stosunku do zdarzeń “nieożywionych”, przypadków. Dlaczego nie?
+
+Oddziałujemy na ewolucję świata tak samo, jak funkcje falowe "oddziałują" na ewolucję cząstek. Decyzja to dekoherencja.
