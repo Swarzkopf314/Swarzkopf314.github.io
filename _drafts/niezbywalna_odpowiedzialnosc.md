@@ -14,7 +14,7 @@ Czy Bóg jest implementacją teorii gier w naszych umysłach, czy to on sam zaim
 
 ## symulacja ze specyfikacją (krótko i na temat)
 
-Bóg jako cel symulacji. Celu może nie być, a może to symulacja treningowa. To jest współczesne ujęcie religii. Krótko i na temat.
+Bóg zdefiniowany jako cel symulacji. Celu może nie być, a może to symulacja treningowa. To jest współczesne ujęcie religii. Krótko i na temat.
 
 Kryteria wyboru teorii egzystencjalnych są inne niż kryteria wyboru teorii naukowych - kryteria naukowe są niepraktyczne dla teorii egzystencjalnych, byłyby praktyczne, gdybyśmy potrafili wyjść poza naszą rzeczywistość. A skoro nie potrafimy, to potrzebujemy innych kryteriów.
 Teoria naukowa ma być pragmatyczna. Teoria egzystencjalna ma mnie rozwijać.
