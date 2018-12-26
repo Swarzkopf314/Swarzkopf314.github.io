@@ -116,6 +116,11 @@ https://tinypng.com/
 SLEEK
 https://github.com/janczizikow/sleek
 
+seo
+https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
+
+google tags
+
 # TODO
 
 - [X] Dodać disqs na strone

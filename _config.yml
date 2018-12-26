@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Ostukiwanie rzeczywistości
+author: Maciej Satkiewicz
 email: msatkiewicz@gmail.com
 description: |
   This is my idea playground.
@@ -25,6 +26,8 @@ base_url: ""
 hero_img: 'panteon.jpg'
 img_url: '/assets/img/'
 
+lang: pl
+
 github_username:  Swarzkopf314
 facebook_username: maciej.satkiewicz
 google_analytics: UA-125781990-1
@@ -32,14 +35,9 @@ google_analytics: UA-125781990-1
 # Build settings
 markdown: kramdown
 
-# theme: jekyll-sleek
-theme: minima
-# theme: jekyll-theme-slate
-# theme: jekyll-theme-cayman
-# theme: jekyll-theme-architect
-
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 disqus:
   shortname: satkiewicz-it
