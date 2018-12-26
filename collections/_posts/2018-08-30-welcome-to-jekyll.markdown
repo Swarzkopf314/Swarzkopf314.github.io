@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Welcome to Jekyll!"
 date:   2018-08-30 11:53:24 +0200
 featured-img: sleek

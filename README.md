@@ -120,6 +120,7 @@ seo
 https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 
 google tags
+- poszukać
 
 # TODO
 

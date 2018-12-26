@@ -45,6 +45,8 @@ disqus:
 
 paginate: 9
 navigation:
+  - name: Wiersze
+    link: /poems
   - name: O mnie
     link: /about
 
@@ -58,6 +60,19 @@ compress_html:
     envs: []
 
 collections_dir: collections
+collections:
+  - posts
+  - poems
+
+defaults:
+  - scope:
+      path: "collections/_posts"
+    values:
+      layout: post
+  - scope:
+      path: "collections/_poems"
+    values:
+      layout: poem
 
 sass:
   sass_dir: _sass
