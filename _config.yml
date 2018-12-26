@@ -23,6 +23,7 @@ description: |
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://satkiewicz.it" # the base hostname & protocol for your site, e.g. http://example.com
 base_url: ""
+
 hero_img: 'panteon.jpg'
 img_url: '/assets/img/'
 
@@ -55,6 +56,8 @@ compress_html:
   blanklines: false
   ignore:
     envs: []
+
+collections_dir: collections
 
 sass:
   sass_dir: _sass
