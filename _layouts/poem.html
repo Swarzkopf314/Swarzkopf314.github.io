@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+<main class="site__content">
+
+  <div class="container">
+    <div class="page-content">
+
+      <!-- <h2>{{page.title}}</h2><br/> -->
+
+      <strong>{{ content | newline_to_br }}</strong>
+
+    </div>
+  </div>
+
+
+  {% include prev_and_next.html %}
+
+
+  {% if site.disqus.shortname %}
+
+  <div class="comments">
+    <div class="container">
+      <div class="post-content">
+
+        {% include disqus.html %}
+
+      </div>
+    </div>
+  </div>
+
+  {% endif %}
+
+</main>
+

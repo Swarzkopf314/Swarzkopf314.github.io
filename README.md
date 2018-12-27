@@ -116,6 +116,9 @@ https://tinypng.com/
 SLEEK
 https://github.com/janczizikow/sleek
 
+LIQUID FILTERS
+https://jekyllrb.com/docs/liquid/filters/
+
 seo
 https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 

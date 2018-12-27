@@ -60,9 +60,14 @@ compress_html:
     envs: []
 
 collections_dir: collections
+permalink: /:collection/:title/
+
 collections:
-  - posts
-  - poems
+  poems:
+    output: true
+    permalink: /:collection/:title/
+  posts:
+    output: true
 
 defaults:
   - scope:

@@ -1,5 +1,11 @@
 ---
 layout: default
+<!-- layout: page -->
+permalink: /poems
+title: Wiersze
+desc: Zapis dawnych poszukiwań poetyckich
+bg_img: panteon.jpg
+
 ---
 
 <main class="site__content">
@@ -7,8 +13,8 @@ layout: default
     <div class="container">
       <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
 
-        {% for post in paginator.posts %}
-          {% include card.html %}
+        {% for post in site.poems %}
+          {% include poem_card.html %}
         {% endfor %}
 
         <!-- {% include pagination.html %} -->
