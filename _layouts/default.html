@@ -19,6 +19,23 @@ layout: compress
 
     {% include header.html %}
 
+    {% if page.bg_img %}
+      <div class="hero lazyload" data-bg="{{ site.url }}{{ site.baseurl }}{{ site.img_url }}{{ page.bg_img }}"
+      >
+        <div class="hero__wrap">
+          <h1 class="hero__title">{{ page.title | escape }}</h1>
+          <p class="hero__meta">{{ page.desc }}</p>
+        </div>
+      </div>
+    {% else %}
+      <div class="hero--small">
+        <div class="hero__wrap">
+          <h1 class="hero__title">{{ page.title }}</h1>
+          <p class="hero__meta">{{ page.desc }}</p>
+        </div>
+      </div>
+    {% endif %}
+
       {{ content }}
 
     {% include footer.html %}
