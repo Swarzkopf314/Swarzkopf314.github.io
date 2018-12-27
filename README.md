@@ -122,6 +122,9 @@ https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 google tags
 - poszukać
 
+content_for
+https://github.com/rustygeldmacher/jekyll-contentblocks
+
 # TODO
 
 - [X] Dodać disqs na strone
