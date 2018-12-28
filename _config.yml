@@ -66,6 +66,7 @@ collections:
   poems:
     output: true
     # permalink: /:collection/:title/
+    layout: poem
   posts:
     output: true
 
