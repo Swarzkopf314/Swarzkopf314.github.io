@@ -66,17 +66,19 @@ collections:
   poems:
     output: true
     # permalink: /:collection/:title/
-    layout: poem
+    # layout: poem
   posts:
     output: true
 
 defaults:
   - scope:
-      path: "collections/_posts"
+      path: ""
+      type: "posts"
     values:
       layout: post
   - scope:
-      path: "collections/_poems"
+      path: ""
+      type: "poems"
     values:
       layout: poem
 
