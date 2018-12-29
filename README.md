@@ -119,6 +119,9 @@ https://github.com/janczizikow/sleek
 LIQUID FILTERS
 https://jekyllrb.com/docs/liquid/filters/
 
+jekyll data files
+https://jekyllrb.com/docs/datafiles/
+
 seo
 https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 
