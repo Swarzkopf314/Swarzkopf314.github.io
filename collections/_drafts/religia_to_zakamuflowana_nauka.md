@@ -201,3 +201,53 @@ Maciej
 
 Maciej
 Ja te, noc! 🙂
+
+
+### Jola
+
+no że jak czegoś mocno chcesz, to to przyciągasz
+ta chęć modyfikuje wszechświat ;D
+Jolanta Bartoszewska
+
+nagina prawdopodobieństwa
+Wyświetlone przez Jolanta Bartoszewska o 17:50
+to tzw. new age, to banda narwańców, ale sama teoria jest ciekawa;
+
+tj. główna idea teorii
+
+bo oni robią z ciekawej i potencjalnie prawdziwej idei jakieś gówno
+
+dla mnie pytanie sprowadza się do tego, czy świat w makroskali jest czysto dynamiczny, czy jednak rządzą nim jakieś wysokopoziomowe reguły, jakieś makroskopowe funkcje falowe
+
+siły w stylu karmy czy opatrzności
+
+ostatnio miałem rozkminę, ze religie to tak naprawdę zakamuflowane teorie naukowe; content metafizyczny jest tylko sposobem myślenia o tym, co de facto jest teorią fizyczną
+
+np. taka karma to przecież coś w gruncie rzeczy werfyfikowalnego
+
+że karma wraca
+
+czyli jak ktoś robi źle, to zwiększa prawdopodobieństwo, że będą mu się przytrafiać złę rzeczy
+
+i to można zweryfikować, tylko to nie jest takie elementarne, że robisz jeden eksperyment, masz jeden wynik i już wszystko wiesz. Tu są prawdopodobieństwa, więc musisz uśrednić po wielu obserwacjach
+
+ale to jak najbardziej weryfikowalna teoria naukowa i ciekawie byłoby to sprawdzić, spróbuję zainspirować ludzi, zeby do takich badań doszło, tylko trzeba to przemyśleć od strony metodologicznej
+
+w jakimś stopniu taka karma działa na bank, bo np. w społeczności sprowadza się do mechanizmów psychologicznych i socjologicznych
+
+ale pytanie, czy działa też ogólnie w świecie
+
+czy wszechświat jest karmiczny 😀
+
+bo że społeczeństwo jest to raczej jasne
+
+dla mnie karma dziala w podobny sposob jak wrozby 😜 jak wrozka nagada Ci o przeznaczeniu to ludziom to sie sprawdza, bo tak bardzo w to wierza, ze sami doprowadzaja, zeby sprawy zeszly na taki tok 😜 tak samo karma ktos gdzies w glebi jednak czuje sie odpowiedzialny za swoje czyny
+Maciej
+no ale właśnie nie o tym mowa, to jest właśnie psychologiczne wyjaśnienie częśći rzeczy, ale pytanie, czy świat jest karmiczny, tj. czy zdarzenia i przypadki niezależne od Twojej woli ani nawet niczyjej też podlegają takiemu nagiętemu prawdopodobieństwu
+coś w stylu - czy jak jesteś zła, to będziesz przegrywać częściej w kasynie (choć to oczywiste uproszczenie)
+Wyświetlone przez Jolanta Bartoszewska o 18:09
+jestem w stanie sobie wyobrazić, że za 100lat karma jest ogólnie akceptowalną częścią fizyki
+
+i np. leci kometa na Ziemię, ale jest szansa, że nas ominie i są obliczenia, że jak będziemy dobrzy dla siebie, to zwiększymy tę szansę 😀
+
+to całkiem sensowna hipoteza, nie można wykluczyć, że świat działa w taki sposób, trzeba zrobić odpowiednie badania i to zweryfikować
