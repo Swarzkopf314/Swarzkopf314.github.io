@@ -422,3 +422,5 @@ Prawda jest taka, że nie wiemy, co się stanie, jak stworzę swoją idealną ko
 
 Czy jest jakaś przestrzeń świadomości? 
 
+
+### porozumienie to mit albo szczęśliwy zbieg okoliczności
