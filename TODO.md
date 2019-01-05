@@ -1,5 +1,3 @@
-- kategorie dodać
-- dodać tagi
 - dodać lepszą nawigację (back/breadcrumbs)
 
 # linki
@@ -34,3 +32,6 @@ https://github.com/rustygeldmacher/jekyll-contentblocks
 
 jekyll breadcrumbs
 https://stackoverflow.com/questions/9612235/what-are-some-good-ways-to-implement-breadcrumbs-on-a-jekyll-site
+
+jekyll tags & categories
+https://blog.webjeda.com/jekyll-categories/
