@@ -101,49 +101,6 @@ również:
 
 Pisać tutaj notatki w formie postów? (Dział: posty nieuporządkowane?)
 
-theme:
-https://janczizikow.github.io/sleek/
-https://jekyllrb.com/docs/themes/
-
-# linki
-
-Google on extending our lifes
-https://www.calicolabs.com/
-
-Tinypng
-https://tinypng.com/
- 
-SLEEK
-https://github.com/janczizikow/sleek
-
-LIQUID FILTERS
-https://jekyllrb.com/docs/liquid/filters/
-
-jekyll data files
-https://jekyllrb.com/docs/datafiles/
-
-seo
-https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
-
-google tags
-- poszukać
-
-content_for
-https://github.com/rustygeldmacher/jekyll-contentblocks
-
-# TODO
-
-- [X] Dodać disqs na strone
-- [ ] Dodac link do coinow na LinkedIn?
-- [x] Dodać lepszy licznik odwiedzin?
-- [X] [Google analytics](https://michaelsoolee.com/google-analytics-jekyll/)
-- [ ] Airdrop tokenów przyszłych firm [howto](https://medium.freecodecamp.org/how-i-built-a-multi-token-airdrop-central-to-distribute-erc20-tokens-cb70b6218b5c)
-
-# COIN, promocja
-
-Airdrop każdego coinow przyszlego projektu i firmy dla posiadaczy SatkiewiczCoina. Przynajmniej jeden z nich na pewno bedzie sukcesem (choćby ten zwiazany z moim aktualnym researchem).
-
-## tagi, działy, wzajemne linkowanie dość krótkich wpisów:
 
 Filozofia, Bóg, etc.
 Poezja
