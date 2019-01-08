@@ -424,3 +424,14 @@ Czy jest jakaś przestrzeń świadomości?
 
 
 ### porozumienie to mit albo szczęśliwy zbieg okoliczności
+
+
+### wiara wciąż jak węgiel jeszcze zielony
+
+jeszcze zielony węgiel -> rośliny, życie
+jeszcze zielony -> niedojrzały
+
+"węgiel" -> kamień węgiely, fundament
+węgiel -> źródło energii, pokarm
+
+
