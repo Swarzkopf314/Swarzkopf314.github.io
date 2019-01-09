@@ -31,3 +31,9 @@ dość pesymistyczne
 Czyli konstruujemy świat za pomocą tego, co odfiltrujemy z percepcji. Nasze mózgi widzą dużo, dużo więcej, niż my i wykonują dramatycznie dużą pracę, żeby stworzyć nam spójny obraz świata. Więc struktura świadomości definiuje także to, co do tej świadomości trafi, co mózg do tej świadomości dopasuje, inne rzeczy wyrzuci; albo zachowa i przyniesie, kiedy będą pasować. Więc to nasza percepcja jest opatrznościowa, to ona filtruje i interpretuje bodźce w taki sposób, aby zbudowany w ten sposób świat miał sens.
 
 # dlatego ważne jest przetestowanie Opatrzności, jednak
+
+widzisz w świecie działanie Boga, fair enough, ja też widzę
+ale czym to dokładnie jest, tego nie wiemy, to może być złudzenie
+więc trzeba przeformułować sposób, w jaki myślimy o tym „działaniu Boga"
+tak, aby uzyskać teorię pozwalającą robić jakieś przewidywania
+i dopiero kiedy te przewidywania się statystycznie sprawdzają możesz powiedzieć, że faktycznie w świecie występuje „działanie Boga”, czymkolwiek ono jest
