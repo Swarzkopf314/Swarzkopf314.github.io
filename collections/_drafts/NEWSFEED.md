@@ -435,3 +435,24 @@ jeszcze zielony -> niedojrzały
 węgiel -> źródło energii, pokarm
 
 
+### sen z Mileną, która akurat przyszła do pracy po miesiącu i akurat mnie pierwszy raz o coś zapytała
+
+nie było jej od grudnia, bo pisała inżynierkę, a dzisiaj pierwszy raz ever mi się śniła i to tak, że siedzę w pracy, ona obok o coś mnie pyta, a potem mnie całuje w ucho, potem w policzek, delikatnie, ale miała gorące usta. Potem oddałem w szyję, ona idzie, patrzę w lewo, a koledzy pełni uznania
+
+ale podoba mi się poetyka tego snu, taka japońska wręcz, ostrożny, delikatny pocałunek z całym napięciem zamkniętym w jednym punkcie gorących ust, jak w wiśni
+
+
+### pesymizm, co, jeśli Opatrzność to złudzenie, trzeba koniecznie przetestować ją eksperymentalnie pod kątem przewidywań
+
+a widzisz, to też nas czegoś uczy - co, jeśli wszystkie przypadki, które bierzemy za znaki, sprowadzają się do tego snu?
+
+do case’u tego snu (bo przeczułem, że Milena dziś będzie)
+
+more or less. **Po prostu mózgi wiedzą i filtrują dużo więcej, niż trafia do świadomości**
+
+**i przepuszczają to, co do tej świadomości „pasuje"**
+
+dość pesymistyczne
+
+Czyli konstruujemy świat za pomocą tego, co odfiltrujemy z percepcji. Nasze mózgi widzą dużo, dużo więcej, niż my i wykonują dramatycznie dużą pracę, żeby stworzyć nam spójny obraz świata. Więc struktura świadomości definiuje także to, co do tej świadomości trafi, co mózg do tej świadomości dopasuje, inne rzeczy wyrzuci; albo zachowa i przyniesie, kiedy będą pasować. Więc to nasza percepcja jest opatrznościowa, to ona filtruje i interpretuje bodźce w taki sposób, aby zbudowany w ten sposób świat miał sens.
+

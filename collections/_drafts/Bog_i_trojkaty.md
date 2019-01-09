@@ -1,5 +1,4 @@
-# Bóg jako wszechobecna, optymalizująca wola, której doświadczamy
-
+# Bóg jako pojęcie abstrakcyjne, które ułatwia konstruowanie teorii świata
 
 Bóg w religii pełni identyczną funkcję, jak matematyka w fizyce - jest metafizyczną historią, która kierunkuje myślenie i wyznacza interpretację danych. W tym sensie pytanie o obiektywne istnienie Boga jest w pełni analogiczne do pytania o obiektywne istnienie trójkątów czy przestrzeni Hilberta.
 
@@ -13,4 +12,22 @@ Ogólną cechą wszystkich religii jest postulat, że jesteśmy rozliczani za sw
 
 Oczywiście aby zweryfikować, czy tego typu mechanizm faktycznie działa w świecie, trzeba rozwiązać poważne problemy metodologiczne. Ale wydaje się, że się da. Zachęcam do pomyślenia.
 
+# Bóg jako wszechobecna, optymalizująca wola, której doświadczamy
 
+Ale Bóg to właśnie coś więcej, niż idea. To wola, którą wyczuwamy w świecie. Bóg to nie tylko historia metafizyczna, to również bezpośrednie doznanie, Boga wyczuwamy, poznajemy efekty jego woli, wyczuwamy napięcie, z jakim wiąże się doświadczanie czyjejś woli. Czy ta wola faktycznie istnieje, tj. czy w weryfikowalny sposób wpływa na świat? (swoją drogą to ciekawa definicja istnienia).
+
+# Bóg jako byt konieczny?
+
+Mamy intuicję bytu i nicości. I badając tę intuicję można dojść do wniosku, że absolutna „nicość” powinna z definicji nie istnieć. Czyli byt z konieczności istnieje. Oczywiście tutaj jest to dość mętne, bo używamy intuicyjnych pojęć pierwotnych. Ale zastanawiam się, czy to nie jest właśnie intuicja konieczności istnienia Boga?
+
+# torowanie przypadku?
+
+**Po prostu mózgi wiedzą i filtrują dużo więcej, niż trafia do świadomości**
+
+**i przepuszczają to, co do tej świadomości „pasuje"**
+
+dość pesymistyczne
+
+Czyli konstruujemy świat za pomocą tego, co odfiltrujemy z percepcji. Nasze mózgi widzą dużo, dużo więcej, niż my i wykonują dramatycznie dużą pracę, żeby stworzyć nam spójny obraz świata. Więc struktura świadomości definiuje także to, co do tej świadomości trafi, co mózg do tej świadomości dopasuje, inne rzeczy wyrzuci; albo zachowa i przyniesie, kiedy będą pasować. Więc to nasza percepcja jest opatrznościowa, to ona filtruje i interpretuje bodźce w taki sposób, aby zbudowany w ten sposób świat miał sens.
+
+# dlatego ważne jest przetestowanie Opatrzności, jednak
