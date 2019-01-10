@@ -456,3 +456,7 @@ dość pesymistyczne
 
 Czyli konstruujemy świat za pomocą tego, co odfiltrujemy z percepcji. Nasze mózgi widzą dużo, dużo więcej, niż my i wykonują dramatycznie dużą pracę, żeby stworzyć nam spójny obraz świata. Więc struktura świadomości definiuje także to, co do tej świadomości trafi, co mózg do tej świadomości dopasuje, inne rzeczy wyrzuci; albo zachowa i przyniesie, kiedy będą pasować. Więc to nasza percepcja jest opatrznościowa, to ona filtruje i interpretuje bodźce w taki sposób, aby zbudowany w ten sposób świat miał sens.
 
+I to filtrowanie wpływa na nasze decyzje, a więc to jest rodzaj wolnej woli - nawet, jeśli jesteśmy deterministyczni, to jesteśmy wolni, bo filtrujemy chaos zgodnie ze swoją strukturą.
+
+
+

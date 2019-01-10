@@ -30,6 +30,10 @@ dość pesymistyczne
 
 Czyli konstruujemy świat za pomocą tego, co odfiltrujemy z percepcji. Nasze mózgi widzą dużo, dużo więcej, niż my i wykonują dramatycznie dużą pracę, żeby stworzyć nam spójny obraz świata. Więc struktura świadomości definiuje także to, co do tej świadomości trafi, co mózg do tej świadomości dopasuje, inne rzeczy wyrzuci; albo zachowa i przyniesie, kiedy będą pasować. Więc to nasza percepcja jest opatrznościowa, to ona filtruje i interpretuje bodźce w taki sposób, aby zbudowany w ten sposób świat miał sens.
 
+# wolna wola?
+
+I to filtrowanie wpływa na nasze decyzje, a więc to jest rodzaj wolnej woli - nawet, jeśli jesteśmy deterministyczni, to jesteśmy wolni, bo filtrujemy chaos zgodnie ze swoją strukturą.
+
 # dlatego ważne jest przetestowanie Opatrzności, jednak
 
 widzisz w świecie działanie Boga, fair enough, ja też widzę
@@ -37,3 +41,16 @@ ale czym to dokładnie jest, tego nie wiemy, to może być złudzenie
 więc trzeba przeformułować sposób, w jaki myślimy o tym „działaniu Boga"
 tak, aby uzyskać teorię pozwalającą robić jakieś przewidywania
 i dopiero kiedy te przewidywania się statystycznie sprawdzają możesz powiedzieć, że faktycznie w świecie występuje „działanie Boga”, czymkolwiek ono jest
+
+# pokora + dost. duży mózg -> moralność
+
+pokora to oczywiście korzystna strategia przetrwania, bo liczysz się z niebezpieczeństwem oraz z tym, że Twój model świata jest wadliwy
+
+Jeśli jesteś dostatecznie inteligentny, żeby pojąć, że inni mogą spiskować przeciw Tobie - to będziesz postępował moralnie wobec innych. Jeśli dorzucimy do tego pokorę poznawczą, to zawsze musisz się liczyć z tym, że ktoś zobaczy Twoje zachowanie, a następnie zbierze się w grupę i Tobie zaszkodzi.
+
+Tego typu poczucie bycia obserwowanym jest korzystne ewolucyjnie. To poczucie transcendentnej (bo wykraczającej poza aktualne doświadczenie) odpowiedzialności. Jedna ze składowych pojęcia Boga.
+
+Inną składową jest ta wszechobecna wola, której przeczucie wywołuje napięcie takie, jak zazwyczaj, kiedy mamy do czynienia z wolą innego stworzenia. A więc pewną nieprzewidywalnością, ale działającą celowościowo. Jeśli ta nieprzewidywalność obierze sobie za cel naszą szkodę, to może nam znacząco utrudnić życie. A więc to napięcie też wydaje się ewolucyjnie umotywowane.
+
+Poza tym obecność dobrej woli, czyli celowościowej nieprzewidywalności nakierowanej na nasz dobrostan, wywołuje u nas pozytywne odczucia, zwyczajnie takie, które wywołuje obecność innej istoty/woli. Być może z tego wynika pozytywne działanie religii?
+
