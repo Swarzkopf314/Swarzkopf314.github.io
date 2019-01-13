@@ -54,3 +54,28 @@ Inną składową jest ta wszechobecna wola, której przeczucie wywołuje napięc
 
 Poza tym obecność dobrej woli, czyli celowościowej nieprzewidywalności nakierowanej na nasz dobrostan, wywołuje u nas pozytywne odczucia, zwyczajnie takie, które wywołuje obecność innej istoty/woli. Być może z tego wynika pozytywne działanie religii?
 
+
+## Bóg to jednak trójkąt
+
+Pojęcie abstrakcyjne, które służy nam do opisu świata, pewnych zjawisk, wyrażenia pewnych intuicji co do tego, jak należy się zachowywać (a ostateczne uzasadnienie może być np. teoriogrowe etc.) i jak działa świat. Jednym z atrybutów tego pojęcia jest wola i celowe działanie. Ta wola nie musi być aktywna, może się wyrażać w strukturze rzeczywistości.
+
+- Bóg daje fundament, poczucie osadzenia, nie musimy się wyciągać za włosy
+- Ouroboros - my karmimy się Bogiem, a Bóg karmi się nami, głęboka egzystencjalna idea, istoty karmią się sobą nawzajem, są dla siebie nawzajem gruntem
+- pokora i poczucie transcendentnej opdowiedzialności (korzystne zachowania w kontekście przetrwania)
+- poczucie braku osamotnienia
+- poczucie, że bycia zaopiekowanym
+- poczucie misji, celu, wypełnienie woli Bożej
+- wola, z którą musimy się liczyć
+- poza tymi wartościami regulującymi zachowanie i status egzystencjalny jednostki mamy też wyraźne tezy dotyczące działania świata, tj. Opatrzność, może Karma.
+
+W takim razie pytanie o istnienie Boga sprowadza się do pytania o istnienie trójkąta. Jest mało ciekawe. Ciekawsze jest to, czy (abstrakcyjne) pojęcie Boga jest przydatne i czy jest korzystne (tj. zalety przeważają nad wadami). Jest na pewno przydatne w sensie egzystencjalnym, ale czy jest przydatne w sensach:
+
+- predyktywnym
+- poznawczym ?
+
+Jakie wady ma pojęcie Boga
+
+- może prowadzić do ślepej wiary, radykalnych, fundamentalistycznych postaw
+- może prowadzić do biasu poznawczego, w efekcie zjawiska, które mogłyby mieć eleganckie wyjaśnienie, które potem moglibyśmy wykorzystać do precyzyjnego przewidywania rzeczywistości, tłumaczymy wolą Boga, która w niejasny sposób się skaluje
+
+A właśnie, ale jakoś intuicyjnie ta "wola Boga" się skaluje. Ludzie wiedzą, że należy pewnych zachowań unikać, bo coś się przytrafi jeszcze za życia. Mamy tu do czynienia z hipotezą, że nasze postawy i zachowania kształtują jakiś rozkład prawdopodobieństwa dla pewnych klas zdarzeń. Analogicznie modlitwa nagina prawdopodobieństwa. To bardzo ciekawa teoria. Oczywiście do rozwiązania są problemy metodologiczne, ale teoretynie możliwe jest zaprojektowanie takich eksperymentów (a najpierw teorii i sposobu formułowania przewidywań, które nie mogą być ani zbyt konkretne - żeby zostawić Bogu przestrzeń do działania - ani zbyt ogólne - żeby przewidywania nie były trywialnie spełnione z dużym prawdopodobieństwem), aby zweryfikować, czy Opatrzność faktycznie ma moc predyktywną. Bo o tym, że ma moc deskryptywną (pozwala interpretować minione zdarzenia) - doskonale wiemy. Obawa jest taka, że ta moc deskryptywna jest zbyt duża, żeby Opatrzność miała weryfikowalną moc predyktywną.
