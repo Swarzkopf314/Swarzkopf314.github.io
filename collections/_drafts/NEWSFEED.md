@@ -459,4 +459,4 @@ Czyli konstruujemy świat za pomocą tego, co odfiltrujemy z percepcji. Nasze m�
 I to filtrowanie wpływa na nasze decyzje, a więc to jest rodzaj wolnej woli - nawet, jeśli jesteśmy deterministyczni, to jesteśmy wolni, bo filtrujemy chaos zgodnie ze swoją strukturą.
 
 
-
+### Przestać błądzić jest łatwo, ale zbudować coś - to już zadanie wymagające lat pracy i cierpliwości
