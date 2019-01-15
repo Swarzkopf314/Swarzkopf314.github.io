@@ -55,7 +55,7 @@ Inną składową jest ta wszechobecna wola, której przeczucie wywołuje napięc
 Poza tym obecność dobrej woli, czyli celowościowej nieprzewidywalności nakierowanej na nasz dobrostan, wywołuje u nas pozytywne odczucia, zwyczajnie takie, które wywołuje obecność innej istoty/woli. Być może z tego wynika pozytywne działanie religii?
 
 
-## Bóg to jednak trójkąt
+## Bóg to jednak trójkąt; teoria Opatrzności, znaki
 
 Pojęcie abstrakcyjne, które służy nam do opisu świata, pewnych zjawisk, wyrażenia pewnych intuicji co do tego, jak należy się zachowywać (a ostateczne uzasadnienie może być np. teoriogrowe etc.) i jak działa świat. Jednym z atrybutów tego pojęcia jest wola i celowe działanie. Ta wola nie musi być aktywna, może się wyrażać w strukturze rzeczywistości.
 
@@ -79,3 +79,5 @@ Jakie wady ma pojęcie Boga
 - może prowadzić do biasu poznawczego, w efekcie zjawiska, które mogłyby mieć eleganckie wyjaśnienie, które potem moglibyśmy wykorzystać do precyzyjnego przewidywania rzeczywistości, tłumaczymy wolą Boga, która w niejasny sposób się skaluje
 
 A właśnie, ale jakoś intuicyjnie ta "wola Boga" się skaluje. Ludzie wiedzą, że należy pewnych zachowań unikać, bo coś się przytrafi jeszcze za życia. Mamy tu do czynienia z hipotezą, że nasze postawy i zachowania kształtują jakiś rozkład prawdopodobieństwa dla pewnych klas zdarzeń. Analogicznie modlitwa nagina prawdopodobieństwa. To bardzo ciekawa teoria. Oczywiście do rozwiązania są problemy metodologiczne, ale teoretynie możliwe jest zaprojektowanie takich eksperymentów (a najpierw teorii i sposobu formułowania przewidywań, które nie mogą być ani zbyt konkretne - żeby zostawić Bogu przestrzeń do działania - ani zbyt ogólne - żeby przewidywania nie były trywialnie spełnione z dużym prawdopodobieństwem), aby zweryfikować, czy Opatrzność faktycznie ma moc predyktywną. Bo o tym, że ma moc deskryptywną (pozwala interpretować minione zdarzenia) - doskonale wiemy. Obawa jest taka, że ta moc deskryptywna jest zbyt duża, żeby Opatrzność miała weryfikowalną moc predyktywną.
+
+Ale jednak w kontekście teorii Opatrzności musimy rozpatrywać znaki, to one nas nakierowują na Opatrzność i to w momentach, w których ich wcale nie poszukujemy przecież.
