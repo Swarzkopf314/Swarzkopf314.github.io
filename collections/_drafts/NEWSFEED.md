@@ -464,3 +464,7 @@ I to filtrowanie wpływa na nasze decyzje, a więc to jest rodzaj wolnej woli - 
 ### Dobro = optymalizacja
 
 Robisz dobrze z potrzeby optymalizacji. Jeśli widzisz, że coś jest nieoptymalne, to Cię to drażni.
+
+# Rzeczywistość to obsesja.
+
+Internet to terapia zbiorowa.
