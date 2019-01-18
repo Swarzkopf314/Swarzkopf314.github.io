@@ -460,3 +460,7 @@ I to filtrowanie wpływa na nasze decyzje, a więc to jest rodzaj wolnej woli - 
 
 
 ### Przestać błądzić jest łatwo, ale zbudować coś - to już zadanie wymagające lat pracy i cierpliwości
+
+### Dobro = optymalizacja
+
+Robisz dobrze z potrzeby optymalizacji. Jeśli widzisz, że coś jest nieoptymalne, to Cię to drażni.

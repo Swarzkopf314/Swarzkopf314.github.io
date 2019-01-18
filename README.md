@@ -7,7 +7,7 @@ wege (sprzeczność w moralności, ustawa, bajki dla dzieci, pobłażliwość s�
 Ale czy moralność w ogóle powinna być niesprzeczna? Bo zdecydowanie nie jest niesprzeczna. Jeśli powinna być, to dlatego, że dzięki temu jest przewidywalna, więc daje poczucie bezpieczeństwa. Ale moralność może być sprzeczna i przewidywalna jednocześnie, jeśli jest ustalona przez grupę, która odczuwa podobnie. Tak czy siak jedzenie mięsa może budzić niesmak, bo trzeba pogodzić ze sobą sprzeczności - albo jemy i udajemy, że jest ok, albo nie udajemy, że jest ok i wtedy mięso budzi niesmak. Albo żyjemy ze sprzecznością, albo ponosimy logiczne konsekwencje swoich przekonań. Wzbudzenie niesmaku jest logiczne w naszej kulturze, a bronienie się przed poczuciem niesmaku - podobnie, chociaż to jest wtedy hipokryzja.
 
 
-314
+314, znaki
 
 
 programowanie obiektowe (skąd się bierze, chcemy coś zmienić w kodzie, dzielimy na funkcje, potem na grupy funkcji,
