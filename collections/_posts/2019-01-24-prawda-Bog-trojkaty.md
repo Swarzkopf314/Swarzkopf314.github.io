@@ -1,7 +1,7 @@
 ---
 title: "Prawda, Bóg i trójąty"
 date: 2019-01-24
-featured-img: 2019-01-24
+featured-img: "2019-01-24"
 categories: [epistemologia, nauka, Bóg]
 ---
 
