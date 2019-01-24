@@ -56,7 +56,7 @@ compress_html:
     envs: []
 
 collections_dir: collections
-# permalink: /:collection/:title/
+permalink: /:collection/:title/
 
 collections:
   poems:
