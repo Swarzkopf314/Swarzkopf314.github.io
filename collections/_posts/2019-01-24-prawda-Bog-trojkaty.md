@@ -1,0 +1,32 @@
+---
+title: "Prawda, Bóg i trójąty"
+date: 2019-01-24
+featured-img: 2019-01-24
+categories: [epistemologia, nauka, Bóg]
+---
+
+Prawda to, [jak wiemy][wiki-truth], zgodność wypowiedzi z rzeczywistością. Jednak ta definicja nie rozwiązuje głównego problemu prawdy, mianowicie tego, jak tę zgodność orzec. Aby to zrobić, trzeba w szczególności odpowiednio dobrze znać rzeczywistość, a tutaj napotykamy na poważny problem. W praktyce prawdziwość sprawdzamy na określonym fragmencie rzeczywistości, który znamy dostatecznie dobrze, bo albo mamy go przed oczami, albo dysponujemy "dobrym" modelem tego fragmentu. Tutaj oczywiście pada pytanie, kiedy model jest "dobry"? Kiedy jest prawdziwy? Ale tą drogą wracamy do punktu wyjścia, bo w jaki sposób orzec tę prawdziwość, tj. zgodność modelu z fragmentem rzeczywistości, który model modeluje?
+
+Kolejny problem jest taki, czy wypowiedź w ogóle da się w naszej umiłowanej rzeczywistości zinterpretować (i która interpretacja jest właściwa), co też nie jest oczywiste, z uwagi na istnienie bełkotu. Z tym problemem w praktyce spotykamy się stosunkowo rzadko, ponieważ nasz język i nasze modele (fragmentów) rzeczywistości są ze sobą silnie powiązane - budujemy je w taki sposób, aby były wzajemnie interpretowalne. Bez modelu świata nie ma języka, a bez języka ciężko coś powiedzieć o modelu świata.  Ta wzajemna interpretowalność może sprawiać wrażenie, że dobrze znamy rzeczywistość i właściwie w świecie nie ma żadnej zagadki.
+
+Tak więc cała kanapka języka, modeli świata i wciśniętej w środek prawdy lata sobie dość swobodnie w powietrzu, ale to nie znaczy, że nie mamy żadnego punktu zaczepienia. Tą kotwicą jest indywidualne doświadczenie (które trzeba wręcz nazwać "objawieniem") oraz jego powtarzalność. I tylko ta powtarzalność sugeruje, że świat ma pewną regularną strukturę. Ta regularność to wszystko, na co możemy liczyć, kiedy chcemy dojść do "prawdy" o świecie. Więc model świata jest dobry, jeśli tę regularność zauważa i odtwarza.
+
+Ale w jaki sposób ocenić, jak dobrze odtworzyliśmy regularność fragmentu świata? Najprostszym narzędziem jest eksperyment - jeśli model odtwarza pewną regularność, to być może daje pewne przewidywania dotyczące wyniku odpowiednio przeprowadzonego eksperymentu. To kryterium to fundament nauki. Ale to nie jest jedyne kryterium, którego używamy w praktyce. Jakich jeszcze kryteriów używamy? A czy są takie, których nie używamy, a z jakiegoś powodu powinniśmy? To pytanie na razie zostawiam i poniżej skupię się na pewnym kluczowym kryterium wyboru modeli.
+
+Mianowicie poza tym, że model powinen opisywać regularność fragmentu świata, ważna jest też budowa samego modelu. Konstrukcja modelu także powinna być regularna. Model powinen być dostatecznie wygodny w użyciu, ale przede wszystkim jego **regularność sprawia, że ma on moc predyktywną**, tj. pozwala formułować przewidywania, a nie tylko opisywać przeszłe wydarzenia (moc deskryptywna). Idąc dalej, dostatecznie regularny model inspiruje swoje własne rozszerzenia, a dalej nowe pytania i nowe eksperymenty, które wykraczają poza dane, które dotąd zebraliśmy. Jeśli model jest regularny i działa, to liczymy na to, że dzięki tej regularności odkryjemy szerszy model, który także będzie działał. Ta regularność to źródło światła, dzięki któremu możemy isć naprzód. I za bardzo nie mamy tutaj lepszego wyjścia, bo alternatywą jest subiektywny chaos wielkich zbiorów danych i wiara, że sieć neuronowa się nie pomyli.
+
+Nietrudno więc zrozumieć przydatność matematyki w fizyce, bo matematyka to ogromne repozytorium wszelakich regularności. Jeśli jakąś regularność opisać dostatecznie precyzyjnie, to jest to właśnie matematyka. Matematyka więc to studium regularności. Znając te regularności możemy próbować je wykorzystać do przybliżania regularności w świecie. Znowu, nie bardzo widać inne wyjście.
+
+Na przykład trójkąt jest nazwą pewnej regularności. Ta regularność jest gruntownie przebadana przez matematyków, a efekty ich pracy to rozmaite twierdzenia dotyczące trójkątów, tj. nowe regularności, które z regularności trójkąta (i regularności podstawowych aksjomatów) wynikają. Trójkąt niewątpliwie jest przydatnym pojęciem do opisu świata. Wyobraźmy sobie teraz pytanie - **czy trójkąt istnieje obiektywnie?**. Intuicyjnie jest w tym jakiś sens, ale nie bardzo wiadomo, jaki. Osobiście na to pytanie mogę odpowiedzieć tylko tak, że **regularności, które opisuje trójkąt, przejawiają się w moim doświadczeniu**.
+
+No i na koniec rozważmy pojęcie "Boga". Czy pytanie o obiektywne istnienie Boga ma jakkolwiek większy sens, niż pytanie o obiektywne istnienie trójkąta? Myślę, że nie. Pytanie, które zamiast tego powinniśmy sobie zadawać, jest takie - **jakie regularności w świecie opisuje pojęcie Boga? Czy one przejawiają się w moim doświadczeniu?**. Z tymi pytaniami na razie zostawiam Czytelnika, bo w dużej mierze jest to kwestia indywidualnej, duchowej refleksji. Ja chciałbym jednak pójść krok dalej.
+
+Zadaję mianowicie kolejne pytania - jak dobrze pojęcie Boga opisuje te regularności? Czy opisuje regularności, które wykraczają poza doświadczenie subiektywne? Czy dana religia, traktowana jako model, w którym występuje "Bóg", ma dostatecznie regularną strukturę, aby mieć moc predyktywną? A jeśli tak, to jak powinien wyglądać rzetelny ekperyment, który te predykcje weryfikuje? Czy dana religia inspiruje nowe pytania? 
+
+I wreszcie pytanie, do zastanowienia nad którym chciałbym wszystkich gorąco zachęcić - Czy w świecie występują regularności opisywane przez pojęcia takie, jak "karma" czy "opatrzność"? Są to jak najbardziej pojęcia, które opisują regularność działania świata, bo np. karma mówi z grubsza coś takiego, że jeśli postępujesz "źle", to w zwiększa się prawdopodobieństwo, że przydarzy Ci się coś złego w przyszłości. Oczywiście tego typu (postrzeganą) regularność można częściowo tłumaczyć [teoriogrowo][plato-game_theory], a częściowo przez [torowanie][wiki-priming], jednak samo pojęcie karmy wydaje się mówić coś więcej, mianowicie, że prawdopodobieństwo, że "karma do nas wróci" jest zaszyte w strukturze świata, a nie jedynie w strukturze społeczeństwa czy w strukturze percepcji. Tak więc jak dokładnie powinna wyglądać metodologia badania, które weryfikuje karmiczność świata? Zachęcam do przemyśleń.
+
+
+[wiki-truth]: https://en.wikipedia.org/wiki/Truth
+[wiki-godel]: https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems
+[plato-game_theory]: https://plato.stanford.edu/entries/game-ethics/
+[wiki-priming]: https://en.wikipedia.org/wiki/Priming_(psychology)
