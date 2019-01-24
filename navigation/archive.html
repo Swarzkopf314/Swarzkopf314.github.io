@@ -9,29 +9,44 @@ bg_img: panteon.jpg
 
 <main class="site__content">
   <section class="blog">
-    <div class="container">
+    <div class=" container">
+      <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
 
-        <a href="{% link navigation/poems.html %}">
-          Wiersze
-        </a>
-      
+        <div class="post-card" itemprop="blogPosts" itemscope="" itemtype="http://schema.org/BlogPosting">        
+          <a href="{% link navigation/poems.html %}" class="post-card__inner">
+            <div class="post-card__header">
+              <h2>Wiersze</h2>
+            </div>
+          </a>
+        </div>
+
+
+      </div>
     </div>
   </section>
 </main>
 
 
 <style type="text/css">
-.container a {
+.list-group-item {
   text-decoration: none; /* no underline */
   color: inherit;
   outline: none;
 }
-/*
-a:-webkit-any-link {
-    color: -webkit-link;
-    text-decoration: none;
-    cursor: auto;
+
+/*.archive-container {
+  min-height: 15em;
 }
 */
+.post-card__inner{
+  padding:1rem 1.25rem 0.1rem;
+}
+
+.post-card {
+  min-height: 4.2em;
+}
+}
+
+
 
 </style>
