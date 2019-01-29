@@ -469,3 +469,7 @@ Bóg to optymalizacja.
 # Rzeczywistość to obsesja.
 
 Internet to terapia zbiorowa.
+
+# regularność intelektu a regularność świata
+
+dodać osobny akapit omawiający regularność intelektu
