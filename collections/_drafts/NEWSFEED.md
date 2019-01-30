@@ -473,3 +473,7 @@ Internet to terapia zbiorowa.
 # regularność intelektu a regularność świata
 
 dodać osobny akapit omawiający regularność intelektu
+
+# tożsamość jaźni, zakaz Pauliego?
+
+Czy na pewno możemy stworzyć swoje doskonałe kopie? Czy to możliwe, czy jednak jest zakaz Pauliego, tj. w przestrzeni świadomości nie może być zbyt podobnych struktur? Nie wiemy, dopóki tego nie sprawdzimy i taka jest poprawna odpowiedź.
