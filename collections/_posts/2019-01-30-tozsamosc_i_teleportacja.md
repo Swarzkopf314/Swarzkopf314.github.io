@@ -19,7 +19,7 @@ Często słyszę argument, że przy założeniu, że umysł wyłania się z prac
 
 Wracając do tytułowej teleportacji - tutaj słyszy się analogiczne głosy, że teleportacja mnie de facto zabija, a następnie odtwarza moją strukturę na drugim końcu galaktyki, tyle tylko, że to już nie będę *ja*, tylko *moja kopia*, bo będe utworzony z innej materii. Ale to znowu problem tożsamości - jeśli dwa umysły są identyczne, to w obliczu *reguły tożsamości* jest to ten sam umysł. Tak więc wbrew przekonaniom materialistów teleportacja wcale nie musi się wiązać z końcem *ja*.
 
-Jest więc szansa, drogi Czytelniku, że osoba, która obudzi się jutro rano w Twojej skórze, to nie będzie nowy człowiek z Twoją pamięcią, ale ciągle Ty (pomimo nieciągłość w Twojej pamięci spowodowanej snem).
+Jest więc szansa, drogi Czytelniku, że osoba, która obudzi się jutro rano w Twojej skórze, to nie będzie nowy człowiek z Twoją pamięcią, ale ciągle Ty (pomimo nieciągłości w Twojej pamięci spowodowanej snem).
 
 [wiki-iit]: https://en.wikipedia.org/wiki/Integrated_information_theory
 [yt-tononi]: https://www.youtube.com/watch?v=CQ0I8BvvXNc&fbclid=IwAR0I06iZEZrR3S3ZtrBCr3R4nifDcjiPpla5lBnEvPzu6ZJFO9R5N8zuuUc
