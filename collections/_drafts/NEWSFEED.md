@@ -435,9 +435,9 @@ jeszcze zielony -> niedojrzały
 węgiel -> źródło energii, pokarm
 
 
-### sen z Mileną, która akurat przyszła do pracy po miesiącu i akurat mnie pierwszy raz o coś zapytała
+### sen z M, która akurat przyszła do pracy po miesiącu i akurat mnie pierwszy raz o coś zapytała
 
-nie było jej od grudnia, bo pisała inżynierkę, a dzisiaj pierwszy raz ever mi się śniła i to tak, że siedzę w pracy, ona obok o coś mnie pyta, a potem mnie całuje w ucho, potem w policzek, delikatnie, ale miała gorące usta. Potem oddałem w szyję, ona idzie, patrzę w lewo, a koledzy pełni uznania
+nie było jej od grudnia, a dzisiaj pierwszy raz ever mi się śniła i to tak, że siedzę w pracy, ona obok o coś mnie pyta, a potem mnie całuje w ucho, potem w policzek, delikatnie, ale miała gorące usta. Potem oddałem w szyję, ona idzie, patrzę w lewo, a koledzy pełni uznania
 
 ale podoba mi się poetyka tego snu, taka japońska wręcz, ostrożny, delikatny pocałunek z całym napięciem zamkniętym w jednym punkcie gorących ust, jak w wiśni
 
@@ -470,10 +470,4 @@ Bóg to optymalizacja.
 
 Internet to terapia zbiorowa.
 
-# regularność intelektu a regularność świata
 
-dodać osobny akapit omawiający regularność intelektu
-
-# tożsamość jaźni, zakaz Pauliego?
-
-Czy na pewno możemy stworzyć swoje doskonałe kopie? Czy to możliwe, czy jednak jest zakaz Pauliego, tj. w przestrzeni świadomości nie może być zbyt podobnych struktur? Nie wiemy, dopóki tego nie sprawdzimy i taka jest poprawna odpowiedź.

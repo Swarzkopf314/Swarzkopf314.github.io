@@ -14,7 +14,7 @@ Chcę się dowiedzieć dokładnie, czym jest to wszystko, ten świat, ja. Mam ni
 
 W tym celu potrzebuję narzędzi, które pozwolą mi odkryć i zweryfikować nowe zależności. Dlatego chcę mieć dostatecznie wydajną firmę, żeby zatrudniać ludzi, którzy mi w tym pomogą. Inni ludzie mają wielki potencjał, który zazwyczaj marnują. Ja chcę ten potencjał wykorzystać i wszystko, czego potrzebuję, to pieniądze. Dlatego jednym z projektów, które realizuję, jest stworzenie komercyjnej firmy. To stosunkowo łatwe, ale niezbędne. 
 
-Prawdopodobnie sami ludzie nie wystarczą. W dzisiejszych warunkach wydaje się, że najbardziej efektywną drogą do prawdy jest stworzenie [AGI](https://en.wikipedia.org/wiki/Artificial_general_intelligence). To jest mój główny projekt. Podstawowe algorytmy mogę stworzyć sam, jednak dorobienie do nich odpowiednich interfejsów i zbudowanie działających produktów to praca dla całych zespołów. Posiadając odpowiednio silne i ogólne algorytmy sztucznej inteligencji będziemy mogli znacząco przyśpieszyć rozwój. Obecne algorytmy są rozczarowująco prymitywne, tu jest bardzo szerokie pole do popisu, a z mojego dotychczasowego researchu wynika, że AGI nie jest wcale tak daleko.
+Prawdopodobnie sami ludzie nie wystarczą. W dzisiejszych warunkach wydaje się, że najbardziej efektywną drogą do prawdy jest stworzenie [AGI][wiki-agi]. To jest mój główny projekt. Podstawowe algorytmy mogę stworzyć sam, jednak dorobienie do nich odpowiednich interfejsów i zbudowanie działających produktów to praca dla całych zespołów. Posiadając odpowiednio silne i ogólne algorytmy sztucznej inteligencji będziemy mogli znacząco przyśpieszyć rozwój. Obecne algorytmy są rozczarowująco prymitywne, tu jest bardzo szerokie pole do popisu, a z mojego dotychczasowego researchu wynika, że AGI nie jest wcale tak daleko.
 
 Nie mogę też tracić z oczu perspektywy ogólnej, ludzkiej, codziennej. Eksploracji tego rejonu chciałbym poświęcić ten blog. Tutaj pytam o zagadnienia, które można badać językiem naturalnym i do których może odnieść się każdy. Zagadnienia wiary, moralności, ale i lżejsze tematy. Wrzucę nawet moje sportowe poszukiwania freestylowe na łyżwach i rolkach. Pojawią się tematy i myśli prowokacyjne, przewrotne, celowo uproszczone. W dążeniu do sedna ostrożność nie zawsze jest wskazana, czasem trzeba sięgnąć po młot pneumatyczny.
 
@@ -22,6 +22,7 @@ Wszyscy leżymy w rynsztoku, ale niektórzy z nas budują rakiety.
 
 ![img]({{site.img_url}}background_dixit.jpg)
 
+[wiki-agi]: https://en.wikipedia.org/wiki/Artificial_general_intelligence
 
 <!-- 
 Ciekawskie, wszędobylskie stworzenie, które rozbebesza różne idee, miejsca czy emocje - z ciekawości, co znajdzie w środku. A potem układa z wydobytego sedna eleganckie konstrukcje.

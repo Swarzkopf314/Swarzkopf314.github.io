@@ -60,10 +60,10 @@ Poza tym obecność dobrej woli, czyli celowościowej nieprzewidywalności nakie
 Pojęcie abstrakcyjne, które służy nam do opisu świata, pewnych zjawisk, wyrażenia pewnych intuicji co do tego, jak należy się zachowywać (a ostateczne uzasadnienie może być np. teoriogrowe etc.) i jak działa świat. Jednym z atrybutów tego pojęcia jest wola i celowe działanie. Ta wola nie musi być aktywna, może się wyrażać w strukturze rzeczywistości.
 
 - Bóg daje fundament, poczucie osadzenia, nie musimy się wyciągać za włosy
-- Ouroboros - my karmimy się Bogiem, a Bóg karmi się nami, głęboka egzystencjalna idea, istoty karmią się sobą nawzajem, są dla siebie nawzajem gruntem
+- **Ouroboros - my karmimy się Bogiem, a Bóg karmi się nami, głęboka egzystencjalna idea, istoty karmią się sobą nawzajem, są dla siebie nawzajem gruntem**
 - pokora i poczucie transcendentnej opdowiedzialności (korzystne zachowania w kontekście przetrwania)
 - poczucie braku osamotnienia
-- poczucie, że bycia zaopiekowanym
+- poczucie bycia zaopiekowanym
 - poczucie misji, celu, wypełnienie woli Bożej
 - wola, z którą musimy się liczyć
 - poza tymi wartościami regulującymi zachowanie i status egzystencjalny jednostki mamy też wyraźne tezy dotyczące działania świata, tj. Opatrzność, może Karma.
