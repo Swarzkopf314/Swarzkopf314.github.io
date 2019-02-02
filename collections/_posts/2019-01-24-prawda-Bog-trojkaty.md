@@ -31,7 +31,7 @@ Innym przykładem niech będzie *grawitacja*. Jest to przydatne pojęcie, bo wp�
 
 Rozważmy teraz pojęcie *Boga* (którąkolwiek jego wersję, ale dla ustalenia uwagi weźmy Boga chrześcijańskiego). **Czy pytanie o obiektywne istnienie Boga ma jakkolwiek większy sens, niż pytanie o obiektywne istnienie trójkąta czy grawitacji?** Myślę, że nie. Pytanie, które zamiast tego powinniśmy sobie zadawać, jest takie - ``jakie regularności w świecie opisuje pojęcie Boga? Czy one przejawiają się w moim doświadczeniu?`` Jeśli te regularności zauważam, a pojęcie Boga jest w moim życiu przydatne, to być może jest to już całkiem dobra definicja *wiary*. 
 
-Przydatność i regularność pojęcia Boga to materiał na osobny artykuł. Tutaj chciałbym przyjrzeć się pokrewnemu pojęciu *Opatrzności*
+Przydatność i regularność pojęcia Boga to jednak materiał na osobny artykuł. Tutaj chciałbym przyjrzeć się pokrewnemu pojęciu *Opatrzności*
 
 ## Opatrzność jako hipoteza naukowa
 
