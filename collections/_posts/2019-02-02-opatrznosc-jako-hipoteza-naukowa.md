@@ -11,9 +11,9 @@ Tutaj chciałbym przyjrzeć się pokrewnemu pojęciu [Opatrzności][wiki-opatrzn
 
 ## Hipoteza
 
-Proponję zastanowić się więc nad eksperymentem (łącznie z metodologią), który pozwoliłby sprawdzić, czy w świecie występują regularności opisywane przez *Opatrzność*. Pojęcie jest pozornie metafizyczne, ale jeśli przyjrzeć mu się bliżej, zauważymy, że jest to w gruncie rzeczy pewne hipoteza naukowa. Nieco prostszą strukturalnie wersją Opatrzności jest *karma*. Mówi z grubsza tyle, że jeśli osoba postępuje ``źle``, to zwiększa się prawdopodobieństwo, że przydarzy jej się coś ``złego`` w przyszłości. Od razu widać, że jedną z trudności metodologicznych, które trzeba rozwiązać, jest właśnie definicja dobra i zła. To jednak temat na osobny artykuł. 
+Proponuję zastanowić się więc nad eksperymentem (łącznie z metodologią), który pozwoliłby sprawdzić, czy w świecie występują regularności opisywane przez *Opatrzność*. Pojęcie jest pozornie metafizyczne, ale jeśli przyjrzeć mu się bliżej, zauważymy, że jest to w gruncie rzeczy pewna hipoteza naukowa. Nieco prostszą strukturalnie wersją Opatrzności jest *karma*. Mówi z grubsza tyle, że jeśli osoba postępuje ``źle``, to zwiększa się prawdopodobieństwo, że przydarzy jej się coś ``złego`` w przyszłości. Od razu widać, że jedną z trudności metodologicznych, które trzeba rozwiązać, jest właśnie definicja dobra i zła. To jednak temat na osobny artykuł. 
 
-**Jak dokładnie powinna wyglądać metodologia badania, które weryfikuje, czy świat jest inherentnie opatrznościowy/karmiczny?**
+``Jak dokładnie powinna wyglądać metodologia badania, które weryfikuje, czy świat jest inherentnie opatrznościowy/karmiczny?``
 
 Przede wszystkim należałoby najpierw dostatecznie dobrze zdefiniować Opatrzność oraz zastanowić się, na jakim poziomie ogólności można byłoby formułować odpowiednie przewidywania. To jest mocno nieoczywisty temat. 
 
@@ -21,17 +21,17 @@ Lekko prowokacyjnie pozwolę sobie zwrócić uwagę Czytelnika, że **[funkcja f
 
 ## Czym jest prawdopodobieństwo? 
 
-Na to pytanie łatwo odpowiedzieć, kiedy możemy wielokrotnie powtórzyć eksperyment. Powiedzieć, że elektron trafi w obszar ``A`` z prawdopodobieństwem ``30%`` to znaczy spodziewać się, że jeśli powtórzymy eksperyment ``1000`` razy, to około ``300`` razy znajdziemy elektron w obszarze ``A``. Ale co w przypadku, kiedy rozważamy tylko pojedynczy eksperyment? Skąd elektron "wie", że ma się zachować tak, że jeśli powtórzymy eksperyment ``1000``, to w około ``300`` przypadkach wpadnie w obszar ``A``? W jaki sposób prawdopodobieństwo wpływa na ewolucję elektronu? Jak prawdopodobieństwo jest "zaimplementowane" w świecie? Czym ono tak naprawdę jest? 
+Na to pytanie łatwo odpowiedzieć, kiedy możemy wielokrotnie powtórzyć eksperyment. Powiedzieć, że elektron trafi w obszar ``A`` z prawdopodobieństwem ``30%`` to znaczy spodziewać się, że jeśli powtórzymy eksperyment ``1000`` razy, to około ``300`` razy znajdziemy elektron w obszarze ``A``. Ale co w przypadku, kiedy rozważamy tylko pojedynczy eksperyment? Skąd elektron "wie", że ma się zachować tak, że jeśli powtórzymy eksperyment ``1000`` razy, to w około ``300`` przypadkach wpadnie w obszar ``A``? W jaki sposób prawdopodobieństwo wpływa na ewolucję elektronu? Jak prawdopodobieństwo jest "zaimplementowane" w świecie? Czym ono tak naprawdę jest? 
 
-Wygląda to tak, jakby ruchem elektronu sterowała pewna **metareguła**, która ma mierzalny wpływ dopiero na wynik wielu powtórzeń eksperymentu. Byłby to byt, który manifestuje się dopiero w pewnym odcinku czasu, jakby nie istniał w żadnej chwili z osobna, ale dopiero w pewnym przedziale czasowym podobnie, jak znane nam obiekty manifestują się dopiero w pewnej rozciągłości przestrzennej (a nie w każdym punkcie przestrzeni z osobna).
+Wygląda to tak, jakby ruchem elektronu sterowała pewna **metareguła**, która ma mierzalny wpływ dopiero na wynik wielu powtórzeń eksperymentu. Byłby to byt, który manifestuje się dopiero w pewnym odcinku czasu, jakby nie istniał w żadnej chwili z osobna, ale dopiero w pewnym przedziale czasowym - podobnie, jak znane nam obiekty manifestują się dopiero w pewnej rozciągłości przestrzennej (a nie w każdym punkcie przestrzeni z osobna).
 
 ## Czy świat jest adynamiczny?
 
-Jest to idea znana pod pojęciem [eternalizmu][wiki-eternalism]. Według niej świat składa się z bloków czasoprzestrzennych (tzw. ``blockworld``) i dopiero z tej perspektywy można wyjaśnić strukturę świata wewnątrz bloku. Być może klasyczny, "dynamiczny" opis świata (według którego mamy stan, czas oraz metodę transformacji stanu w czasie) jest niewystarczający. Faktycznie ten paradygmat jest problematyczny w kontekście mechaniki kwantowej (por. [Delayed-choice quantum eraser][wiki-delayed_choice]). Przydaje się do opisu świata w makroskali, ale być może jest fundamentalnie błędny. Więcej na ten temat pisze Mark Stuckey w swoim artykule [Blockworld and its Foundational Implications: Delayed Choice and No Counterfactual Definiteness][phys-blockworld].
+Jest to idea znana pod pojęciem [eternalizmu][wiki-eternalism]. Według niej świat składa się z bloków czasoprzestrzennych (tzw. ``blockworld``) i dopiero z tej perspektywy można wyjaśnić strukturę świata wewnątrz bloku. Być może klasyczny, "dynamiczny" opis świata (według którego mamy stan, czas oraz metodę transformacji stanu w czasie) jest niewystarczający. Faktycznie paradygmat dynamiczny jest problematyczny w kontekście mechaniki kwantowej (por. [Delayed-choice quantum eraser][wiki-delayed_choice]). Przydaje się do opisu świata w makroskali, ale być może jest fundamentalnie błędny. Więcej na ten temat pisze Mark Stuckey w swoim artykule [Blockworld and its Foundational Implications: Delayed Choice and No Counterfactual Definiteness][phys-blockworld].
 
-Tak więc być może to [adynamiczny][arxiv-adynamical] paradygmat opisu świata okaże się bardziej *przydatny* jako intelektualna struktura opisu świata? Oba paradygmaty (dynamiczny i adynamiczny) zgadzają się z doświadczeniem, ale ten dynamiczny wydaje się mało intuicyjny, bo to z niego wynika "dziwność" mechaniki kwantowej. Jeśli zgodzić się na to, że istnieją reguły, które manifestują się dopiero w czasie, to wiele rzeczy nam się upraszcza. Świat nabiera sensu podobnie jak obraz - dopiero z pewnej odległości, kiedy możemy zobaczyć całość.
+Tak więc być może to [adynamiczny][arxiv-adynamical] paradygmat opisu świata okaże się bardziej *przydatny* jako intelektualna struktura opisu świata? Oba paradygmaty (dynamiczny i adynamiczny) zgadzają się z doświadczeniem, ale ten pierwszy wydaje się mało intuicyjny w kontekście formalizmu mechaniki kwantowej (to z tego wynika jej "dziwność"). Jeśli zgodzić się na to, że istnieją reguły, które manifestują się dopiero w czasie, to wiele rzeczy nam się upraszcza. Świat nabiera sensu podobnie jak obraz - dopiero z pewnej odległości, kiedy dopiero możemy zobaczyć całość.
 
-Wobec tego nasuwa się pytanie, **czy również w makroskali występują pewne adynamiczne reguły, które naginają prawdopodobieństwa losowych zdarzeń w taki sposób, że w odpowiedniej perspektywie czasowej dostrzegamy działanie Opatrzności?**.
+Wobec tego nasuwa się pytanie, **czy również w makroskali występują pewne adynamiczne reguły, które naginają prawdopodobieństwa losowych zdarzeń w taki sposób, że w odpowiedniej perspektywie czasowej dostrzegamy działanie Opatrzności?**
 
 ## Szkic własności Opatrzności
 
@@ -43,7 +43,7 @@ Gdyby udało się uzyskać taką teorię, a następnie przeprowadzić rzetelne e
 
 ## Świadomość
 
-Na koniec kolejna drobna prowokacja - czy nasza *decyzyjność* nie dałaby się opisać w podobny sposób, jako rozkład prawdopodobieństwa po dostępnych wyborach i w końcu kolaps odpowiedniej funkcji falowej? Czy świadomość ma adynamiczną strukturę blockworld'a, bo decyzja ``zachodzi w czasie``, tj. nie daje się w pełni opisać jako obecna zaledwie w jednym momencie? Czy decyzje podejmujemy w sposób inherentnie opatrznościowy? A dalej, czy Opatrzność to po prostu wola Boga? 
+Na koniec kolejna drobna prowokacja - czy nasza *decyzyjność* nie dałaby się opisać w podobny sposób, jako rozkład prawdopodobieństwa po dostępnych wyborach i w końcu kolaps odpowiedniej funkcji falowej? Czy świadomość ma adynamiczną strukturę blockworld'a, bo decyzja ``zachodzi w czasie``, tj. nie daje się w pełni opisać jako obecna zaledwie w jednym momencie? Czy decyzje podejmujemy w sposób inherentnie opatrznościowy? A jeśli tak, to czy Opatrzność to po prostu wola Boga? 
 
 Do jakiego stopnia można rozwinąć te analogie między mechaniką kwantową, świadomością i Bogiem? Czy ktoś ma ochotę to sprawdzić?
 
@@ -52,7 +52,7 @@ Do jakiego stopnia można rozwinąć te analogie między mechaniką kwantową, �
 [wiki-priming]: https://en.wikipedia.org/wiki/Priming_(psychology)
 [wiki-wave_function]: https://en.wikipedia.org/wiki/Wave_function
 [wiki-bell_theorem]: https://en.wikipedia.org/wiki/Bell%27s_theorem
-
 [wiki-eternalism]: https://en.wikipedia.org/wiki/Eternalism_(philosophy_of_time)
 [phys-blockworld]: https://www.physicsforums.com/insights/blockworld-foundational-implications-part-5-delayed-choice-no-counterfactual-definiteness/
 [arxiv-adynamical]: https://arxiv.org/abs/0908.4348
+[wiki-delayed_choice]: https://en.wikipedia.org/wiki/Delayed-choice_quantum_eraser
