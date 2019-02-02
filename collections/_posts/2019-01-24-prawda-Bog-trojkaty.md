@@ -21,32 +21,23 @@ Tu trzeba się zastanowić, czym jest ta regularność intelektu? To obszerny w�
 
 Jeśli teraz nie tylko struktura naszego modelu jest regularna, ale także sposób, w jaki jest regularna, przejawia pewną regularność, to możemy mieć nadzieję, że sam model będziemy w stanie ekstrapolować do czegoś ogólniejszego. To w najgorszym wypadku inspiruje zupełnie nowe pytania i eksperymenty, na które inaczej byśmy nie wpadli, a w najlepszym - odkrywamy w świecie regularność na wyższym poziomie. Regularność to źródło światła, dzięki któremu możemy isć naprzód. I za bardzo nie mamy tutaj lepszego wyjścia, bo alternatywą jest subiektywny chaos wielkich zbiorów danych i wiara, że - przykładowo - sieć neuronowa się nie pomyli.
 
-## Przykłady przydatnych pojęć - trójkąt, grawitacja, Bóg
+Tak więc im bardziej regularny model, tym bardziej przydatny - jeśli ma odpowiednio regularną strukturę, to daje się uogólniać i stosować w zupełnie innych kontekstach. Jest płodny poznawczo.
+
+## Przykłady przydatnych pojęć
 
 Nietrudno więc zrozumieć przydatność matematyki w fizyce, bo matematyka to ogromne repozytorium wszelakich regularności. Jeśli jakąś regularność opisać dostatecznie precyzyjnie, to jest to właśnie matematyka. Matematyka więc to studium regularności. Znając te regularności, możemy próbować je wykorzystać do przybliżania regularności w świecie. Znowu, nie bardzo widać inne wyjście.
 
-Na *przykład* trójkąt jest nazwą pewnej regularności. Ta regularność jest gruntownie przebadana przez matematyków, a efekty ich pracy to rozmaite twierdzenia dotyczące trójkątów, tj. nowe regularności, które z regularności trójkąta *wynikają* (zgodnie z regularnością/rytmem wbudowanym w sam intelekt, tj. logiką i aksjomatami, które w gruncie rzeczy mają charakter *objawienia*). Trójkąt niewątpliwie jest przydatnym pojęciem do opisu świata. Wyobraźmy sobie teraz pytanie - ``czy trójkąt istnieje obiektywnie?`` Intuicyjnie jest w tym jakiś sens, ale nie bardzo wiadomo, jaki. Osobiście na to pytanie mogę odpowiedzieć tylko tak, że ``regularności, które opisuje trójkąt, przejawiają się w moim doświadczeniu``.
+Na przykład *trójkąt* jest nazwą pewnej regularności. Ta regularność jest gruntownie przebadana przez matematyków, a efekty ich pracy to rozmaite twierdzenia dotyczące trójkątów, tj. nowe regularności, które z regularności trójkąta *wynikają* (zgodnie z regularnością/rytmem wbudowanym w sam intelekt, tj. logiką i aksjomatami, które w gruncie rzeczy mają charakter *objawienia*). Trójkąt niewątpliwie jest przydatnym pojęciem do opisu świata. Wyobraźmy sobie teraz pytanie - ``czy trójkąt istnieje obiektywnie?`` Intuicyjnie jest w tym jakiś sens, ale nie bardzo wiadomo, jaki. Osobiście na to pytanie mogę odpowiedzieć tylko tak, że ``regularności, które opisuje trójkąt, przejawiają się w moim doświadczeniu``.
 
 Innym przykładem niech będzie *grawitacja*. Jest to przydatne pojęcie, bo wpływ grawitacji czujemy i widzimy na co dzień. I niewiele więcej można tu powiedzieć - gdyby zapytać o to, czy "grawitacja istnieje obiektywnie", to od razu pojawiają się pytania, w jakim sensie obiektywnie, w jakiej formie jest "zaimplementowana" w "świecie obiektywnym"? Nie mając bezpośredniego dostępu do tego "obiektywnego" świata, musimy się zadowolić jedynie tym, że nasza idea grawitacji przejawia się w naszym doświadczeniu, że to przydatna koncepcja.
 
 Rozważmy teraz pojęcie *Boga* (którąkolwiek jego wersję, ale dla ustalenia uwagi weźmy Boga chrześcijańskiego). **Czy pytanie o obiektywne istnienie Boga ma jakkolwiek większy sens, niż pytanie o obiektywne istnienie trójkąta czy grawitacji?** Myślę, że nie. Pytanie, które zamiast tego powinniśmy sobie zadawać, jest takie - ``jakie regularności w świecie opisuje pojęcie Boga? Czy one przejawiają się w moim doświadczeniu?`` Jeśli te regularności zauważam, a pojęcie Boga jest w moim życiu przydatne, to być może jest to już całkiem dobra definicja *wiary*. 
 
-Przydatność i regularność pojęcia Boga to jednak materiał na osobny artykuł. Tutaj chciałbym przyjrzeć się pokrewnemu pojęciu *Opatrzności*
+Przydatność i regularność pojęcia Boga to jednak materiał na osobny artykuł. Idea Boga ładnie spina wiele aspektów życia, które wybiórczo możemy uzasadniać teoriogrowo lub za pomocą teorii ewolucji. Ta egzystencjalna uniwersalność jest co najmniej zastanawiająca.
 
-## Opatrzność jako hipoteza naukowa
-
-Żeby pozostawić Czytelnika z konkretem, proponję zastanowić się nad propozycją eksperymentu (łącznie z metodologią), który pozwoliłby sprawdzić, czy w świecie występują regularności opisywane przez pojęcie *Opatrzności* lub podobne pojęcie *karmy*. Są to pojęcia pozornie metafizyczne, ale jeśli przyjrzeć się im bliżej, zauważymy, że są to w gruncie rzeczy pewne hipotezy naukowe, bo np. karma mówi z grubsza tyle, że jeśli postępujesz "źle", to zwiększa się prawdopodobieństwo, że przydarzy Ci się coś "złego" w przyszłości (jedną z trudności metodologicznych jest właśnie definicja dobra i zła). 
-
-Wiele osób zauważa działanie Opatrzności, ale czy to oznacza, że jest to przydatne pojęcie? Czy ma moc predyktywną, czy zaledwie deskryptywną? Zdarzenia przypisywane Opatrzności można próbować tłumaczyć [teoriogrowo][plato-game_theory]{:target="_blank"}, warto też pamiętać o zjawisku [torowania][wiki-priming]{:target="_blank"}. Jednak pojęcie Opatrzności wydaje się mówić coś więcej, mianowicie, że jest ona zaszyta w samej strukturze świata, a nie jedynie w strukturze społeczności czy w strukturze percepcji. 
-
-Tak więc ``jak dokładnie powinna wyglądać metodologia badania, które weryfikuje, czy świat jest inherentnie opatrznościowy (lub karmiczny)?`` Przede wszystkim należałoby najpierw dostatecznie dobrze zdefiniować Opatrzność oraz zastanowić się, na jakim poziomie ogólności można byłoby formułować odpowiednie przewidywania. To jest mocno nieoczywisty temat. Lekko prowokacyjnie pozwolę sobie zwrócić uwagę Czytelnika, że **[funckja falowa][wiki-wave_function]{:target="_blank"} w mechanice kwantowej wygląda jak całkiem obiecujący punkt wyjścia do stworzenia formalnego opisu Opatrzności**. W tym duchu można powiedzieć, że ewolucja układów kwantowych jest *opatrznościowa*, bo bazuje na rozkładach prawdopodobieństw, a nie na deterministycznej dynamice. **Opatrzność to pewne zawężenie prawdopodobieństwa**.
-
-Gdyby udało się taki rzetelny eksperyment przeprowadzić, to cokolwiek by się okazało, byłby to doniosły wynik. Zachęcam do przemyśleń oraz do podzielenia się wnioskami w komentarzach poniżej.
+Jeszcze ciekawiej byłoby spróbować wydobyć z idei Boga wymiar czysto naukowy. Pojęcie Boga skądś się wzięło, a to znaczy, że w świecie występują pewne regularności, które je zainspirowały. Czy da się te regularności wydestylować? Zapraszam do osobnego wpisu [Opatrzność jako hipoteza naukowa]({% post_url 2019-02-02-opatrznosc-jako-hipoteza-naukowa %}), w którym podejmuję taką wstępną próbę.
 
 [wiki-truth]: https://en.wikipedia.org/wiki/Truth
 [wiki-godel]: https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems
-[plato-game_theory]: https://plato.stanford.edu/entries/game-ethics/
-[wiki-priming]: https://en.wikipedia.org/wiki/Priming_(psychology)
 [wiki-ramsey]: https://en.wikipedia.org/wiki/Ramsey_theory
 [wiki-grid_cell]: https://en.wikipedia.org/wiki/Grid_cell
-[wiki-wave_function]: https://en.wikipedia.org/wiki/Wave_function
