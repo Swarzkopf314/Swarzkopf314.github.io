@@ -33,7 +33,7 @@ Innym przykładem niech będzie *grawitacja*. Jest to przydatne pojęcie, bo wp�
 
 Rozważmy teraz pojęcie *Boga* (którąkolwiek jego wersję, ale dla ustalenia uwagi weźmy Boga chrześcijańskiego). **Czy pytanie o obiektywne istnienie Boga ma jakkolwiek większy sens, niż pytanie o obiektywne istnienie trójkąta czy grawitacji?** Myślę, że nie. Pytanie, które zamiast tego powinniśmy sobie zadawać, jest takie - ``jakie regularności w świecie opisuje pojęcie Boga? Czy one przejawiają się w moim doświadczeniu?`` Jeśli te regularności zauważam, a pojęcie Boga jest w moim życiu przydatne, to być może jest to już całkiem dobra definicja *wiary*. 
 
-Przydatność i regularność pojęcia Boga to jednak materiał na osobny artykuł. Idea Boga ładnie spina wiele aspektów życia, które wybiórczo możemy uzasadniać teoriogrowo lub za pomocą teorii ewolucji. Ta egzystencjalna uniwersalność jest co najmniej zastanawiająca.
+Przydatność i regularność pojęcia Boga to jednak materiał na osobny artykuł. Idea Boga ładnie spina wiele aspektów życia, które wybiórczo możemy uzasadniać psychologicznie, teoriogrowo bądź ewolucyjnie. Ta egzystencjalna uniwersalność jest co najmniej zastanawiająca. "Bóg" okazuje się być bardzo efektywną i regularną koncepcją.
 
 Jeszcze ciekawiej byłoby spróbować wydobyć z idei Boga wymiar czysto naukowy. Pojęcie Boga skądś się wzięło, a to znaczy, że w świecie występują pewne regularności, które je zainspirowały. Czy da się te regularności wydestylować? Zapraszam do osobnego wpisu [Opatrzność jako hipoteza naukowa]({% post_url 2019-02-02-opatrznosc-jako-hipoteza-naukowa %}), w którym podejmuję taką wstępną próbę.
 
