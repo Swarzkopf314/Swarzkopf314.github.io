@@ -17,7 +17,7 @@ Proponuję zastanowić się więc nad eksperymentem (łącznie z metodologią), 
 
 Przede wszystkim należałoby najpierw dostatecznie dobrze zdefiniować Opatrzność oraz zastanowić się, na jakim poziomie ogólności można byłoby formułować odpowiednie przewidywania. To jest mocno nieoczywisty temat. 
 
-Lekko prowokacyjnie pozwolę sobie zwrócić uwagę Czytelnika, że [funkcja falowa][wiki-wave_function]{:target="_blank"} w mechanice kwantowej wygląda jak całkiem obiecujący punkt wyjścia dla formalnego opisu Opatrzności. W tym duchu można wręcz powiedzieć, że ewolucja układów kwantowych jest *opatrznościowa*, bo bazuje na rozkładach prawdopodobieństw, a nie na deterministycznej dynamice klasycznej. Ruchu elektronu nie można opisać za pomocą funkcji położenia od czasu (niesłychanie ważne [Twierdzenie Bella][wiki-bell_theorem]{:target="_blank"} o braku zmiennych ukrytych, ładnie zobrazowane na [filmie][yt_minutephysics-bell]{:target="_blank"}). Jest on opisany pewną falą prawdopobieństwa, która określa, w którym obszarze statystycznie należałoby się spodziewać wykrycia elektronu.
+Lekko prowokacyjnie pozwolę sobie zwrócić uwagę Czytelnika, że [funkcja falowa][wiki-wave_function]{:target="_blank"} w mechanice kwantowej wygląda jak całkiem obiecujący punkt wyjścia dla formalnego opisu Opatrzności. W tym duchu można wręcz powiedzieć, że ewolucja układów kwantowych jest *opatrznościowa*, bo bazuje na rozkładach prawdopodobieństw, a nie na deterministycznej dynamice klasycznej. Ruchu elektronu nie można opisać za pomocą funkcji położenia od czasu (niesłychanie ważne [Twierdzenie Bella][wiki-bell_theorem]{:target="_blank"} o braku zmiennych ukrytych). Jest on opisany pewną falą prawdopobieństwa, która określa, w którym obszarze statystycznie należałoby się spodziewać wykrycia elektronu.
 
 ## Czym jest prawdopodobieństwo? 
 
@@ -56,4 +56,3 @@ Do jakiego stopnia można rozwinąć te analogie między mechaniką kwantową, �
 [phys-blockworld]: https://www.physicsforums.com/insights/blockworld-foundational-implications-part-5-delayed-choice-no-counterfactual-definiteness/
 [arxiv-adynamical]: https://arxiv.org/abs/0908.4348
 [wiki-delayed_choice]: https://en.wikipedia.org/wiki/Delayed-choice_quantum_eraser
-[yt_minutephysics-bell]: https://www.youtube.com/watch?v=zcqZHYo7ONs
