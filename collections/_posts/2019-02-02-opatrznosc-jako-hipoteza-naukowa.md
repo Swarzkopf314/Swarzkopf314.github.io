@@ -23,7 +23,7 @@ Lekko prowokacyjnie pozwolę sobie zwrócić uwagę Czytelnika, że [funkcja fal
 
 Na to pytanie łatwo odpowiedzieć, kiedy możemy wielokrotnie powtórzyć eksperyment. Powiedzieć, że elektron trafi w obszar ``A`` z prawdopodobieństwem ``30%`` to znaczy spodziewać się, że jeśli powtórzymy eksperyment ``1000`` razy, to około ``300`` razy znajdziemy elektron w obszarze ``A``. Ale co w przypadku, kiedy rozważamy tylko pojedynczy eksperyment? Skąd elektron "wie", że ma się zachować tak, że jeśli powtórzymy eksperyment ``1000`` razy, to w około ``300`` przypadkach wpadnie w obszar ``A``? W jaki sposób prawdopodobieństwo wpływa na ewolucję elektronu? Jak prawdopodobieństwo jest "zaimplementowane" w świecie? Czym ono tak naprawdę jest? 
 
-Wygląda to tak, jakby ruchem elektronu sterowała pewna **metareguła**, która **ma mierzalny wpływ na wynik dopiero wielu powtórzeń eksperymentu**. Byłby to byt, który manifestuje się jedynie w pewnym odcinku czasu, jakby nie istniał w żadnej chwili z osobna, ale właśnie w pewnym przedziale czasowym - podobnie, jak znane nam obiekty manifestują się w pewnej rozciągłości przestrzennej (a nie mają sensu w każdym punkcie przestrzeni z osobna).
+Wygląda to tak, jakby ruchem elektronu sterowała pewna **metareguła**, która **ma mierzalny wpływ na wynik dopiero wielu powtórzeń eksperymentu**. Byłby to byt, który manifestuje się jedynie w pewnym odcinku czasu, jakby nie istniał w żadnej chwili z osobna, ale właśnie w pewnym przedziale czasowym - podobnie, jak znane nam obiekty manifestują się w pewnej rozciągłości przestrzennej (a nie mają pełnego sensu w każdym punkcie przestrzeni z osobna).
 
 ## Czy świat jest adynamiczny?
 
