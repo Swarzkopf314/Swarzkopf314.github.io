@@ -35,3 +35,6 @@ https://stackoverflow.com/questions/9612235/what-are-some-good-ways-to-implement
 
 jekyll tags & categories
 https://blog.webjeda.com/jekyll-categories/
+
+jekyll internalization
+https://www.klaasnotfound.com/2017/02/16/proper-multilingual-site-with-github-pages-and-jekyll/

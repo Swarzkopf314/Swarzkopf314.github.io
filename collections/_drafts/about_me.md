@@ -135,3 +135,9 @@ Outsider, ale raczej w stylu Ricka Sancheza. Zadaję dużo pytań i wiem, co chc
 Chcę żyć dostatecznie długo, żeby osiągnąć to, co chcę osiągnąć i dowiedzieć się tego, czego chcę się dowiedzieć. Szczęście jest dla lam.
 
 Life's not about happiness, it's about pursuit. You're happy when you're dead and you're dead when you're happy.
+
+## na stronę fundacji
+
+Restless, independent, yet kind and open mind, recognizing, appreciating and taking very seriously the mistery of this world. Careful thinker, meticulous programmer and a natural information systematizer.
+
+Interested in finding optimal solutions.
