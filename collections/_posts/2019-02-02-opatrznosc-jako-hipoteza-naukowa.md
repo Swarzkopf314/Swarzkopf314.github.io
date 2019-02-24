@@ -5,7 +5,7 @@ featured-img: "2019-02-02"
 categories: [Opatrzność, nauka, mechanika kwantowa, świadomość, Bóg]
 ---
 
-W artykule [Prawda, Bóg i trójkąty]({% post_url 2019-01-24-prawda-Bog-trojkaty %}){:target="_blank"} poruszyłem aspekt *przydatności* jako kryterium jakości modeli fragmentów świata. Zasygnalizowałem też potrzebę przeanalizowania *przydatności* koncepcji Boga (chrześcijańskiego).
+W artykule [Prawda, Bóg i trójkąty]({{ site.baseurl }}{% post_url 2019-01-24-prawda-Bog-trojkaty %}){:target="_blank"} poruszyłem aspekt *przydatności* jako kryterium jakości modeli fragmentów świata. Zasygnalizowałem też potrzebę przeanalizowania *przydatności* koncepcji Boga (chrześcijańskiego).
 
 Tutaj chciałbym przyjrzeć się pokrewnemu pojęciu [Opatrzności][wiki-opatrznosc]{:target="_blank"}. Wiele osób zauważa jej działanie, ale czy to już oznacza, że jest to dostatecznie *przydatne* pojęcie? Czy ma ono moc predyktywną, czy zaledwie deskryptywną? Zdarzenia przypisywane Opatrzności można próbować tłumaczyć [teoriogrowo][plato-game_theory]{:target="_blank"}, warto też pamiętać o zjawisku [torowania][wiki-priming]{:target="_blank"}, przez które możemy mieć wrażenie "znaczących zbiegów okoliczności". Jednak Opatrzność wydaje się mówić coś więcej, mianowicie, że jest w jakiś sposób zaszyta w samej strukturze świata, a nie jedynie w strukturze społeczności czy w strukturze percepcji. 
 
