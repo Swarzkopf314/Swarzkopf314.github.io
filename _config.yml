@@ -20,9 +20,8 @@ description: |
   This is my idea playground.
 
   The world is a mystery that has to be taken seriously or otherwise there's just death.
-baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://satkiewicz.it" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: ""
+baseurl: "" # the subpath of your site, e.g. /blog
 
 hero_img: 'panteon.jpg'
 img_url: '/assets/img/'
