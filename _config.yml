@@ -57,16 +57,16 @@ compress_html:
     envs: []
 
 collections_dir: collections
-permalink: /:collection/:title/
+# permalink: /:collection/:title/
 
 collections:
   poems:
     output: true
-    # permalink: /:collection/:title/
+    permalink: blog/:collection/:title/
     # lang: "default"
   posts:
     output: true
-    # permalink: /:collection/:title/
+    permalink: blog/:collection/:title/
 
 defaults:
   - scope:

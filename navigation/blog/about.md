@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Maciej Satkiewicz
-permalink: /about
+permalink: /blog/about
 ---
 
 <!-- 
