@@ -21,7 +21,7 @@ Tu trzeba się zastanowić, czym jest ta regularność intelektu? To obszerny w�
 
 Jeśli teraz nie tylko struktura naszego modelu jest regularna, ale także sposób, w jaki jest regularna, przejawia pewną regularność, to możemy mieć nadzieję, że sam model będziemy w stanie ekstrapolować do czegoś ogólniejszego. To w najgorszym wypadku inspiruje zupełnie nowe pytania i eksperymenty, na które inaczej byśmy nie wpadli, a w najlepszym - odkrywamy w świecie regularność na wyższym poziomie. Regularność to źródło światła, dzięki któremu możemy isć naprzód. I za bardzo nie mamy tutaj lepszego wyjścia, bo alternatywą jest subiektywny chaos wielkich zbiorów danych i wiara, że - przykładowo - sieć neuronowa się nie pomyli.
 
-Tak więc im bardziej regularny model, tym bardziej przydatny - jeśli ma odpowiednio regularną strukturę, to daje się uogólniać i stosować w zupełnie innych kontekstach. Jest płodny poznawczo.
+Tak więc im bardziej regularny model, tym bardziej przydatny - jeśli ma odpowiednio regularną strukturę, to daje się uogólniać i stosować w zupełnie innych kontekstach. Jest płodny poznawczo. Przykładowo kryterium przydatności faworyzuje teorię ewolucji nad kreacjonizmem, bo ideę doboru naturalnego można zastosować w wielu nowych kontekstach, natomiast z kreacjonizmu w zasadzie nic nie wynika.
 
 ## Przykłady przydatnych pojęć
 
