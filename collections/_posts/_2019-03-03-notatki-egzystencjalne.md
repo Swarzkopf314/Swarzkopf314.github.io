@@ -12,7 +12,7 @@ tags: [ala, ma, kota]
 
 - życie to lekcja wyobraźni (life is a lesson of imagination). 
 
-- Wystarczy nauczyć się czerpać energię z bólu (niefizycznego)
+- w życiu wystarczy nauczyć się czerpać energię z bólu (niefizycznego)
 
 # Memiczna postawa do świata. Na przekór.
 
