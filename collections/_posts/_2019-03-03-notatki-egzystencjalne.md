@@ -6,10 +6,6 @@ categories: [test, raz, dwa]
 tags: [ala, ma, kota]
 ---
 
-- czy jestem 4-wymiarowy? moje życie jest określone w czasie. Nie jestem tylko tu-i-teraz. Jestem też jutro. Jutro już było, ale z dzisiejszej perspektywy go nie pamiętam.
-
-- prawdopodobieństwo i czas mają wiele wspólnego. Prawdopodobieństwo to informacja uwidaczniająca się w czasie.
-
 - życie to lekcja wyobraźni (life is a lesson of imagination). 
 
 - w życiu wystarczy nauczyć się czerpać energię z bólu (niefizycznego)
@@ -38,3 +34,13 @@ No w każdym razie to moja recepta.
 Agent Smith: Why, Mr. Anderson? Why do you do it? Why get up? Why keep fighting? Do you believe you’re fighting for something? For more than your survival? Can you tell me what it is? Do you even know? Is it freedom? Or truth? Perhaps peace? Could it be for love? Illusions, Mr. Anderson. Vagaries of perception. The temporary constructs of a feeble human intellect trying desperately to justify an existence that is without meaning or purpose. And all of them as artificial as the Matrix itself, although only a human mind could invent something as insipid as love. You must be able to see it, Mr. Anderson. You must know it by now. You can’t win. It’s pointless to keep fighting. Why, Mr. Anderson? Why? Why do you persist?
 
 Neo: Because I choose to.
+
+# Czy czas jest wytworem świadomości?
+
+- czy jestem 4-wymiarowy? moje życie jest określone w czasie. Nie jestem tylko tu-i-teraz. Jestem też jutro. Jutro już było, ale z dzisiejszej perspektywy go nie pamiętam. To moja pamięć deiniuje czas.
+
+- prawdopodobieństwo i czas mają wiele wspólnego. Prawdopodobieństwo to informacja uwidaczniająca się w czasie.
+
+- Opatrzność uwidacznia się w czasie, podobnie jak prawdopodobieństwo. I podobnie jak wola.
+
+- możliwe, że faktycznie świat jest adynamiczny i znajduje się w jednej wielkiej superpozycji wszystkich możliwości, a nasze świadomości wpływają do tego świata, osadzają się w mózgu i potem wybierają ścieżki. Ścieżka, którą przebędzie Twoja dusza, definiuje Ciebie (opatrznościowo).
