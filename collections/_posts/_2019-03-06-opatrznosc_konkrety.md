@@ -1,5 +1,5 @@
 ---
-title: "Opatrzność jako hipoteza naukowa"
+title: "Opatrzność jako hipoteza naukowa - konkrety"
 date: 2019-02-02
 featured-img: "2019-02-02"
 categories: [Opatrzność, nauka, mechanika kwantowa, świadomość, Bóg]
