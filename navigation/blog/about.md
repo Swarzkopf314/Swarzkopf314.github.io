@@ -2,6 +2,7 @@
 layout: page
 title: Maciej Satkiewicz
 permalink: /blog/about
+desc: msatkiewicz@gmail.com
 ---
 
 <!-- 

@@ -1,3 +1,8 @@
+- wpis o Akcie Woli
+- zmienić wpis o mnie (na bardziej "fundacyjny")
+- wpis o wegetarianiźmie (załączyć ustawę jako pdf w projekcie, ew. link)
+- wpis o 314 i F314, takze F31.4
+
 # TODO teksty
 
 ptaki (ich życie jest przed nami odsłonięte, prowadzą je równolegle, bez żenady, czasem się spotykamy, nasze ścieżki się przecinają)
