@@ -5,7 +5,11 @@ featured-img: "2019-02-02"
 categories: [Opatrzność, nauka, mechanika kwantowa, świadomość, Bóg]
 ---
 
+## Kluczowy case
+
 Kluczowy case w przypadku Opatrzności - czy my ten sens dorabiamy, czy odkrywamy? A to da się poniekąd zbadać, badając działanie mózgu w innych kontekstach. Z jednej strony mamy Teorię Ramseya - z chosu potrafimy wydobyć całość.
+
+## Przykład eksperymentu (badamy sposób działania mózgu)
 
 Wiesz, ze udowodnilismy istnienie Boga? Nie zrozum mnie zle, to nie jest jakis tani romantyzm, tylko bardzo precyzyjna myśl
 I to jednak jest głębokie. No bo weź ten mój mózg, który dostrzega znaki w świecie, które się komponują elegancko w całość, dostrzega coś w rodzaju Opatrzności w moim życiu. I tu jest fundamentalna kwestia, czy mój mózg ten sens tworzy, czy odkrywa.

@@ -6,9 +6,11 @@ categories: [test, raz, dwa]
 tags: [ala, ma, kota]
 ---
 
-- życie to lekcja wyobraźni (life is a lesson of imagination). 
+1. życie to lekcja wyobraźni (life is a lesson of imagination). 
 
-- w życiu wystarczy nauczyć się czerpać energię z bólu (niefizycznego)
+2. w życiu wystarczy nauczyć się czerpać energię z bólu (niefizycznego).
+
+3. sensem życia jest wola (i definiowanie się dzięki niej w czasie).
 
 # Memiczna postawa do świata. Na przekór.
 
