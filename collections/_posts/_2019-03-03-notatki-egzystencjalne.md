@@ -12,6 +12,8 @@ tags: [ala, ma, kota]
 
 3. sensem życia jest wola (i definiowanie się dzięki niej w czasie).
 
+4. Jesteśmy 4-wymiarowi, nasz byt ma sens w czasie, a nie tylko w tu-i-teraz. Tu-i-teraz to moment na decyzję, tutaj realizuje się nasza wola, ale my sami jesteśmy więksi, czasowi. Dlatego nie rozpaczaj, jeśli tu i teraz jesteś sam, bo jutro jesteś już ze znajomymi, a za 5lat masz kochającą żonę. Ciesz się z tego.
+
 # Memiczna postawa do świata. Na przekór.
 
 Magnificent. This pain will make me even stronger!
