@@ -6,9 +6,9 @@ categories: [test, raz, dwa]
 tags: [ala, ma, kota]
 ---
 
-1. życie to lekcja wyobraźni (life is a lesson of imagination). 
+1. życie to lekcja wyobraźni (life is a lesson of imagination). Wyobraźnia buduje się w czasie. To czas zamknięty w pamięci. Żyjesz w czasie, zeby rozbudowac swoja wyobraźnię.
 
-2. w życiu wystarczy nauczyć się czerpać energię z bólu (niefizycznego).
+2. w życiu wystarczy nauczyć się czerpać energię z bólu (niefizycznego). Ten ból też jest tylko tu i teraz. Więc na ból możesz odpowiedzieć siłą woli. mozesz wybrać, ze sie mu nie poddasz, ze przekujesz go w siłę. Że nie dasz mu trwać. że będzie tylko chwilowy.
 
 3. sensem życia jest wola (i definiowanie się dzięki niej w czasie).
 
