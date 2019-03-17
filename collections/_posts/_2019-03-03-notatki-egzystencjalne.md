@@ -14,7 +14,7 @@ tags: [ala, ma, kota]
 
 4. Jesteśmy 4-wymiarowi, nasz byt ma sens w czasie, a nie tylko w tu-i-teraz. Tu-i-teraz to moment na decyzję, tutaj realizuje się nasza wola, ale my sami jesteśmy więksi, czasowi. Dlatego nie rozpaczaj, jeśli tu i teraz jesteś sam, bo jutro jesteś już ze znajomymi, a za 5lat masz kochającą żonę. Ciesz się z tego.
 
-5. Trzeba nauczyć się być bezbronnym, bo wtedy akceptujesz bezbronność innych. Bezbronność emocjonalną.
+5. Trzeba nauczyć się być bezbronnym, bo wtedy akceptujesz bezbronność innych. Bezbronność emocjonalną. Umieć przyznać się do bezbronności. Jeśli tego nie potrafisz, będziesz ranił ludzi, którym chcesz zaufać. Bo będziesz ich atakował albo dystansował się, bojąc się własnej bezbronności.
 
 # Memiczna postawa do świata. Na przekór.
 
