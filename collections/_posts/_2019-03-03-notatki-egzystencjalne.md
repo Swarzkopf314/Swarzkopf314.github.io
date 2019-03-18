@@ -6,11 +6,15 @@ categories: [test, raz, dwa]
 tags: [ala, ma, kota]
 ---
 
-1. życie to lekcja wyobraźni (life is a lesson of imagination). 
+1. życie to lekcja wyobraźni (life is a lesson of imagination). Wyobraźnia buduje się w czasie. To czas zamknięty w pamięci. Żyjesz w czasie, zeby rozbudowac swoja wyobraźnię.
 
-2. w życiu wystarczy nauczyć się czerpać energię z bólu (niefizycznego).
+2. w życiu wystarczy nauczyć się czerpać energię z bólu (niefizycznego). Ten ból też jest tylko tu i teraz. Więc na ból możesz odpowiedzieć siłą woli. mozesz wybrać, ze sie mu nie poddasz, ze przekujesz go w siłę. Że nie dasz mu trwać. że będzie tylko chwilowy.
 
-3. sensem życia jest wola (i definiowanie się dzięki niej w czasie).
+3. sensem życia jest wola (i definiowanie się dzięki niej w czasie). Wola jest kluczowa, wola stwarza rzeczywistość. Nie możesz się wstydzić swojej woli. Nie chodzi o to, żeby zawsze dopiąć swego, ale o to, żeby wyrażać swoją wolę. Trzeba respektować wolę innych. Także trzeba mieć wiedzę (wyobraźnię), żeby wola nie była ślepa.
+
+4. Jesteśmy 4-wymiarowi, nasz byt ma sens w czasie, a nie tylko w tu-i-teraz. Tu-i-teraz to moment na decyzję, tutaj realizuje się nasza wola, ale my sami jesteśmy więksi, czasowi. Dlatego nie rozpaczaj, jeśli tu i teraz jesteś sam, bo jutro jesteś już ze znajomymi, a za 5lat masz kochającą żonę. Ciesz się z tego.
+
+5. Trzeba nauczyć się być bezbronnym, bo wtedy akceptujesz bezbronność innych. Bezbronność emocjonalną. Umieć przyznać się do bezbronności. Jeśli tego nie potrafisz, będziesz ranił ludzi, którym chcesz zaufać. Bo będziesz ich atakował albo dystansował się, bojąc się własnej bezbronności.
 
 # Memiczna postawa do świata. Na przekór.
 
