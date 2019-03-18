@@ -9,6 +9,14 @@ categories: [Opatrzność, nauka, mechanika kwantowa, świadomość, Bóg]
 
 Kluczowy case w przypadku Opatrzności - czy my ten sens dorabiamy, czy odkrywamy? A to da się poniekąd zbadać, badając działanie mózgu w innych kontekstach. Z jednej strony mamy Teorię Ramseya - z chosu potrafimy wydobyć całość.
 
+Ale co z chmurą w kształcie konia? Ten koń tam jest czy to my go tam widzimy? Na jedno wychodzi. Tu kluczowe jest pytanie, czy ktoś tego konia umieścił tam celowo. Czy to było intencjonalne działanie.
+
+Więc w Opatrzności kluczowa jest *intencja*, a nie sama obecność znaczenia. Bo z intencji wynikają wnioski na przyszłość. Znając intencję możemy się czegoś spodziewać.
+
+Z drugiej strony znaczeń mamy wiele do wyboru i w każdym chaosie znajdziemy jakąś strukturę, jeśli dysponujemy dostatecznie wieloma nazwanymi strukturami. 
+Pytanie więc, czy w kontekście Opatrzności tych nazwanych struktur faktycznie jest trywialnie dużo? Czy jednak religia ma jeden spójny przekaz? Jeśli przejawiających się struktur jest mało, to jest to ciekawe.
+
+
 ## Przykład eksperymentu (badamy sposób działania mózgu)
 
 Wiesz, ze udowodnilismy istnienie Boga? Nie zrozum mnie zle, to nie jest jakis tani romantyzm, tylko bardzo precyzyjna myśl
