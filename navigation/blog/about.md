@@ -21,7 +21,12 @@ Nie mogę też tracić z oczu perspektywy ogólnej, ludzkiej, codziennej. Eksplo
 
 Wszyscy leżymy w rynsztoku, ale niektórzy z nas budują rakiety.
 
+![img]({{site.baseurl}}{{site.img_url}}prezes_focia.jpg)
+
+
 ![img]({{site.baseurl}}{{site.img_url}}background_dixit.jpg)
+<!-- ![img]({{site.baseurl}}{{site.img_url}}background_dixit.jpg){:height="36px" width="36px"} -->
+<!-- <div><img src="{{site.baseurl}}{{site.img_url}}background_dixit.jpg" alt="drawing" width="20"/></div> -->
 
 [wiki-agi]: https://en.wikipedia.org/wiki/Artificial_general_intelligence
 
