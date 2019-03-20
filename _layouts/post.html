@@ -32,7 +32,7 @@ layout: compress
   {% endif %}
     <div class="hero__wrap">
       {% if post.categories or page.categories %}
-        <div class="hero__categories">
+        <div class="hero__categories hidden">
           {% if post %}
             {% assign categories = post.categories %}
           {% else %}
