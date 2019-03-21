@@ -4,7 +4,11 @@ date:   2019-03-21
 featured-img: "2019-03-21-3"
 ---
 
-1. życie to lekcja wyobraźni (life is a lesson of imagination). Wyobraźnia buduje się w czasie. To czas zamknięty w pamięci. Żyjesz w czasie, zeby rozbudowac swoja wyobraźnię.
+
+
+#### 1. Życie jako lekcja wyobraźni. 
+
+Wyobraźnia buduje się w czasie. To czas zamknięty w pamięci. Żyjesz w czasie, zeby rozbudowac swoja wyobraźnię.
 
 2. w życiu wystarczy nauczyć się czerpać energię z bólu (niefizycznego). Ten ból też jest tylko tu i teraz. Więc na ból możesz odpowiedzieć siłą woli. mozesz wybrać, ze sie mu nie poddasz, ze przekujesz go w siłę. Że nie dasz mu trwać. że będzie tylko chwilowy.
 
