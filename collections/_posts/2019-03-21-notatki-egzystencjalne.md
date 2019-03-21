@@ -1,9 +1,7 @@
 ---
 title:  "Notatki Egzystenclajne"
-date:   2018-08-30 11:53:24 +0200
-featured-img: sleek
-categories: [test, raz, dwa]
-tags: [ala, ma, kota]
+date:   2019-03-21
+featured-img: "2019-03-21-3"
 ---
 
 1. życie to lekcja wyobraźni (life is a lesson of imagination). Wyobraźnia buduje się w czasie. To czas zamknięty w pamięci. Żyjesz w czasie, zeby rozbudowac swoja wyobraźnię.
