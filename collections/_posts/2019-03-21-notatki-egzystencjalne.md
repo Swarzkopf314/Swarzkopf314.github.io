@@ -1,7 +1,7 @@
 ---
 title:  "Notatki Egzystenclajne"
 date:   2019-03-21
-featured-img: "2019-03-21-3"
+featured-img: "2019-03-21"
 ---
 
 Poniżej prezentuję pewne intelektualne narzędzie (w 5 punktach), które sobie zmajstrowałem i które pomaga mi iść przez życie. Może komuś też się przyda.
