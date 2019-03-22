@@ -30,11 +30,11 @@ Ale wola nie może być ślepa. Wola potrzebuje wyobraźni, inaczej zaprowadzi n
 
 Wola powinna też respektować wolę innych, bo co większego wola może spotkać w świecie, jeśli nie inną wolę. A wola jest pełna tylko wtedy, gdy jest wolna.
 
-#### 4. Trzeba nauczyć się być bezbronnym.
+#### 4. Naucz się być bezbronnym.
 
 Bywają momenty, że stoisz bezbronny przed inną wolą. Jeśli to nie jest zła wola, to jest to lekcja zaufania. Jeśli więc zaakceptujesz swoją bezbronność, to siłą rzeczy będziesz też potrafił akceptować bezbronność innych. A to sprawi, że inni zaufają Tobie. Co ciekawszego mogą zrobić wole rzucone w świat, niż nauczyć się współpracować i ufać sobie nazwajem? Walczyć o zasoby? Ale po co te zasoby? Żeby obronić się przed złą wolą innych. Zamiast tego lepiej nauczyć się sobie ufać.
 
-#### 5. Trzeba nauczyć się czerpać siłę z bólu.
+#### 5. Naucz się czerpać siłę z bólu.
 
 Zaznaczam, że chodzi tutaj o ból, z którym można walczyć siłą woli, tj. ból niefizyczny i niechroniczny.
 
