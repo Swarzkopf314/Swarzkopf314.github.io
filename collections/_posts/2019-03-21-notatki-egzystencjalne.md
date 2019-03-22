@@ -18,7 +18,7 @@ Wyobraźnia buduje się w czasie. To czas zamknięty w pamięci. Czas daje percy
 
 #### 2. Nasz byt ma sens dopiero w czasie. 
 
-Trzeba zauważyć, że nasz byt budujemy w czasie, a nie tylko w tu-i-teraz. Tu-i-teraz to moment na decyzję, tutaj realizuje się nasza wola, ale my sami jesteśmy więksi, czasowi. Dlatego nie rozpaczaj, jeśli tu-i-teraz jest Ci źle, bo jutro jesteś już ze znajomymi, a za 5 lat masz kochającą rodzinę - jeśli tylko wybierzesz taką przyszłość i będziesz do niej dążyć. Nie ma powodu, żeby nie cieszyć się z tej przyszłości już teraz tylko dlatego, że w tej chwili nie doświadczasz jej bezpośrednio. Ta chwila to nie jest cały obrazek.
+Trzeba zauważyć, że nasz byt budujemy w czasie, a nie tylko w tu-i-teraz. Tu-i-teraz to moment na decyzję, tutaj realizuje się nasza wola, ale my sami jesteśmy więksi, czasowi. Dlatego nie rozpaczaj, jeśli tu-i-teraz jest Ci źle, bo jutro jesteś już ze znajomymi, a za 5 lat masz kochającą rodzinę - jeśli tylko wybierzesz taką przyszłość i będziesz do niej dążył. Nie ma powodu, żeby nie cieszyć się z tej przyszłości już teraz tylko dlatego, że w tej chwili nie doświadczasz jej bezpośrednio. Ta chwila to nie jest cały obrazek.
 
 #### 3. Istotą życia jest wola.
 
@@ -46,7 +46,7 @@ Ostatecznie ból (wszelkiego rodzaju) jest równoważny złu. Doświadczenie zł
 
 
 <br/><br/>
-Czy w życiu jest coś donioślejszego, niż zwyczajne bycie dobrym dla innych?
+Czy wobec powyższych w życiu jest coś donioślejszego, niż zwyczajne bycie dobrym dla innych?
 <br/><br/>
 
 
