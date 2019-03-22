@@ -46,7 +46,7 @@ Ostatecznie ból (wszelkiego rodzaju) jest równoważny złu. Doświadczenie zł
 
 
 <br/><br/>
-Czy wobec powyższych jest coś donioślejszego w życiu, niż bycie dobrym (prawdziwie, niepowierzchownie) dla innych?
+Czy wobec powyższych jest coś donioślejszego w życiu, niż bycie dobrym (prawdziwie, niepowierzchownie) dla siebie i innych?
 <br/><br/>
 
 
