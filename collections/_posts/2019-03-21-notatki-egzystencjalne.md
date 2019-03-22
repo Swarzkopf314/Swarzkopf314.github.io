@@ -12,7 +12,7 @@ Poniżej prezentuję pewne intelektualne narzędzie (w 5 punktach), które sobie
 
 Można wręcz porównać świat fizyczny do języka, w którym wyrażają się pewne idee, struktury i zależności. Te struktury następnie reprezentujemy jako pojęcia, elementy naszej wyobraźni. Rzeczywistość jest więc swoistym podręcznikiem.
 
-Podstawowym składnikiem tej lekcji jest przestrzeń. Nasze działa są przestrzenne i odrębne. Dzięki przestrzeni potrafimy stwarzać fizyczne struktury, które następnie w tej przestrzeni trwają i wpływają na innych. Potrafimy na siebie nawzajem wpływać w sposób znaczący w tej przestrzeni. Rzecz tak prosta jak spojrzenie albo pokonanie odległości i czułe objęcie innego ciała - pozwala nam wyrazić troskę, która bez przestrzeni byłaby trudna w ogóle do wyobrażenia.
+Podstawowym składnikiem tej lekcji jest przestrzeń. Nasze ciała są przestrzenne i odrębne. Dzięki przestrzeni potrafimy stwarzać fizyczne struktury, które następnie w tej przestrzeni trwają i wpływają na innych. Potrafimy na siebie nawzajem wpływać w sposób znaczący w tej przestrzeni. Rzecz tak prosta jak spojrzenie albo pokonanie odległości i czułe objęcie innego ciała - pozwala nam wyrazić troskę, która bez przestrzeni byłaby trudna w ogóle do wyobrażenia.
 
 Wyobraźnia buduje się w czasie. To czas zamknięty w pamięci. Czas daje percypowanej przez nas rzeczywistości większą siłę wyrazu, bo dzięki niemu możemy zrozumieć idee takie jak utrata, tęsknota, nadzieja, ambicja. Daje nam też motywację do działania.
 
@@ -22,7 +22,7 @@ Trzeba zauważyć, że nasz byt budujemy w czasie, a nie tylko w tu-i-teraz. Tu-
 
 #### 3. Istotą życia jest wola.
 
-Chwila to czas na decyzję. W każdej chwili masz wybór, Twoje wybory składają się na Twoją własną definicję w czasie. Wpływamy w rzeczywistość, żeby za pomocą wyborów określić się w niej jako pewien byt czasowy, pewna historia, tendencja. W czasie weryfikuje się, kim jesteśmy. Dopóki żyjesz, masz czas, żeby się określić.
+Chwila to czas na decyzję. W każdej chwili masz wybór, Twoje wybory składają się na Twoją własną definicję w czasie. Wpływamy w rzeczywistość, żeby za pomocą wyborów określić się w niej jako pewien byt czasowy, pewna historia, tendencja. W czasie weryfikuje się, kim jesteśmy, a nie w chwili. Dopóki żyjesz, masz czas, żeby się określić.
 
 Wola jest więc kluczowa, to ona stwarza rzeczywistość. Nie możesz się wstydzić swojej woli ani czekać, aż rzeczywistość sama się określi. To Ty ją kreujesz za pomocą swojej woli.
 
