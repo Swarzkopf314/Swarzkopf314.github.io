@@ -4,21 +4,56 @@ date:   2019-03-21
 featured-img: "2019-03-21-3"
 ---
 
-
+Poniżej prezentuję pewne intelektualne narzędzie (w 5 punktach), które sobie zmajstrowałem i które pomaga mi iść przez życie. Może komuś też się przyda.
 
 #### 1. Życie jako lekcja wyobraźni. 
 
-Wyobraźnia buduje się w czasie. To czas zamknięty w pamięci. Żyjesz w czasie, zeby rozbudowac swoja wyobraźnię.
+Świat ma pewną strukturę, pewne regularności, które zauważamy i odtwarzamy w postaci struktur myślowych, które zbiorczo można nazwać wyobraźnią. Więc funkcjonowanie w świecie wiąże się nierozerwalnie z rozbudową wyobraźni. A więc jest to pewna lekcja, wzrost, rozbudowywanie świadomości.
 
-2. w życiu wystarczy nauczyć się czerpać energię z bólu (niefizycznego). Ten ból też jest tylko tu i teraz. Więc na ból możesz odpowiedzieć siłą woli. mozesz wybrać, ze sie mu nie poddasz, ze przekujesz go w siłę. Że nie dasz mu trwać. że będzie tylko chwilowy.
+Można wręcz porównać świat fizyczny do języka, w którym wyrażają się pewne idee, struktury i zależności. Te struktury następnie reprezentujemy jako pojęcia, elementy naszej wyobraźni. Rzeczywistość jest więc swoistym podręcznikiem.
 
-3. sensem życia jest wola (i definiowanie się dzięki niej w czasie). Wola jest kluczowa, wola stwarza rzeczywistość. Nie możesz się wstydzić swojej woli. Nie chodzi o to, żeby zawsze dopiąć swego, ale o to, żeby wyrażać swoją wolę. Trzeba respektować wolę innych. Także trzeba mieć wiedzę (wyobraźnię), żeby wola nie była ślepa.
+Podstawowym składnikiem tej lekcji jest przestrzeń. Nasze działa są przestrzenne i odrębne. Dzięki przestrzeni potrafimy stwarzać fizyczne struktury, które następnie w tej przestrzeni trwają i wpływają na innych. Potrafimy na siebie nawzajem wpływać w sposób znaczący w tej przestrzeni. Rzecz tak prosta jak spojrzenie albo pokonanie odległości i czułe objęcie innego ciała - pozwala nam wyrazić troskę, która bez przestrzeni byłaby trudna w ogóle do wyobrażenia.
 
-4. Jesteśmy 4-wymiarowi, nasz byt ma sens w czasie, a nie tylko w tu-i-teraz. Tu-i-teraz to moment na decyzję, tutaj realizuje się nasza wola, ale my sami jesteśmy więksi, czasowi. Dlatego nie rozpaczaj, jeśli tu i teraz jesteś sam, bo jutro jesteś już ze znajomymi, a za 5lat masz kochającą żonę. Ciesz się z tego.
+Wyobraźnia buduje się w czasie. To czas zamknięty w pamięci. Czas daje percypowanej przez nas rzeczywistości większą siłę wyrazu, bo dzięki niemu możemy zrozumieć idee takie jak utrata, tęsknota, nadzieja, ambicja. Daje nam też motywację do działania.
 
-5. Trzeba nauczyć się być bezbronnym, bo wtedy akceptujesz bezbronność innych. Bezbronność emocjonalną. Umieć przyznać się do bezbronności. Jeśli tego nie potrafisz, będziesz ranił ludzi, którym chcesz zaufać. Bo będziesz ich atakował albo dystansował się, bojąc się własnej bezbronności.
+#### 2. Nasz byt ma sens dopiero w czasie. 
 
-# Memiczna postawa do świata. Na przekór.
+Trzeba zauważyć, że nasz byt budujemy w czasie, a nie tylko w tu-i-teraz. Tu-i-teraz to moment na decyzję, tutaj realizuje się nasza wola, ale my sami jesteśmy więksi, czasowi. Dlatego nie rozpaczaj, jeśli tu-i-teraz jest Ci źle, bo jutro jesteś już ze znajomymi, a za 5 lat masz kochającą rodzinę - jeśli tylko wybierzesz taką przyszłość i będziesz do niej dążyć. Nie ma powodu, żeby nie cieszyć się z tej przyszłości już teraz tylko dlatego, że w tej chwili nie doświadczasz jej bezpośrednio. Ta chwila to nie jest cały obrazek.
+
+#### 3. Istotą życia jest wola.
+
+Chwila to czas na decyzję. W każdej chwili masz wybór, Twoje wybory składają się na Twoją własną definicję w czasie. Wpływamy w rzeczywistość, żeby za pomocą wyborów określić się w niej jako pewien byt czasowy, pewna historia, tendencja. W czasie weryfikuje się, kim jesteśmy. Dopóki żyjesz, masz czas, żeby się określić.
+
+Wola jest więc kluczowa, to ona stwarza rzeczywistość. Nie możesz się wstydzić swojej woli ani czekać, aż rzeczywistość sama się określi. To Ty ją kreujesz za pomocą swojej woli.
+
+Ale wola nie może być ślepa. Wola potrzebuje wyobraźni, inaczej zaprowadzi nas na manowce. Potrzebuje też pokory, gdyż zawsze musi liczyć się z tym, że jej wyobraźnia nie jest dostatecznie dobrze rozbudowana.
+
+Wola powinna też respektować wolę innych, bo co większego wola może spotkać w świecie, jeśli nie inną wolę. A wola jest pełna tylko wtedy, gdy jest wolna.
+
+#### 4. Trzeba nauczyć się być bezbronnym.
+
+Bywają momenty, że stoisz bezbronny przed inną wolą. Jeśli to nie jest zła wola, to jest to lekcja zaufania. Jeśli więc zaakceptujesz swoją bezbronność, to siłą rzeczy będziesz też potrafił akceptować bezbronność innych. A to sprawi, że inni zaufają Tobie. Co ciekawszego mogą zrobić wole rzucone w świat, niż nauczyć się współpracować i ufać sobie nazwajem? Walczyć o zasoby? Ale po co te zasoby? Żeby obronić się przed złą wolą innych. Zamiast tego lepiej nauczyć się sobie ufać.
+
+#### 5. Trzeba nauczyć się czerpać siłę z bólu.
+
+Zaznaczam, że chodzi tutaj o ból, z którym można walczyć siłą woli, tj. ból niefizyczny i niechroniczny.
+
+Na taki ból możesz odpowiedzieć siłą woli. On jest tylko tu-i-teraz, podczas gdy Ty jesteś określony w całym czasie. Więc możesz wybrać, ze się mu nie poddasz. Ból daje okazję, żeby go przezwyciężyć. Pozwala wytrenować mięsień woli, który bez bólu by zanikł.
+
+Ostatecznie ból (wszelkiego rodzaju) jest równoważny złu. Doświadczenie zła pozwala rozbudować wyobraźnię o możliwość tego zła. A skoro jestem świadomy możliwości zła, to mogę w znaczący sposób *wybrać*, aby do tego zła nie doszło. Dzięki temu, poprzez wolę, możliwe jest dobro.
+
+
+
+
+<br/><br/>
+Czy w życiu jest coś donioślejszego, niż zwyczajne bycie dobrym dla innych?
+<br/><br/>
+
+
+
+
+
+<!-- # Memiczna postawa do świata. Na przekór.
 
 Magnificent. This pain will make me even stronger!
 
@@ -51,4 +86,4 @@ Neo: Because I choose to.
 
 - Opatrzność uwidacznia się w czasie, podobnie jak prawdopodobieństwo. I podobnie jak wola.
 
-- możliwe, że faktycznie świat jest adynamiczny i znajduje się w jednej wielkiej superpozycji wszystkich możliwości, a nasze świadomości wpływają do tego świata, osadzają się w mózgu i potem wybierają ścieżki. Ścieżka, którą przebędzie Twoja dusza, definiuje Ciebie (opatrznościowo).
+- możliwe, że faktycznie świat jest adynamiczny i znajduje się w jednej wielkiej superpozycji wszystkich możliwości, a nasze świadomości wpływają do tego świata, osadzają się w mózgu i potem wybierają ścieżki. Ścieżka, którą przebędzie Twoja dusza, definiuje Ciebie (opatrznościowo). -->
