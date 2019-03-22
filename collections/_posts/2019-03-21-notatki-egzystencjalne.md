@@ -57,7 +57,7 @@ Czy w życiu jest coś donioślejszego, niż zwyczajne bycie dobrym dla innych?
 
 Magnificent. This pain will make me even stronger!
 
-Przekuwasz ból istnienia w siłę
+Przekuwasz ból istnienia w siłę 
 Stajesz oko w oko z absolutną pustką
 I kiedy ma Cię już zagnieść, zaczynasz chichotać
 Bo jesteś i możesz. I potem sprawdzasz, ile dasz radę zrobić.
