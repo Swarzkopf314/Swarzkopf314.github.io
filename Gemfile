@@ -28,6 +28,7 @@ group :jekyll_plugins do
   gem 'jekyll-seo-tag'
   gem 'jekyll-contentblocks'
   gem 'jekyll-redirect-from'
+  gem 'jekyll-multiple-languages-plugin'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
