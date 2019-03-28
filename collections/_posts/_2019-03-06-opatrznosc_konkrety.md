@@ -5,6 +5,11 @@ featured-img: "2019-02-02"
 categories: [Opatrzność, nauka, mechanika kwantowa, świadomość, Bóg]
 ---
 
+## Opatrzność jako kryształ! (teoria cioci)
+
+No właśnie. Obowiązkowe węzły energetyczne i dowolność wewnątrz kryształu. Przyszłość już istnieje, ale abstrakcyjnie, bo jest zdeterminowana tylko w pewnym zakresie (zmian energetycznych), ale detale i konkretne wydarzenia, jak również ścieżka do tych wydarzeń to nasz wybór.
+
+
 ## Kluczowy case
 
 Kluczowy case w przypadku Opatrzności - czy my ten sens dorabiamy, czy odkrywamy? A to da się poniekąd zbadać, badając działanie mózgu w innych kontekstach. Z jednej strony mamy Teorię Ramseya - z chosu potrafimy wydobyć całość.
