@@ -9,6 +9,9 @@ categories: [Opatrzność, nauka, mechanika kwantowa, świadomość, Bóg]
 
 No właśnie. Obowiązkowe węzły energetyczne i dowolność wewnątrz kryształu. Przyszłość już istnieje, ale abstrakcyjnie, bo jest zdeterminowana tylko w pewnym zakresie (zmian energetycznych), ale detale i konkretne wydarzenia, jak również ścieżka do tych wydarzeń to nasz wybór.
 
+Mechanika kwantowa istota wolnej woli, kryształ. Czyli mamy z góry określone, co się dzieje w wielkiej skali (statystycznie), ale lokalnie mamy pełną dowolność. Więc jest to sposób na pogodzenie determinizmu (Boski plan) i indeterminizmu (wolna wola). Tak samo w krysztale czasowym, mamy strukturę z węzłami, czyli zadanymi, abstrakcyjnymi zdarzeniami w życiu, ale konkretny kształt tych zdarzeń i droga do nich prowadząca zależą od nas.
+
+Czy tak samo jest w świecie? Czy cały świat to taki kryształ? Czy to właśnie jest Opatrzność?
 
 ## Kluczowy case
 
@@ -39,5 +42,7 @@ Jeśli nie zmyślam, to jest to kolejna logicznie spójna przesłanka za istnien
 
 Czyli nasze mózgi są tu kluczowe.
 
+## zakochanie
 
-badanie procesów psychologicznych, przez które dochodzi do myslenia religijnego, dostrzegania znaków etc (zakochany czlowiek tez nadinterpretowuje w spójny sposób znaki, ale jeśli jest zak)
+badanie procesów psychologicznych, przez które dochodzi do myslenia religijnego, dostrzegania znaków etc. zakochany czlowiek tez nadinterpretowuje w spójny sposób znaki. Ale czy na pewno? Może jednak to zawsze jest (*intencjonalny*) flirt? I nadinterpretacja dotyczy emocji, a nie istnienia sygnałów i ogólnego przekazu?
+
