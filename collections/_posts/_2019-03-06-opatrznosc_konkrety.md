@@ -13,6 +13,8 @@ Mechanika kwantowa istota wolnej woli, kryształ. Czyli mamy z góry określone,
 
 Czy tak samo jest w świecie? Czy cały świat to taki kryształ? Czy to właśnie jest Opatrzność?
 
+I ten czas to nie jest linia, tylko superpozycja linii. Kryształ jest superpozycją możliwości z rozkładem prawdopodobieństwa skupionym w węzłach sieci kryształu. Kryształ to funkcja falowa. Nasze życie jest opisane kryształem, czyli funkcją falową.
+
 ## Kluczowy case
 
 Kluczowy case w przypadku Opatrzności - czy my ten sens dorabiamy, czy odkrywamy? A to da się poniekąd zbadać, badając działanie mózgu w innych kontekstach. Z jednej strony mamy Teorię Ramseya - z chosu potrafimy wydobyć całość.
