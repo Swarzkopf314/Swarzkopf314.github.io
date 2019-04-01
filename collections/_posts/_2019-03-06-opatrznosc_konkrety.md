@@ -13,7 +13,9 @@ Mechanika kwantowa istota wolnej woli, kryształ. Czyli mamy z góry określone,
 
 Czy tak samo jest w świecie? Czy cały świat to taki kryształ? Czy to właśnie jest Opatrzność?
 
-I ten czas to nie jest linia, tylko superpozycja linii. Kryształ jest superpozycją możliwości z rozkładem prawdopodobieństwa skupionym w węzłach sieci kryształu. Kryształ to funkcja falowa. Nasze życie jest opisane kryształem, czyli funkcją falową.
+I ten czas to nie jest linia, tylko superpozycja linii, a raczej **linia w superpozycji**. Kryształ jest superpozycją możliwości z rozkładem prawdopodobieństwa skupionym w węzłach sieci kryształu. Kryształ to funkcja falowa. Nasze życie jest opisane kryształem, czyli funkcją falową.
+
+Np. Twój kryształ może być taki, że jest duże prawdopodobieństwo wypadku. Nie wiadomo, kiedy, gdzie i jak, ani jak bardzo dotkliwy, na to masz wpływ. Ale masz prawdopodobieństwo skupione na wypadku, jakaś taka „zmiana energetyczna”, jak mówi ciocia, coś abstrakcyjnego. No ten kryształ jest inspirująco blisko mechaniki kwantowej. I w sumie taki kryształ dla całego świata można nazwać… Opatrznością 😜
 
 ## Kluczowy case
 
