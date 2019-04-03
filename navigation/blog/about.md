@@ -11,15 +11,16 @@ Rozbebeszający, wszędobylski intelekt, który wykorzystuje umysł ścisły, ab
 Że zadaję dużo pytań etc. 
 -->
 
-Chcę się dowiedzieć dokładnie, czym jest to wszystko, ten świat, ja. Mam niewiele czasu, który wybija nas jak muchy.
+Moją największą ambicją jest zrozumienie natury świata i świadomości. Temat biorę całkiem poważnie, chociaż nie ograniczam się do niego.
 
-W tym celu potrzebuję narzędzi, które pozwolą mi odkryć i zweryfikować nowe zależności. Dlatego chcę mieć dostatecznie wydajną firmę bądź organizację, żeby zatrudniać ludzi, którzy mi w tym pomogą. Inni ludzie mają wielki potencjał, który zazwyczaj marnują. Ja chcę ten potencjał wykorzystać i wszystko, czego potrzebuję, to pieniądze. Dlatego jednym z projektów, które realizuję, jest stworzenie komercyjnej firmy lub fundacji. To stosunkowo łatwe, ale niezbędne. 
+Największym zasobem tego świata są ludzie. Chciałbym potrafić inspirować ludzi do poszukiwania prawdy, polepszania życia swojego i innych, szukania lepszych rozwiązań. Aby nie poprzestawali na tym, co wydaje im się znane, a do czego tak naprawdę tylko się przyzwyczaili. Być może w dzisiejszym świecie najlepszym rozwiązaniem, aby to osiągnąć, jest dać im odpowiednią pracę.
 
-Prawdopodobnie sami ludzie nie wystarczą. W dzisiejszych warunkach wydaje się, że najbardziej efektywną drogą do prawdy jest stworzenie [AGI][wiki-agi]. To jest mój główny projekt. Podstawowe algorytmy mogę stworzyć sam, jednak dorobienie do nich odpowiednich interfejsów i zbudowanie działających produktów to praca dla całych zespołów. Posiadając odpowiednio silne i ogólne algorytmy sztucznej inteligencji będziemy mogli znacząco przyśpieszyć rozwój. Obecne algorytmy są rozczarowująco prymitywne, tu jest bardzo szerokie pole do popisu, a z mojego dotychczasowego researchu wynika, że AGI nie jest wcale tak daleko.
+Do tematu świadomości trzeba podejść możliwie formalnie. W obecnych warunkach wydaje się, że najbardziej efektywną drogą do prawdy jest stworzenie [AGI][wiki-agi]. Nieco mniej ambitny, a przy tym dużo bardziej realistyczny jest projetk *kreatywnej sztucznej inteligencji* - byłyby to algorytmy, które potrafią rozwiązywać otwarte problemy, docelowo problemy naukowe. To jest mój najbardziej osobisty projekt i mam nadzieję go kiedyś dokończyć, bo w tej chwili jestem już na całkiem obiecującym etapie. 
 
-Nie mogę też tracić z oczu perspektywy ogólnej, ludzkiej, codziennej. Eksploracji tego rejonu chciałbym poświęcić ten blog. Tutaj pytam o zagadnienia, które można badać językiem naturalnym i do których może odnieść się każdy. Zagadnienia wiary, moralności, ale i lżejsze tematy. Wrzucę nawet moje sportowe poszukiwania freestylowe na łyżwach i rolkach. Pojawią się tematy i myśli prowokacyjne, przewrotne, celowo uproszczone. W dążeniu do sedna ostrożność nie zawsze jest wskazana, czasem trzeba sięgnąć po młot pneumatyczny.
+Nie mogę też tracić z oczu perspektywy ogólnej, ludzkiej, codziennej. Eksploracji tego rejonu chciałbym poświęcić ten blog. Tutaj pytam o zagadnienia, które można badać językiem naturalnym i do których może odnieść się każdy. Zagadnienia wiary, moralności, ale i lżejsze tematy. Wrzucę nawet moje sportowe poszukiwania freestylowe na łyżwach i rolkach. Pojawią się tematy i myśli prowokacyjne, przewrotne, celowo uproszczone; chociaż zazwyczaj będę się starał jednak zachować wysoki rygor intelektualny, zwłaszcza w tematach, którym tradycyjnie tego rygoru brakuje. 
 
 Wszyscy leżymy w rynsztoku, ale niektórzy z nas budują rakiety.
+
 
 ![img]({{site.baseurl}}{{site.img_url}}prezes_focia.jpg)
 
