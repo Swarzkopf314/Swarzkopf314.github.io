@@ -1,0 +1,1 @@
+wiersz "Na większość pytań i tak będziesz musiał sam odpowiedzieć"
