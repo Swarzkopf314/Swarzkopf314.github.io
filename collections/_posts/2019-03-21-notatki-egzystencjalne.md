@@ -18,7 +18,7 @@ Wyobraźnia buduje się w czasie. To czas zamknięty w pamięci. Czas daje percy
 
 #### 2. Nasz byt ma sens dopiero w czasie. 
 
-Trzeba zauważyć, że nasz byt budujemy w czasie, a nie tylko w tu-i-teraz. Tu-i-teraz to moment na decyzję, tutaj realizuje się nasza wola, ale my sami jesteśmy więksi, czasowi. Dlatego nie rozpaczaj, jeśli tu-i-teraz jest Ci źle, bo jutro jesteś już ze znajomymi, a za kilka lat masz kochającą rodzinę. Być może bowiem przyszłość na pewnym abstrakcyjnym poziomie jest już określona, a od nas zależy tylko jej konkretny kształt, ale nie ogólny sens. 
+Trzeba zauważyć, że nasz byt budujemy w czasie, a nie tylko w tu-i-teraz. Tu-i-teraz to moment na decyzję, tutaj realizuje się nasza wola, ale my sami jesteśmy więksi, czasowi. Dlatego nie rozpaczaj, jeśli tu-i-teraz jest Ci źle, bo jutro jesteś już ze znajomymi, a za kilka lat masz kochającą rodzinę. Być może bowiem przyszłość na pewnym abstrakcyjnym poziomie jest już określona, a od nas zależy tylko jej konkretny kształt - ale nie ogólny sens. 
 
 Nie ma powodu, żeby nie cieszyć się z tej przyszłości już teraz tylko dlatego, że w tej chwili nie doświadczasz jej bezpośrednio. Ta chwila to nie jest cały obrazek, ale okazja, żeby wybrać barwy.
 
