@@ -26,7 +26,7 @@ Nie ma powodu, żeby nie cieszyć się z tej przyszłości już teraz tylko dlat
 
 Chwila to czas na decyzję. W każdej chwili masz wybór, Twoje wybory składają się na Twoją własną definicję w czasie. Wpływamy w rzeczywistość, żeby za pomocą wyborów określić się w niej jako pewien byt czasowy, pewna historia, tendencja. W czasie weryfikuje się, kim jesteśmy, a nie w chwili. Dopóki żyjesz, masz czas, żeby się określić.
 
-Wola jest więc kluczowa, to ona stwarza rzeczywistość. Nie możesz się wstydzić swojej woli ani czekać, aż rzeczywistość sama się określi. To Ty ją kreujesz za pomocą swojej woli.
+Wola jest więc kluczowa, to ona stwarza rzeczywistość. Nie możesz się wstydzić swojej woli ani czekać, aż rzeczywistość sama się określi. To Ty ją kreujesz za pomocą swojej woli. Nie możesz się zamykać w swoim świecie, biorąc go jako coś zadanego z góry. Ten świat musisz ciągle rozwijać w świadomy sposób. W szczególności świadomie dobierać znajomości, bo to inni ludzie rozwijają nas najbardziej.
 
 Ale wola nie może być ślepa. Wola potrzebuje wyobraźni, inaczej zaprowadzi nas na manowce. Potrzebuje też pokory, gdyż zawsze musi liczyć się z tym, że jej wyobraźnia nie jest dostatecznie dobrze rozbudowana.
 
