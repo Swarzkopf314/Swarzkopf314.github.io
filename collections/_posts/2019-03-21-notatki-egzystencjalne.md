@@ -4,7 +4,7 @@ date:   2019-03-21
 featured-img: "2019-03-21"
 ---
 
-Poniżej prezentuję pewne intelektualne narzędzie (w 5 punktach), które sobie zmajstrowałem i które pomaga mi iść przez życie. Może komuś też się przyda.
+Poniżej prezentuję w 6 punktach moją prywatną [dezyderatę](https://www.fuw.edu.pl/~jziel/dezyderata.html). Może komuś też się przyda.
 
 #### 1. Życie jako lekcja wyobraźni. 
 
@@ -42,16 +42,13 @@ Zaznaczam, że chodzi tutaj o ból, z którym można walczyć siłą woli, tj. b
 
 Na taki ból możesz odpowiedzieć siłą woli. On jest tylko tu-i-teraz, podczas gdy Ty jesteś określony w całym czasie. Więc możesz wybrać, ze się mu nie poddasz. Ból daje okazję, żeby go przezwyciężyć. Pozwala wytrenować mięsień woli, który bez bólu by zanikł.
 
-Ostatecznie ból (wszelkiego rodzaju) jest równoważny złu. Doświadczenie zła pozwala rozbudować wyobraźnię o możliwość tego zła. A skoro jestem świadomy możliwości zła, to mogę w znaczący sposób *wybrać*, aby do tego zła nie doszło. Dzięki temu, poprzez wolę, możliwe jest dobro.
+Ostatecznie zło sprowadza się do bólu. Doświadczenie zła pozwala rozbudować wyobraźnię o możliwość tego zła. A skoro jestem świadomy możliwości zła, to mogę w znaczący sposób *wybrać*, aby do tego zła nie doszło. Dzięki temu, poprzez wolę, możliwe jest dobro.
 
+#### 6. Pomagaj sercem, a nie tylko rozumem.
 
+Ludzie potrzebują od innych przede wszystkim miłości. Jeśli widzisz czyjąś słabość, nie wystarczy jej precyzyjnie wypunktować w nadziei, że wtedy przestanie istnieć niczym rozwiązane równanie. Ta słabość nie domaga się wywleczenia na światło dzienne, tylko ciepła. Nie bój się okazywać dobrych emocji, zwłaszcza kiedy widzisz, że są potrzebne. Zwłaszcza, kiedy je mocno czujesz. Jeśli ktoś ucieknie i stanie się agresywny, okaż mu troskę, ale też uważaj na siebie.
 
-
-<br/><br/>
-Czy wobec powyższych jest coś donioślejszego w życiu, niż bycie dobrym (prawdziwie, niepowierzchownie) dla siebie i innych?
-<br/><br/>
-
-
+Twoja wola potrzebuje nie tylko wyobraźni, ale też miłości. Nie tylko odwagi, ale też serca i wyczucia. Bez tego nikomu nie pomożesz i donikąd nie dojdziesz, bo wszyscy w końcu uciekną.
 
 
 
