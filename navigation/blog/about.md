@@ -11,7 +11,7 @@ Rozbebeszający, wszędobylski intelekt, który wykorzystuje umysł ścisły, ab
 Że zadaję dużo pytań etc. 
 -->
 
-Moją największą ambicją jest zrozumienie natury świata i świadomości. Temat biorę całkiem poważnie, chociaż nie ograniczam się do niego.
+Moją największą ambicją jest zrozumienie natury świata i świadomości. Temat biorę całkiem poważnie, chociaż nie ograniczam się do niego. W tej chwili rozwijam Fundację [314 Foundation](https://314.foundation).
 
 Największym zasobem tego świata są ludzie. Chciałbym potrafić inspirować ludzi do poszukiwania prawdy, polepszania życia swojego i innych, szukania lepszych rozwiązań. Aby nie poprzestawali na tym, co wydaje im się znane, a do czego tak naprawdę tylko się przyzwyczaili. Być może w dzisiejszym świecie najlepszym rozwiązaniem, aby to osiągnąć, jest dać im odpowiednią pracę.
 
