@@ -15,7 +15,7 @@ Moją największą ambicją jest zrozumienie natury świata i świadomości. Tem
 
 Największym zasobem tego świata są ludzie. Chciałbym potrafić inspirować ludzi do poszukiwania prawdy, polepszania życia swojego i innych, szukania lepszych rozwiązań. Aby nie poprzestawali na tym, co wydaje im się znane, a do czego tak naprawdę tylko się przyzwyczaili. Być może w dzisiejszym świecie najlepszym rozwiązaniem, aby to osiągnąć, jest dać im odpowiednią pracę.
 
-Do tematu świadomości trzeba podejść możliwie formalnie. W obecnych warunkach wydaje się, że najbardziej efektywną drogą do prawdy jest stworzenie [AGI][wiki-agi]. Nieco mniej ambitny, a przy tym dużo bardziej realistyczny jest projetk *kreatywnej sztucznej inteligencji* - byłyby to algorytmy, które potrafią rozwiązywać otwarte problemy, docelowo problemy naukowe. To jest mój najbardziej osobisty projekt i mam nadzieję go kiedyś dokończyć, bo w tej chwili jestem już na całkiem obiecującym etapie.
+Do tematu świadomości trzeba podejść możliwie formalnie. W obecnych warunkach wydaje się, że najbardziej efektywną drogą do prawdy jest stworzenie [AGI][wiki-agi]. Nieco mniej ambitny, a przy tym dużo bardziej realistyczny jest projetk *kreatywnej sztucznej inteligencji* - byłyby to algorytmy, które potrafią rozwiązywać otwarte problemy, docelowo problemy naukowe. To jest mój najbardziej osobisty projekt i biorąc pod uwagę dotychczasowe rezultaty - jestem optymistą :)
 
 <!-- ![img]({{site.baseurl}}{{site.img_url}}prezes_focia.jpg) -->
 
