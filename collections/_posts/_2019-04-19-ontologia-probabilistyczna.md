@@ -6,11 +6,11 @@ featured-img: "2019-04-19"
 
 byt to zawężenie prawdopodobieństwa
 
-nicość to nieograniczone możliwości
+nicość to nieograniczone możliwości, nieograniczone stawanie się
 
 byt to zmienna losowa
 
-świat cały czas się staje
+świat cały czas się staje, ale w kontrolowany sposób, ograniczony rozkładem prawdopodobieństwa
 
 interferencja rozkładów + rozkłady emergentne
 
