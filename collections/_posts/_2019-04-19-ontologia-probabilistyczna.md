@@ -14,6 +14,6 @@ byt to zmienna losowa
 
 interferencja rozkładów + rozkłady emergentne
 
-wolna wola jako zmienna losowa
+wolna wola jako zmienna losowa, zatem my też cały czas się stajemy - ale nie jesteśmy chaotyczni
 
 prawdopodobieństwo jako fundamentalna natura bytu
