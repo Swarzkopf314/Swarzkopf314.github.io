@@ -71,6 +71,9 @@ collections:
   posts:
     output: true
     permalink: blog/:collection/:title/
+  series:
+    output: true
+    permalink: blog/:collection/:title/
 
 defaults:
   - scope:
@@ -83,6 +86,12 @@ defaults:
       type: "poems"
     values:
       layout: poem
+  - scope:
+      path: ""
+      type: "series"
+    values:
+      layout: poem
+
 
 sass:
   sass_dir: _sass
