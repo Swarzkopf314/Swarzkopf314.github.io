@@ -11,11 +11,11 @@ Rozbebeszający, wszędobylski intelekt, który wykorzystuje umysł ścisły, ab
 Że zadaję dużo pytań etc. 
 -->
 
-Moją największą ambicją jest zrozumienie natury świata i świadomości. Temat biorę całkiem poważnie, chociaż nie ograniczam się do niego. W tej chwili rozwijam Fundację [314 Foundation](https://314.foundation).
+Moją największą ambicją jest zrozumienie natury świata i świadomości. Temat biorę całkiem poważnie, chociaż nie ograniczam się do niego. W tej chwili rozwijam Fundację [314 Foundation](https://314.foundation). Prowadzę też niezależny research dotyczący **kreatywnej sztucznej inteligencji** - w ten sposób staram się możliwie formalnie (i wykonalnie) chwycić temat świadomości. Algorytmy kreatywne to w szczególności algorytmy, które potrafią rozwiązywać otwarte problemy, docelowo problemy naukowe. To jest moje najbardziej osobiste przedsięwzięcie i - biorąc pod uwagę dotychczasowe rezultaty - jestem optymistą :)
 
 Największym zasobem tego świata są ludzie. Chciałbym potrafić inspirować ludzi do poszukiwania prawdy, polepszania życia swojego i innych, szukania lepszych rozwiązań. Aby nie poprzestawali na tym, co wydaje im się znane, a do czego tak naprawdę tylko się przyzwyczaili. Być może w dzisiejszym świecie najlepszym rozwiązaniem, aby to osiągnąć, jest dać im odpowiednią pracę.
 
-Do tematu świadomości trzeba podejść możliwie formalnie. W obecnych warunkach wydaje się, że najbardziej efektywną drogą do prawdy jest stworzenie [AGI][wiki-agi]. Nieco mniej ambitny, a przy tym dużo bardziej realistyczny jest projetk *kreatywnej sztucznej inteligencji* - byłyby to algorytmy, które potrafią rozwiązywać otwarte problemy, docelowo problemy naukowe. To jest mój najbardziej osobisty projekt i biorąc pod uwagę dotychczasowe rezultaty - jestem optymistą :)
+Poszukiwania formalne - rozumowe - są dopełnieniem poszukiwań, których domaga się serce. Oba nurty łączą się poniekąd w mojej poezji, jak również w dociekaniach filozoficznych. Eksperymentuję też z fizycznymi środkami wyrazu w postaci freestylu na łyżwach i rolkach. I w skrócie właśnie o tym jest ten blog - czyli jak moja prywatna wrażliwość filtruje rzeczywistość. Zapraszam!
 
 <!-- ![img]({{site.baseurl}}{{site.img_url}}prezes_focia.jpg) -->
 
