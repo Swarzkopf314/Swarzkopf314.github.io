@@ -51,10 +51,7 @@ Ludzie potrzebują od innych przede wszystkim miłości. Jeśli widzisz czyjąś
 Twoja wola potrzebuje nie tylko wyobraźni, ale też miłości. Nie tylko odwagi, ale też serca i wyczucia. Bez tego nikomu nie pomożesz i donikąd nie dojdziesz, bo wszyscy w końcu uciekną.
 
 <br>
-*A oto mój sekret. Jest bardzo prosty: dobrze widzi się tylko sercem. Najważniejsze jest niewidoczne dla oczu.*
-<br>
-**Lis**
-
+Życie to (niełatwa) lekcja miłości.
 
 
 <!-- # Memiczna postawa do świata. Na przekór.
