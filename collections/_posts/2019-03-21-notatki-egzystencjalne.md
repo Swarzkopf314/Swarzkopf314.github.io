@@ -50,6 +50,9 @@ Ludzie potrzebują od innych przede wszystkim miłości. Jeśli widzisz czyjąś
 
 Twoja wola potrzebuje nie tylko wyobraźni, ale też miłości. Nie tylko odwagi, ale też serca i wyczucia. Bez tego nikomu nie pomożesz i donikąd nie dojdziesz, bo wszyscy w końcu uciekną.
 
+"Całe życie bracie polega na tym, aby oczyścić oczy serca, aby Boga oglądać mogły"<br>
+*św. Augustyn*
+
 
 
 <!-- # Memiczna postawa do świata. Na przekór.
