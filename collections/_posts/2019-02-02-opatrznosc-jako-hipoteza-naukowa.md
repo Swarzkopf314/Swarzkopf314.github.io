@@ -45,7 +45,7 @@ Gdyby udało się uzyskać taką teorię, a następnie przeprowadzić rzetelne e
 
 Na koniec kolejna drobna prowokacja - czy nasza *decyzyjność* nie dałaby się opisać w podobny sposób, jako rozkład prawdopodobieństwa po dostępnych wyborach i w końcu kolaps odpowiedniej funkcji falowej? Czy świadomość ma adynamiczną strukturę blockworld'a, bo decyzja ``zachodzi w czasie``, tj. nie daje się w pełni opisać jako obecna zaledwie w jednym momencie? Czy decyzje podejmujemy w sposób inherentnie opatrznościowy? A jeśli tak, to czy Opatrzność to po prostu wola Boga? 
 
-Do jakiego stopnia można rozwinąć te analogie między mechaniką kwantową, świadomością i Bogiem? Czy ktoś ma ochotę to sprawdzić?
+Do jakiego stopnia można rozwinąć te analogie między mechaniką kwantową, decyzyjnością i Opatrznością? Czy ktoś ma ochotę to sprawdzić?
 
 [wiki-opatrznosc]: https://pl.wikipedia.org/wiki/Opatrzno%C5%9B%C4%87
 [plato-game_theory]: https://plato.stanford.edu/entries/game-ethics/
