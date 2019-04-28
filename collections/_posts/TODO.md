@@ -9,6 +9,8 @@ Spalić słabości ludzi miłością. Wola, ale też wola, aby dawać miłość 
 
 Więcej miłości na stronkę.
 
+św. Augustyn: "Całe życie bracie polega na tym, aby oczyścić oczy serca, aby Boga oglądać mogły"
+
 # Efektywny wegetarianizm
 - Otwarte klatki, ktore powinny się skupić najpierw na pokazywaniu, że łamane jest prawo (i średnia wrażliwość), a dopiero potem na zmianie tego prawa (wrażliwości)
 
