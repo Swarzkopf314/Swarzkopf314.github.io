@@ -16,6 +16,10 @@ Więcej miłości na stronkę.
 - istota uzależnienia - dążenie do szybkiej nagrody nie bacząc na koszty. To także uzależnienie od uczuć. 
 Być może też od gratyfikacji narracyjnej.
 
+Depresja też wynika z tego, że chcesz sensu tu-i-teraz, zamiast powoli go budować.
+
+Być może to jest właśnie sens świata - nauczyć się cierpliwości. Bóg to esencja cierpliwości.
+
 # Wolna wola jako zmienna losowa
 Wolna wola vs determinizm - fałszywa dychotomia
 
