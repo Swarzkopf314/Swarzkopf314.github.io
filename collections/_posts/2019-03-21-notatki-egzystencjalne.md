@@ -46,7 +46,7 @@ Ostatecznie zło sprowadza się do bólu. Doświadczenie zła pozwala rozbudowa�
 
 #### 6. Pomagaj sercem, a nie tylko rozumem.
 
-Ludzie potrzebują od innych przede wszystkim miłości. Jeśli widzisz czyjąś słabość, nie wystarczy jej precyzyjnie wypunktować w nadziei, że wtedy przestanie istnieć niczym rozwiązane równanie. Ta słabość nie domaga się wywleczenia na światło dzienne, tylko ciepła. Nie bój się okazywać dobrych emocji, zwłaszcza kiedy widzisz, że są potrzebne. Zwłaszcza, kiedy je mocno czujesz. Jeśli ktoś ucieknie i stanie się agresywny, okaż mu troskę, ale też uważaj na siebie.
+Ludzie potrzebują od innych przede wszystkim miłości. Jeśli widzisz czyjąś słabość, nie wystarczy jej precyzyjnie wypunktować w nadziei, że wtedy przestanie istnieć niczym rozwiązane równanie. Ta słabość nie domaga się wywleczenia na światło dzienne, tylko ciepła. Nie bój się okazywać dobrych emocji, zwłaszcza kiedy widzisz, że są potrzebne. Zwłaszcza, kiedy je mocno czujesz. Jeśli ktoś ucieknie i stanie się agresywny, okaż mu troskę, ale też uważaj na siebie. Miłość jest wtedy, gdy ktoś Cię krzywdzi, a Ty i tak chcesz dla tego kogoś dobrze, chociaż niekoniecznie pozwalasz się krzywdzić dalej.
 
 Twoja wola potrzebuje nie tylko wyobraźni, ale też miłości. Nie tylko odwagi, ale też serca i wyczucia. Bez tego nikomu nie pomożesz i donikąd nie dojdziesz, bo wszyscy w końcu uciekną.
 
