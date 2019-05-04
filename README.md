@@ -44,7 +44,6 @@ Wnioski: Teoria mnogości może mieć model, ale jej rozszerzenie o odpowiednie 
 
 Wrzucić wiersze, ale i stare teskty w stylu Liceomachia i Weselicho na bloga.
 Dorzucić też sucharki.
-Filmiki z freestylem
 
 Dlaczego Ida tak śledzi?
 Bo śledź nie idzie.

@@ -15,7 +15,9 @@ Więcej miłości na stronkę.
 
 św. Augustyn: "Całe życie bracie polega na tym, aby oczyścić oczy serca, aby Boga oglądać mogły"
 
-# FUNDACJA
+# FUNDACJA 
+
+[reszta pomysłów](https://docs.google.com/document/d/1Adkc64Tz85fcxpkP4IStFVrovgmWkHDBtfQqCWDTXic/edit)
 
 # Efektywny wegetarianizm (FUNDACJA)
 - Otwarte klatki, ktore powinny się skupić najpierw na pokazywaniu, że łamane jest prawo (i średnia wrażliwość), a dopiero potem na zmianie tego prawa (wrażliwości)
