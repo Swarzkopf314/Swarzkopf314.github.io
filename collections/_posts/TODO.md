@@ -4,7 +4,7 @@
 # Wolna wola jako zmienna losowa
 Wolna wola vs determinizm - fałszywa dychotomia
 
-Jest coś po środku - zmienna losowa. Mamy rozklad prawdopodobienstwa po wyborach, ale decyzja nie jest zdeterminowana, decyzja dopiero się staje. Staje się zgodnie z rozkładem prawdopodobieństwa, który jest fundamentalną, nieredukowalną cechą bytu.
+Jest coś po środku - zmienna losowa. Mamy rozklad prawdopodobienstwa po wyborach, ale decyzja nie jest zdeterminowana, decyzja dopiero się staje - zgodnie z rozkładem prawdopodobieństwa, który jest fundamentalną, nieredukowalną cechą bytu.
 
 # Miłość
 Miłość - dawać ludziom miłość. Miłość spala ich słabości. Miłość jest cierpliwa.
