@@ -18,9 +18,9 @@
   <meta name="theme-color" content="#ffffff">
 
   {% if page.featured-img %}
-    <meta content="{{ site.img_url | relative_url }}{{ page.featured-img }}.jpg" property="og:image">
+    <meta content="{{ site.img_url | absolute_url }}{{ page.featured-img }}.jpg" property="og:image">
   {% else %}
-    <meta content="{{ site.img_url | relative_url }}{{ site.hero_img }}" property="og:image">
+    <meta content="{{ site.img_url | absolute_url }}{{ site.hero_img }}" property="og:image">
   {% endif %}
 
   {% if site.google_tag_manager %}
