@@ -2,6 +2,7 @@
 title:  "Notatki Egzystenclajne"
 date:   2019-03-21
 featured-img: "2019-03-21"
+summary: "Kilka egzystencjalnych spostrzeżeń, które zebrałem do tej pory w swojej podróży po świecie."
 ---
 
 Poniżej prezentuję w 6 punktach moją prywatną [dezyderatę](https://www.fuw.edu.pl/~jziel/dezyderata.html). Może komuś też się przyda.
@@ -36,7 +37,7 @@ Wola powinna też respektować wolę innych, bo co większego wola może spotka�
 
 Bywają momenty, że stoisz bezbronny przed inną wolą. Jeśli to nie jest zła wola, to jest to lekcja zaufania. Jeśli więc zaakceptujesz swoją bezbronność, to siłą rzeczy będziesz też potrafił akceptować bezbronność innych. A to sprawi, że inni zaufają Tobie. Co ciekawszego mogą zrobić wole rzucone w świat, niż nauczyć się współpracować i ufać sobie nazwajem? Walczyć o zasoby? Ale po co te zasoby? Żeby obronić się przed złą wolą innych. Zamiast tego lepiej nauczyć się sobie ufać.
 
-#### 5. Naucz się czerpać siłę z bólu.
+#### 5. Ból to okazja do rozwoju.
 
 Zaznaczam, że chodzi tutaj o ból, z którym można walczyć siłą woli, tj. ból niefizyczny i niechroniczny.
 

@@ -1,8 +1,9 @@
 ---
-title: "Prawda, Bóg i trójkąty"
+title: "Przydatność jako kryterium prawdy"
 date: 2019-01-24
 featured-img: "2019-01-24"
 categories: [epistemologia, nauka, Bóg]
+summary: "Prawda to zgodność wypowiedzi z rzeczywistością. Jednak ta definicja nie rozwiązuje głównego problemu prawdy, mianowicie tego, jak tę zgodność orzec."
 ---
 
 ## Trudności z prawdą
@@ -35,7 +36,7 @@ Rozważmy teraz pojęcie *Boga* (którąkolwiek jego wersję, ale dla ustalenia 
 
 Przydatność i regularność pojęcia Boga to jednak materiał na osobny artykuł. Idea Boga ładnie spina wiele aspektów życia, które wybiórczo możemy uzasadniać psychologicznie, teoriogrowo bądź ewolucyjnie. Ta **egzystencjalna uniwersalność jest co najmniej zastanawiająca**. "Bóg" okazuje się być bardzo efektywną i regularną koncepcją.
 
-Jeszcze ciekawiej byłoby spróbować **wydobyć z idei Boga wymiar czysto naukowy**. Pojęcie Boga skądś się wzięło, a to znaczy, że w świecie występują pewne regularności, które je zainspirowały. Czy da się te regularności wydestylować? Zapraszam do osobnego wpisu [Opatrzność jako hipoteza naukowa]({{ site.baseurl }}{% post_url 2019-02-02-opatrznosc-jako-hipoteza-naukowa %}), w którym podejmuję taką wstępną próbę.
+Jeszcze ciekawiej byłoby spróbować **wydobyć z idei Boga wymiar czysto naukowy**. Pojęcie Boga skądś się wzięło, a to znaczy, że w świecie występują pewne regularności, które je zainspirowały. Szczególnie interesujące wydaje się pojęcie Opatrzności, które w gruncie rzeczy ma charakter hipotezy naukowej dotyczącej działania świata. Opatrzność mianowicie jest poglądem, że nasza przyszłość jest w sposób ograniczona, ale niekoniecznie całkowicie zdeterminowana. Na zupełnie analogicznej idei zasadza się przecież mechanika kwantowa. Temat rozwijam artykule [Ontologia probabilistyczna]({{ site.baseurl }}{% post_url 2019-05-05-ontologia-probabilistyczna %}){:target="_blank"}.
 
 [wiki-truth]: https://en.wikipedia.org/wiki/Truth
 [wiki-godel]: https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems
