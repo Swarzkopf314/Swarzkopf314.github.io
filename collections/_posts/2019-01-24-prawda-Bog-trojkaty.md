@@ -1,7 +1,7 @@
 ---
 title: "Przydatność jako kryterium prawdy"
 date: 2019-01-24
-featured-img: "2019-01-24"
+featured-img: "posts/2019-01-24"
 categories: [epistemologia, nauka, Bóg]
 summary: "Prawda to zgodność wypowiedzi z rzeczywistością. Jednak ta definicja nie rozwiązuje głównego problemu prawdy, mianowicie tego, jak tę zgodność orzec."
 ---

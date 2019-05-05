@@ -1,7 +1,7 @@
 ---
 title: "Tożsamość i teleportacja"
 date: 2019-01-30
-featured-img: "2019-01-30"
+featured-img: "posts/2019-01-30"
 categories: [świadomość]
 summary: "Trudny problem świadomości jest pozorny i wynika jedynie z tego, że nie mamy dobrej teorii fizycznej opisującej świadomość."
 ---

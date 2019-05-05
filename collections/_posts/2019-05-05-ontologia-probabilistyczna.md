@@ -1,7 +1,7 @@
 ---
-title:  "Prawdopodobieństwo jako fundament rzeczywistości"
-date:   2019-05-05
-featured-img: "2019-05-05"
+title: "Prawdopodobieństwo jako fundament rzeczywistości"
+date: 2019-05-05
+featured-img: "posts/2019-05-05"
 custom_css: ".hero::before { background: rgba(52, 56, 81, 0.3); }"
 summary: "Pojęcie zmiennej losowej pozwala w elegancki sposób pogodzić ze sobą chaos i całkowitą determinację."
 ---
