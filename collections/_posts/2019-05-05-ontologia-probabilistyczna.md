@@ -31,7 +31,7 @@ Przyjęcie ontologii, w której zmienna losowa jest bytem pierwotnym, jednym ruc
 
 Zmienna losowa pozwala w elegancki sposób pogodzić ze sobą chaos i całkowitą determinację. Jeśli przyjmiemy, że jest bytem nieredukowalnym, to całkowita wiedza o stanie układu praktycznie nigdy nie pozwala przewidzieć ze 100% pewnością przyszłego stanu układu - bo dowolnie dokładnie możemy znać jedynie zmienną losową opisującą jego ewolucję - ale nie konkretny wybór, którego układ dokona w danej chwili. Ten wybór jest zasadniczo dowolny, gdyż układ może wybrać nawet mało prawdopodobną możliwość. Dopiero kiedy uśrednimy dane po wielu wyborach, to decyzje układu powinny przypominać rozkład naszej zmiennej losowej. Zatem układ jest zdeterminowany dopiero w dłuższej perspektywie czasowej, natomiast jego pojedyncze decyzje są całkowicie wolne.
 
-Zmienna losowa wydaje się więc być doskonałym narzędziem do opisu decyzyjności człowieka. Jeśli bardzo dobrze Cię, ciągle nie będę w stanie przewidzieć dokładnie wszystkiego, co zrobisz - natomiast będę mógł intuicyjnie czuć prawdopodobieństwa Twoich decyzji. **Jest całkiem interesujące, że ten sam formalny opis wydaje się świetnie pasować jednocześnie do opisu decyzyjności człowieka, jak i ewolucji świata na najbardziej fundamentalnym poziomie**.
+Zmienna losowa wydaje się więc być doskonałym narzędziem do opisu decyzyjności człowieka. Jeśli bardzo dobrze Cię znam, ciągle nie będę w stanie przewidzieć dokładnie wszystkiego, co zrobisz - natomiast będę mógł intuicyjnie czuć prawdopodobieństwa Twoich decyzji. **Jest całkiem interesujące, że ten sam formalny opis wydaje się świetnie pasować jednocześnie do opisu decyzyjności człowieka, jak i ewolucji świata na najbardziej fundamentalnym poziomie**.
 
 ## Opatrzność
 
