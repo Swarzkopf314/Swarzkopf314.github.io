@@ -42,7 +42,7 @@ Być może bowiem świat także w makroskali jest opisany pewną abstrakcyjną z
 ---
 <br>
 
-Reasumując - jeśli przyjmiemy, że prawdopodobieństwo jest nieredukowalnym elementem rzeczywistości, to uzyskujemy formalizm (zmienna losowa), który nadaje się do opisu świata praktycznie na każdym interesującym nas poziomie - od cząstek elementarnych, przez wolę człowieka po (hipotetyczny) celowościowy wymiar rzeczywistości jako takiej. Wygląda na to, że to całkiem [przydatne]({{ site.baseurl }}{% post_url 2019-01-24-prawda-Bog-trojkaty %}){:target="_blank"} pojęcie.
+Reasumując - jeśli przyjmiemy, że prawdopodobieństwo jest nieredukowalnym elementem rzeczywistości, to uzyskujemy formalizm (zmienna losowa), który nadaje się do opisu świata praktycznie na każdym interesującym nas poziomie - od cząstek elementarnych, przez wolę człowieka, po (hipotetyczny) celowościowy wymiar rzeczywistości jako takiej. Wygląda na to, że to całkiem [przydatne]({{ site.baseurl }}{% post_url 2019-01-24-prawda-Bog-trojkaty %}){:target="_blank"} pojęcie.
 
 [wiki-wave_function]: https://en.wikipedia.org/wiki/Wave_function
 [wiki-bell_theorem]: https://en.wikipedia.org/wiki/Bell%27s_theorem
