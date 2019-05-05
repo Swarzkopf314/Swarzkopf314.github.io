@@ -19,7 +19,7 @@ Tak czy siak możemy zauważyć, że prawdopodobieństwo brane jako obiekt fizyc
 
 ## Przewrót ontologiczny
 
-Zauważmy, że **dokonaliśmy właśnie swoistego ontologicznego przewrotu kopernikańskiego**. Deterministyczny paradygmat opisu świata zakłada mianowicie, że aktualny stan układu wyznacza jego przyszłe stany. Z kolei paradygmat probabilistyczny jest bardziej liberalny - mówi tyle, że aktualny stan układu wyznacza rozład prawdopodobieństwa po jego przyszłych stanach. Czyli nie tyle determinuje przyszłość, co **ogranicza swoje przyszłe możliwości** (z dokładnością do prawdopodobieństwa).
+Zauważmy, że **dokonaliśmy właśnie swoistego ontologicznego przewrotu kopernikańskiego** (ale nie jesteśmy pierwsi). Deterministyczny paradygmat opisu świata zakłada mianowicie, że aktualny stan układu wyznacza jego przyszłe stany. Z kolei paradygmat probabilistyczny jest bardziej liberalny - mówi tyle, że aktualny stan układu wyznacza rozład prawdopodobieństwa po jego przyszłych stanach. Czyli nie tyle determinuje przyszłość, co **ogranicza swoje przyszłe możliwości** (z dokładnością do prawdopodobieństwa).
 
 Można też zauważyć bliski związek z [teorią informacji Shanona][teoria-informacji-shanon]. W myśl tej teorii proces stochastyczny ma tym więcej informacji (mniej entropii), im bardziej zawężone są prawdopodobieństwa wszystkich możliwych wyników procesu. Tak więc - przez analogię - układ fizyczny, który mocno zawęża swoje przyszłe możliwości - zawiera dużą informację.
 
