@@ -1,5 +1,5 @@
 ---
-title:  "Notatki Egzystenclajne"
+title:  "Notatki egzystenclajne"
 date:   2019-03-21
 featured-img: "2019-03-21"
 summary: "Kilka egzystencjalnych spostrzeżeń, które zebrałem do tej pory w swojej podróży po świecie."

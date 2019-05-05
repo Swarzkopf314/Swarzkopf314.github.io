@@ -3,6 +3,7 @@ title:  "Prawdopodobieństwo jako fundament rzeczywistości"
 date:   2019-05-05
 featured-img: "2019-05-05"
 custom_css: ".hero::before { background: rgba(52, 56, 81, 0.3); }"
+summary: "Pojęcie zmiennej losowej pozwala w elegancki sposób pogodzić ze sobą chaos i całkowitą determinację."
 ---
 
 Standardowo w mechanice kwantowej przyjmuje się dziś, że ruchu cząstki (dla ustalenia uwagi weźmy elektron) nie można opisać za pomocą funkcji położenia od czasu (jest to jedna z interpretacji niesłychanie ważnego [Twierdzenia Bella][wiki-bell_theorem]{:target="_blank"} o braku zmiennych ukrytych). Zamiast tego ewolucję elektronu opisuje się za pomocą [funkcji falowej][wiki-wave_function]{:tareget="_blank"}, która w szczególności określa, w którym obszarze statystycznie należałoby się spodziewać wykrycia elektronu w zależności od jego aktualnego stanu. Takie podejście inspiruje pewne filozoficzne pytania.
@@ -28,7 +29,7 @@ Przyjęcie ontologii, w której zmienna losowa jest bytem pierwotnym, jednym ruc
 
 ## Wolna wola jako zmienna losowa
 
-Zmienna losowa pozwala pogodzić ze sobą chaos i całkowitą determinację. Jeśli jest bytem nieredukowalnym, to całkowita wiedza o stanie układu praktycznie nigdy nie pozwala przewidzieć ze 100% pewnością przyszłego stanu układu - bo dowolnie dokładnie możemy znać jedynie zmienną losową opisującą jego ewolucję - ale nie konkretny wybór, którego układ dokona w danej chwili. Ten wybór jest zasadniczo dowolny, gdyż układ może wybrać nawet mało prawdopodobną możliwość. Dopiero kiedy uśrednimy dane po wielu wyborach, to decyzje układu powinny przypominać rozkład naszej zmiennej losowej. Zatem układ jest zdeterminowany dopiero w dłuższej perspektywie czasowej, natomiast jego pojedyncze decyzje są całkowicie wolne.
+Zmienna losowa pozwala w elegancki sposób pogodzić ze sobą chaos i całkowitą determinację. Jeśli przyjmiemy, że jest bytem nieredukowalnym, to całkowita wiedza o stanie układu praktycznie nigdy nie pozwala przewidzieć ze 100% pewnością przyszłego stanu układu - bo dowolnie dokładnie możemy znać jedynie zmienną losową opisującą jego ewolucję - ale nie konkretny wybór, którego układ dokona w danej chwili. Ten wybór jest zasadniczo dowolny, gdyż układ może wybrać nawet mało prawdopodobną możliwość. Dopiero kiedy uśrednimy dane po wielu wyborach, to decyzje układu powinny przypominać rozkład naszej zmiennej losowej. Zatem układ jest zdeterminowany dopiero w dłuższej perspektywie czasowej, natomiast jego pojedyncze decyzje są całkowicie wolne.
 
 Zmienna losowa wydaje się więc być doskonałym narzędziem do opisu decyzyjności człowieka. Jeśli bardzo dobrze Cię, ciągle nie będę w stanie przewidzieć dokładnie wszystkiego, co zrobisz - natomiast będę mógł intuicyjnie czuć prawdopodobieństwa Twoich decyzji. **Jest całkiem interesujące, że ten sam formalny opis wydaje się świetnie pasować jednocześnie do opisu decyzyjności człowieka, jak i ewolucji świata na najbardziej fundamentalnym poziomie**.
 
@@ -41,7 +42,7 @@ Być może bowiem świat także w makroskali jest opisany pewną abstrakcyjną z
 ---
 <br>
 
-Reasumując - jeśli przyjmiemy, że prawdopodobieństwo jest nieredukowalnym elementem rzeczywistości, to uzyskujemy formalizm (zmienna losowa), który nadaje się do opisu świata praktycznie na każdym interesującym nas poziomie - od cząstek elementarnych, przez wolę człowieka po (hipotetyczny) celowościowy wymiar rzeczywistości jako takiej. Wygląda na to, że to całkiem *przydatne* pojęcie.
+Reasumując - jeśli przyjmiemy, że prawdopodobieństwo jest nieredukowalnym elementem rzeczywistości, to uzyskujemy formalizm (zmienna losowa), który nadaje się do opisu świata praktycznie na każdym interesującym nas poziomie - od cząstek elementarnych, przez wolę człowieka po (hipotetyczny) celowościowy wymiar rzeczywistości jako takiej. Wygląda na to, że to całkiem [przydatne]({{ site.baseurl }}{% post_url 2019-01-24-prawda-Bog-trojkaty %}){:target="_blank"} pojęcie.
 
 [wiki-wave_function]: https://en.wikipedia.org/wiki/Wave_function
 [wiki-bell_theorem]: https://en.wikipedia.org/wiki/Bell%27s_theorem
