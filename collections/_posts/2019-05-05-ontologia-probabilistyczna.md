@@ -6,7 +6,7 @@ custom_css: ".hero::before { background: rgba(52, 56, 81, 0.3); }"
 summary: "Pojęcie zmiennej losowej pozwala w elegancki sposób pogodzić ze sobą chaos i całkowitą determinację."
 ---
 
-Standardowo w mechanice kwantowej przyjmuje się dziś, że ruchu cząstki (dla ustalenia uwagi weźmy elektron) nie można opisać za pomocą funkcji położenia od czasu (jest to jedna z interpretacji niesłychanie ważnego [Twierdzenia Bella][wiki-bell_theorem]{:target="_blank"} o braku zmiennych ukrytych). Zamiast tego ewolucję elektronu opisuje się za pomocą [funkcji falowej][wiki-wave_function]{:tareget="_blank"}, która w szczególności określa, w którym obszarze statystycznie należałoby się spodziewać wykrycia elektronu w zależności od jego aktualnego stanu. Takie podejście inspiruje pewne filozoficzne pytania.
+Standardowo w mechanice kwantowej przyjmuje się dziś, że ruchu cząstki (dla ustalenia uwagi weźmy elektron) nie można opisać za pomocą funkcji położenia od czasu (jest to jedna z interpretacji niesłychanie ważnego [Twierdzenia Bella][wiki-bell_theorem]{:target="_blank"} o braku zmiennych ukrytych). Zamiast tego ewolucję elektronu opisuje się za pomocą [funkcji falowej][wiki-wave_function]{:tareget="_blank"}, która dla każdego punktu przestrzeni określa jedynie prawdopodobieństwo wykrycia elektronu w tym punkcie. Takie podejście inspiruje pewne filozoficzne pytania.
 
 
 ## Czym "obiektywnie" jest prawdopodobieństwo? 
