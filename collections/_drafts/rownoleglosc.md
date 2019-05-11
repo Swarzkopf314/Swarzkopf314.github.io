@@ -1,4 +1,4 @@
-Ta równoległość zdarzeń jest niesamowita. Życie to lekcja, uczymy się od siebie nawzajem przez naszą jednoczesność i równoległość, przez to, że wpływamy na siebie nazwajem.
+Ta równoległość zdarzeń jest niesamowita. Życie to lekcja, **uczymy się od siebie nawzajem przez naszą jednoczesność i równoległość**, przez to, że wpływamy na siebie nazwajem.
 
 ### Równoległość miłości i śmierci. Tak miłość, jak i śmierć - to przejście. Przejście z niepewności w pewność, do człowieka i do Boga.
 
