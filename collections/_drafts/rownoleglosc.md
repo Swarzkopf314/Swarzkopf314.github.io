@@ -1,4 +1,4 @@
-Ta równoległość zdarzeń jest niesamowita. Życie to lekcja, uczymy się od siebie nawzajem.
+Ta równoległość zdarzeń jest niesamowita. Życie to lekcja, uczymy się od siebie nawzajem przez naszą jednoczesność i równoległość, przez to, że wpływamy na siebie nazwajem.
 
 ### równoległość śmierci i miłości
 - [z pliszką siwą](https://literatura.wywrota.pl/wiersz-klasyka/41334-ksiadz-jan-twardowski-z-pliszka-siwa.html), to jeden z moich ulubionych wierszy 
