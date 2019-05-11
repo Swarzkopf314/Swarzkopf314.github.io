@@ -6,7 +6,7 @@ Ta równoległość zdarzeń jest niesamowita. Życie to lekcja, uczymy się od 
 
 - Znaki, znaczące przypadki, 314
 - znaczenie ujawnia się dopiero z czasem
-- 314, Milena, Amelia od taty, mieszkanie Żelazna, kościół na Chłodnej, Kasia Przybyła, Piotrek, Maciek Gałązka, msza święta z agapeo, phileo, 3-krotnym wyparciem się
+- 314, Milena, Amelia od taty, mieszkanie Żelazna, kościół na Chłodnej, Kasia Przybyła (Biblia, tata, Mądrości Syracha), Piotrek, Maciek Gałązka, msza święta z agapeo, phileo, 3-krotnym wyparciem się św. Piotra
 - "Całe moje życie prowadziło m.in. do tego żebym był na nią teraz gotowy, widzę to" - to może się tyczyć tak miłości, jak i śmierci
 - Sensu życia się nie udowadnia, sens życia się poznaje, żyjąc; młodzi ludzie są nihilistami, bo jeszcze mało przeżyli
 - Dowody na istnienie Boga przez mój mózg - skoro mój mózg prawidłowo odczytywał znaki od Mileny (co było w chuj nieoczywiste, bo np. 3 razy się mnie jawnie wypierała), to być może prawidłowo odczytuje też znaki w świecie
