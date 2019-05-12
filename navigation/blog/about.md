@@ -17,6 +17,13 @@ Największym zasobem tego świata są ludzie. Chciałbym potrafić inspirować l
 
 Poszukiwania formalne - rozumowe - są dopełnieniem poszukiwań, których domaga się serce. Oba nurty łączą się poniekąd w mojej poezji, jak również w dociekaniach filozoficznych. Eksperymentuję też z fizycznymi środkami wyrazu w postaci freestylu na łyżwach i rolkach. I w skrócie właśnie o tym jest ten blog - czyli jak moja wrażliwość filtruje rzeczywistość. Zapraszam!
 
+- email: msatkiewicz@gmail.com
+- [facebook](https://www.facebook.com/maciej.satkiewicz){:target="_blank"}
+- [linkedin](https://www.linkedin.com/in/maciej-satkiewicz-224677a6/){:target="_blank"}
+- [instagram](https://www.instagram.com/maciej_satkiewicz/){:target="_blank"}
+- [youtube](https://www.youtube.com/channel/UC2T-DFgVhqdz5hv1-Nadv6g){:target="_blank"}
+<!-- - [github](https://github.com/Swarzkopf314){:target="_blank"} -->
+
 <!-- ![img]({{site.baseurl}}{{site.img_url}}prezes_focia.jpg) -->
 
 
