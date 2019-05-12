@@ -1,6 +1,9 @@
-  - name: Freestyle
-    link: /blog/freestyle
+  - name: Fundacja
+    link: https://314.foundation/pl
+    target: _blank
   - name: Próby literackie
     link: /blog/archive
+  - name: Freestyle
+    link: /blog/freestyle
   - name: O mnie
     link: /blog/about
