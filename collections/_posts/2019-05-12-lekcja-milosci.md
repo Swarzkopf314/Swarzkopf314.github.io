@@ -23,7 +23,7 @@ Bycie dla siebie zawsze wiąże się z *niepewnością*. Tej niepewności nie ma
 
 ## Wymiana
 
-Jedyną stałą w świecie jest potrzeba miłości, tj. bycia dla innych. Każdy potrzebuje być kochanym, czyli aby **ktoś/coś był dla niego**; ale potrzebuje też kochać, tj. **być dla kogoś/czegoś**. Jesteśmy w świecie *jednocześnie*, wpływamy więc na siebie nawzajem, *wymieniamy się*, otwieramy między sobą *przejścia*. **Dzięki miłości przestajemy być fundamentalnie samotni**. Pokonujemy nawet śmierć, jeśli potrafiliśmy być dla innych.
+Jedną z niewielu stałych w świecie jest potrzeba miłości, tj. bycia dla innych. Każdy potrzebuje być kochanym, czyli aby **ktoś/coś był dla niego**; ale potrzebuje też kochać, tj. **być dla kogoś/czegoś**. Jesteśmy w świecie *jednocześnie*, wpływamy więc na siebie nawzajem, *wymieniamy się*, otwieramy między sobą *przejścia*. **Dzięki miłości przestajemy być fundamentalnie samotni**. Pokonujemy nawet śmierć, jeśli potrafiliśmy być dla innych.
 
 ## Śmierć
 
