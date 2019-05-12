@@ -5,7 +5,7 @@ featured-img: "posts/2019-05-12"
 summary: "Miłośc (i śmierć) to przejście od bycia dla siebie do bycia dla innych."
 ---
 
-*Całe moje życie prowadziło m.in. do tego żebym, był na nią teraz gotowy, widzę to.*
+*Całe moje życie prowadziło m.in. do tego, żebym był na nią teraz gotowy, widzę to.*
 
 <br>
 
