@@ -23,13 +23,13 @@ Bycie dla siebie zawsze wiąże się z *niepewnością*. Tej niepewności nie ma
 
 ## Wymiana
 
-Jedyną stałą w świecie jest potrzeba miłości, tj. bycia dla innych. Każdy potrzebuje być kochanym, czyli aby **ktoś/coś był dla niego**, ale potrzebuje też kochać, jt. **być dla kogoś/czegoś**. Jesteśmy w świecie *jednocześnie*, wpływamy więc na siebie nawzajem, *wymieniamy się*, otwieramy między sobą przejścia. **Dzięki miłości przestajemy być fundamentalnie samotni**. Pokonujemy nawet śmierć, jeśli potrafiliśmy być dla innych.
+Jedyną stałą w świecie jest potrzeba miłości, tj. bycia dla innych. Każdy potrzebuje być kochanym, czyli aby **ktoś/coś był dla niego**, ale potrzebuje też kochać, tj. **być dla kogoś/czegoś**. Jesteśmy w świecie *jednocześnie*, wpływamy więc na siebie nawzajem, *wymieniamy się*, otwieramy między sobą przejścia. **Dzięki miłości przestajemy być fundamentalnie samotni**. Pokonujemy nawet śmierć, jeśli potrafiliśmy być dla innych.
 
 ## Śmierć
 
 Śmierć to **przejście**. Przejście od bycia sobą do... bycia miłością? W każdym razie do bycia całkiem gdzie indziej i całkiem inaczej, ale jeśli uwierzymy (zobaczymy, poczujemy), że życie jest lekcją miłości, to wiemy przynajmniej tyle, że **po śmierci będziemy kochać**.
 
-Być może umieramy wtedy, kiedy nie możemy już się niczego nauczyć - chociaż nasza śmierć dalej może uczyć innych.
+Być może umieramy wtedy, kiedy nie możemy już niczego się nauczyć - chociaż nasza śmierć dalej może uczyć innych.
 
 ## Opatrzność
 
