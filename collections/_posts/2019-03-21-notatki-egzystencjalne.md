@@ -5,7 +5,7 @@ featured-img: "posts/2019-03-21"
 summary: "Kilka egzystencjalnych spostrzeżeń, które zebrałem do tej pory w swojej podróży po świecie."
 ---
 
-Poniżej prezentuję w 6 punktach moją prywatną [dezyderatę](https://www.fuw.edu.pl/~jziel/dezyderata.html). Może komuś też się przyda.
+Kilka egzystencjalnych spostrzeżeń, które zebrałem do tej pory w swojej podróży po świecie. Może komuś się przyda.
 
 #### 1. Życie jako lekcja wyobraźni. 
 
