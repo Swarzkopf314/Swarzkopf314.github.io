@@ -15,7 +15,7 @@ Moją największą ambicją jest zrozumienie natury świata i świadomości. Tem
 
 Największym zasobem tego świata są ludzie. Chciałbym potrafić inspirować ludzi do poszukiwania prawdy, polepszania życia swojego i innych, szukania lepszych rozwiązań. Aby nie poprzestawali na tym, co wydaje im się znane, a do czego tak naprawdę tylko się przyzwyczaili. Być może w dzisiejszym świecie najlepszym rozwiązaniem, aby to osiągnąć, jest dać im odpowiednią pracę.
 
-Poszukiwania formalne - rozumowe - są dopełnieniem poszukiwań, których domaga się serce. Oba nurty łączą się poniekąd w mojej poezji, jak również w dociekaniach filozoficznych. Eksperymentuję też z fizycznymi środkami wyrazu w postaci freestylu na łyżwach i rolkach. I w skrócie właśnie o tym jest ten blog - czyli jak moja prywatna wrażliwość filtruje rzeczywistość. Zapraszam!
+Poszukiwania formalne - rozumowe - są dopełnieniem poszukiwań, których domaga się serce. Oba nurty łączą się poniekąd w mojej poezji, jak również w dociekaniach filozoficznych. Eksperymentuję też z fizycznymi środkami wyrazu w postaci freestylu na łyżwach i rolkach. I w skrócie właśnie o tym jest ten blog - czyli jak moja wrażliwość filtruje rzeczywistość. Zapraszam!
 
 <!-- ![img]({{site.baseurl}}{{site.img_url}}prezes_focia.jpg) -->
 
