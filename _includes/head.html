@@ -23,10 +23,6 @@
     <meta content="{{ site.img_url | absolute_url }}{{ site.hero_img }}" property="og:image">
   {% endif %}
 
-  {% if page.summary %}
-    <meta content="{{ page.summary }}" property="og:description">
-  {% endif %}
-
   {% if site.google_tag_manager %}
 
     {% include gtm.html %}

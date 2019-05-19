@@ -3,7 +3,7 @@ title: "Tożsamość i teleportacja"
 date: 2019-01-30
 featured-img: "posts/2019-01-30"
 categories: [świadomość]
-summary: "Trudny problem świadomości jest pozorny i wynika jedynie z tego, że nie mamy dobrej teorii fizycznej opisującej świadomość."
+description: "Trudny problem świadomości jest pozorny i wynika jedynie z tego, że nie mamy dobrej teorii fizycznej opisującej świadomość."
 ---
 
 [Trudny problem świadomości][wiki-hard_problem]{:target="_blank"} jest pozorny i wynika jedynie z tego, że nie mamy dobrej teorii fizycznej opisującej świadomość, tj. jej formalnego, weryfikowalnego modelu. Gdybyśmy mieli taki dostatecznie dobry model, świadomość automatycznie stałaby się dziedziną fizyki. Jedną z bardziej obiecujących prób stworzenia teorii świadomości jest [IIT][wiki-iit]{:target="_blank"}, warto obejrzeć bardzo inspirujacy [wywiad][yt-tononi]{:target="_blank"} z twórcą tej koncepcji, Giulio Tononim. 

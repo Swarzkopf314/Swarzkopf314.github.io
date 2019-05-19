@@ -3,7 +3,7 @@ title: "Prawda, Bóg i trójkąty"
 date: 2019-01-24
 featured-img: "posts/2019-01-24"
 categories: [epistemologia, nauka, Bóg]
-summary: "Przydatność jako kryterium prawdy."
+description: "Przydatność jako kryterium prawdy."
 ---
 
 ## Trudności z prawdą
