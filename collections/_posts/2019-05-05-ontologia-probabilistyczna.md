@@ -2,7 +2,7 @@
 title: "Prawdopodobieństwo jako fundament rzeczywistości"
 date: 2019-05-05
 featured-img: "posts/2019-05-05"
-custom_css: ".hero::before { background: rgba(52, 56, 81, 0.3); }"
+custom_css: ".hero::before { background: rgba(52, 56, 81, 0.3); } "
 description: "Pojęcie zmiennej losowej pozwala w elegancki sposób pogodzić ze sobą chaos i całkowitą determinację."
 ---
 
@@ -23,7 +23,7 @@ Zauważmy, że **dokonaliśmy właśnie swoistego ontologicznego przewrotu koper
 
 Można też zauważyć bliski związek z [teorią informacji Shanona][teoria-informacji-shanon]. W myśl tej teorii proces stochastyczny ma tym więcej informacji (mniej entropii), im bardziej zawężone są prawdopodobieństwa wszystkich możliwych wyników procesu. Tak więc - przez analogię - układ fizyczny, który mocno zawęża swoje przyszłe możliwości - zawiera dużą informację.
 
-Nie sposób nie zrobić tutaj filozoficznej wycieczki w niebyt. Klasycznie niebyt jawi nam się jak stan terminalny, z którym nie może się nic stać - z pustki nic nie wynika. Ale jeśli zmienić paradygmat z deterministycznego na probabilistyczny i potraktować pustkę jako brak informacji, to nagle okaże się, że **pustka to zwyczajnie stan nieograniczonych przyszłych możliwości**. Zagadka bytu rozwiązuje się sama.
+Nie sposób nie zrobić tutaj filozoficznej wycieczki w niebyt. Klasycznie niebyt jawi nam się jak stan terminalny, z którym nie może się nic stać - z pustki nic nie wynika. Ale jeśli zmienić paradygmat z deterministycznego na probabilistyczny i potraktować pustkę jako brak informacji, to nagle okaże się, że **pustka to zwyczajnie stan nieograniczonych przyszłych możliwości**. Zagadka bytu rozwiązuje się sama. **Świat cały czas się stwarza**.
 
 Przyjęcie ontologii, w której zmienna losowa jest bytem pierwotnym, jednym ruchem pozwala nam rozwiązać wiele odwiecznych problemów filozoficznych. Byt to zawężenie przyszłych możliwości, niebyt to nieograniczone przyszłe możliwości (nieograniczony wybór), więc niebyt z definicji stwarza byt, który następnie ewoluuje w sposób coraz bardziej stabilny (byt sam ogranicza swój wybór) - im więcej bytu (informacji), tym mniejszą entropię mają zmienne losowe, które opisują jego ewolucję. Im bardziej jesteś określony, tym łatwiej przewidzieć, jak się zachowasz. Z czasem w makroskali świat staje się w dużej mierze deterministyczny.
 
@@ -35,7 +35,7 @@ Zmienna losowa wydaje się więc być doskonałym narzędziem do opisu decyzyjno
 
 ## Opatrzność
 
-Wydaje się, że zmienna losowa jest doskonałym narzędziem także do formalizacji pojęcia *Opatrzności*. **W konsekwencji moglibyśmy uzyskać w pełni weryfikowalną naukową teorię Opatrzności**. Oczywiście należałoby rozstrzygnąć kilka problemów metodologicznych, temat nie jest oczywisty, ale **teoretycznie działanie Opatrzności jest możliwe do zweryfikowania**.
+Wydaje się, że zmienna losowa jest doskonałym narzędziem także do formalizacji pojęcia *Opatrzności*. **W konsekwencji moglibyśmy uzyskać w pełni weryfikowalną naukową teorię Opatrzności**. Oczywiście należałoby rozstrzygnąć kilka problemów metodologicznych, temat nie jest oczywisty, ale **teoretycznie działanie Opatrzności jest możliwe do zweryfikowania**. [^footnote]
 
 Być może bowiem świat także w makroskali jest opisany pewną zmienną losową, która wyznacza prawdopodobieństwa pewnych klas zdarzeń, ale nie mówi nic o konkretach. Przykładowo w skali życia jednego człowieka - być może jest mu *pisane* szczęśliwe życie rodzinne (z dużym prawdopodobieństwem), ale nie wiadomo, kiedy, z kim i gdzie dokładnie. Mogłoby to wyglądać na przykład tak, że spośród zdarzeń losowych, które przydarzają się mu w każdej chwili, nieco większe prawdopodobieństwo mają zdarzenia sprzyjające temu, aby kiedyś osiągnął szczęśliwe życie rodzinne. Być może niektóre z nich są całkiem wymowne, a inne z kolei zupełnie prozaiczne. W dłuższej perspektywie czasowej tych zdarzeń będzie dostatecznie dużo, żeby z dużym prawdopodobieństwem to życie rodzinne się spełniło. W myśl naszej teorii - świat temu *sprzyja* i człowiek może mieć poczucie, że *ktoś nad nim czuwa*. On sam ma wpływ na te prawdopodobieństwa. Kto wie, może wpływ ma nawet coś takiego, jak *modlitwa*? Ale to temat na osobny artykuł.
 
@@ -43,8 +43,14 @@ Być może bowiem świat także w makroskali jest opisany pewną zmienną losow�
 <br>
 
 Reasumując - jeśli przyjmiemy, że prawdopodobieństwo jest nieredukowalnym elementem rzeczywistości, to uzyskujemy formalizm (zmienna losowa), który nadaje się do opisu świata praktycznie na każdym interesującym nas poziomie - od cząstek elementarnych, przez wolę człowieka, po (hipotetyczny) celowościowy wymiar rzeczywistości jako takiej. Wygląda na to, że to całkiem [przydatne]({{ site.baseurl }}{% post_url 2019-01-24-prawda-Bog-trojkaty %}){:target="_blank"} pojęcie.
+<br><br>
+
 
 [wiki-wave_function]: https://en.wikipedia.org/wiki/Wave_function
 [wiki-bell_theorem]: https://en.wikipedia.org/wiki/Bell%27s_theorem
 [zmienna-losowa]: https://en.wikipedia.org/wiki/Random_variable
 [teoria-informacji-shanon]: https://en.wikipedia.org/wiki/Entropy_(information_theory)
+[^footnote]: Chcę tu wyraźnie zaznaczyć, że wcale nie chodzi mi o to, aby istnienie Opatrzności faktycznie weryfikować. Kluczowe jest samo spostrzeżenie możliwości weryfikacji, tj. zauważenie, że pojęcie wywodzące się z religii i świata duchowego ma na tyle precyzyjny sens, że spełnia wręcz rygory hipotezy naukowej. Tym samym chciałbym nieco odczarować świat duchowy zdeklarowanym ateistom.
+
+
+<style>
