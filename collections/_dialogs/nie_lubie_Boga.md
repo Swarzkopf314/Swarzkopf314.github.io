@@ -1,42 +1,42 @@
 ---
 title: Nie cierpię Boga
 date: 4-07-2019
-description: "Artur"
+description: "A"
 ---
 
-##### *Maciej*:
+##### *M*:
 nie cierpię Boga, jeśli jest
 tj. gość ma rację
 
-##### *Artur* :
+##### *A* :
 Czego
 
-##### *Maciej*:
+##### *M*:
 ale i tak go nie cierpię
 
-##### *Artur*:
+##### *A*:
 A myślałeś kiedyś że będzie taki dzień
 Ten koniec
 Że staniesz
 I nagle będziesz wiedział wszystko
 Wszystko będzie jasne i nie będzie miało znaczenia
 
-##### *Maciej*:
+##### *M*:
 no myslałem, że se pogadam i mu pogratuluję zajebistego projektu
 nie no wszystko już jest jasne
 dla mnie
 ale i tak robota się nie skończyła
 
-##### *Artur*:
+##### *A*:
 Maciek kurwa nic nie jest jasne
 
-##### *Maciej*:
+##### *M*:
 wszystko jest kurwa jasne
 
-##### *Artur*:
+##### *A*:
 NIE JEST KURWA
 
-##### *Maciej*:
+##### *M*:
 ale robić ciągle trzeba
 czekać kurwa
 męczyć się w tym czasie
@@ -47,10 +47,10 @@ ale tak, wszystko jest jasne
 nie lubię Boga
 ale spoko
 
-##### *Artur*:
+##### *A*:
 On nie dorośnie będzie coraz bardziej pojebany a Ty będziesz miał coraz bardziej w dupie
 
-##### *Maciej*:
+##### *M*:
 nie będzie
 jest coraz mniej pojebany
 skurwiel wie, że sie nie zabiję
@@ -64,10 +64,10 @@ oj nie
 a jak pękniesz, to trudno
 miałeś wolną wolę, wybrałeś pęknąć, spadaj
 
-##### *Artur*:
+##### *A*:
 To co jest z tymi wszystkimi którzy się zabili
 
-##### *Maciej*:
+##### *M*:
 Bóg to sadysta
 no przegrali
 grzech ciężki, kurwa
@@ -91,27 +91,27 @@ kiedy masz już dostać nagrodę, to nic nie ma znaczenia
 lo
 lol
 
-##### *Artur*:
+##### *A*:
 Kiedy byłeś w kościele ostatni raz?
 
-##### *Maciej*:
+##### *M*:
 dawno
 
-##### *Artur*:
+##### *A*:
 Ja też
 
-##### *Maciej*:
+##### *M*:
 może pora się przejść
 
-##### *Artur*:
+##### *A*:
 Ja chyba idę w niedzielę do spowiedzi
 Ziomek powiedział żebym wpadł za miesiac
 Trochę się zmieniło na lepsze przez ten miesiąc ale walka trwa nadal
 
-##### *Maciej*:
+##### *M*:
 cieszę się
 dobrze, że jesteś
 
-##### *Artur*:
+##### *A*:
 Dobrze że jesteś
 
