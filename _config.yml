@@ -75,6 +75,9 @@ collections:
   series:
     output: true
     permalink: blog/:collection/:title/
+  dialogs:
+    output: true
+    permalink: blog/:collection/:title/
 
 defaults:
   - scope:
@@ -90,6 +93,11 @@ defaults:
   - scope:
       path: ""
       type: "series"
+    values:
+      layout: poem
+  - scope:
+      path: ""
+      type: "dialogs"
     values:
       layout: poem
 

@@ -1,0 +1,21 @@
+---
+layout: default
+permalink: /blog/archive/dialogs
+title: Rozmowy
+bg_img: panteon
+---
+
+<main class="site__content">
+  <section class="blog">
+    <div class="container">
+      <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
+
+        {% for post in site.dialogs reversed %}
+          {% include poem_card.html %}
+        {% endfor %}
+
+        <!-- {% include pagination.html %} -->
+      </div>
+    </div>
+  </section>
+</main>
