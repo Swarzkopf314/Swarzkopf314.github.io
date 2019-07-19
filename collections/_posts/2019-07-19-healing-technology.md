@@ -3,7 +3,7 @@ title: "Parter"
 date: 2019-07-19
 featured-img: "posts/2019-07-19"
 description: "O co chodzi mi w życiu."
-custom_css: ".hero::before { background: rgba(52, 56, 81, 0.3); } "
+custom_css: ".hero::before { background: rgba(52, 56, 81, 0.1); } "
 ---
 
 Dziś uświadomiłem sobie wreszcie bardzo precyzyjnie, co jest i zawsze było główną motywacją moich działań.
