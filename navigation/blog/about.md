@@ -2,7 +2,7 @@
 layout: page
 title: Maciej Satkiewicz
 permalink: /blog/about
-desc: msatkiewicz@gmail.com
+desc: maciej.satkiewicz@314.foundation
 ---
 
 <!-- 
@@ -17,7 +17,7 @@ Największym zasobem tego świata są ludzie. Chciałbym potrafić inspirować l
 
 Poszukiwania formalne - rozumowe - są dopełnieniem poszukiwań, których domaga się serce. Oba nurty łączą się poniekąd w mojej poezji, jak również w dociekaniach filozoficznych. Eksperymentuję też z fizycznymi środkami wyrazu w postaci freestylu na łyżwach i rolkach. I w skrócie właśnie o tym jest ten blog - czyli jak moja wrażliwość filtruje rzeczywistość. Zapraszam!
 
-- email: msatkiewicz@gmail.com
+- email: maciej.satkiewicz@314.foundation
 - [facebook](https://www.facebook.com/maciej.satkiewicz){:target="_blank"}
 - [linkedin](https://www.linkedin.com/in/maciej-satkiewicz-224677a6/){:target="_blank"}
 - [instagram](https://www.instagram.com/maciej_satkiewicz/){:target="_blank"}
