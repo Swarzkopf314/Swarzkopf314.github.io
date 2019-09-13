@@ -43,6 +43,18 @@ Praca to także miłość. Pracując, dajemy coś od siebie światu. Porządkuje
 
 Jeśli przyjmiemy i odwzajemnimy miłość - **możemy razem stwarzać nowe życie, gotowe do nauczenia się miłości**. Dzięki temu przekażemy swoją miłość daleko w czasie i przestrzeni. Nasza miłość wykroczy poza nasze własne życie i zostanie w świecie potencjalnie do samego końca.
 
+## Sens
+
+Nie wszyscy są w stanie zrozumieć współczesną naukę i technologię. Ale większość stworzeń potrafi kochać. Tak więc
+jeśli świat to rodzaj symulacji i jeśli ta symulacja ma jakiś sens, to dużo bardziej prawdopodobne, że w tym życiu chodzi o serce, a nie o "mędrca szkiełko i oko".
+
+*Nie pustka kosmosu, lecz serce co bije - jest*
+
+<div style="position:relative;padding-top:56.25%;">
+  <iframe src="https://www.youtube.com/embed/u8jdNw5Go_Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
+</div>
+
 <br>
 
 
