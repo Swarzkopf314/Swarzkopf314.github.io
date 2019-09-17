@@ -1,9 +1,11 @@
+  - name: Amelka
+    link: https://amelia.app
   - name: Fundacja
     link: https://314.foundation/pl
     target: _blank
-  - name: Próby literackie
-    link: /blog/archive
   - name: Freestyle
     link: /blog/freestyle
+  - name: Próby literackie
+    link: /blog/archive
   - name: O mnie
     link: /blog/about
