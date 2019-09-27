@@ -20,7 +20,7 @@ Poszukiwania formalne - rozumowe - są dopełnieniem poszukiwań, których domag
 - email: maciej.satkiewicz@314.foundation
 - [facebook](https://www.facebook.com/maciej.satkiewicz){:target="_blank"}
 - [linkedin](https://www.linkedin.com/in/maciej-satkiewicz-224677a6/){:target="_blank"}
-- [instagram](https://www.instagram.com/maciej_satkiewicz/){:target="_blank"}
+- [instagram](https://www.instagram.com/krul_torwaru/){:target="_blank"}
 - [youtube](https://www.youtube.com/channel/UC2T-DFgVhqdz5hv1-Nadv6g){:target="_blank"}
 <!-- - [github](https://github.com/Swarzkopf314){:target="_blank"} -->
 
