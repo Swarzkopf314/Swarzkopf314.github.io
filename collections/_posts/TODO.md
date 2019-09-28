@@ -33,3 +33,19 @@ Być może to jest właśnie sens świata - nauczyć się cierpliwości. Bóg to
 # Kreatywne AI, istota myślenia kreatywnego (FUNDACJA)
 
 Na czym polega proces kreatywny? Na łączeniu różnych rzeczy i sprawdzaniu, czy działają.
+
+# życie jest proste, ale niełatwe
+
+wzrastanie jest proste, ale boli
+Nie ma innych odpowiedzi niż samo życie, to jest droga, rozwój, świat to język, księga, z której czytasz każdego dnia. Życie jest nieredukowalne. Czas trzeba przeżyć, przeczekać. Przeczuć. Nie zredukujesz czasu do kilku odpowiedzi.
+to jest właśnie to, co nazywam prostym. Ale niełatwe. Gdyby było łatwe, nie byłoby wzrostu, a więc sensu
+odpowiedź masz stale przed oczami
+to wszystko, czego doświadczasz, to jest odpowiedź. rozciągnięta w czasie. czas to trochę tortura, ale stymulująca
+Jak sobie uświadomisz, że życie jest nieredukowalne, to masz opdowiedź. Masz balans.
+Każda chwila jest fragmentem odpowiedzi
+spójrz na tę genialną metaforę z Chrystusem
+Bóg stał się człowiekiem. Podniósł życie człowieka i jego cierpienie do rangi absolutu
+Natreścił. Pokazał paluchem, że tak, to o tu chodzi. Bóg staje się człowiekiem, czyli mówi, że bycie człowiekiem nie redukuje się do niczego innego, bo sam Bóg je przeżywa. Kocham tę metaforę.
+i ostatecznie jesteś tu, żeby nauczyć się kochać
+bez przestrzeni, czasu i cierpienia nie zrozumiałbyś, co to troska, tęsknota, miłość
+więc ja na to patrzę jak na lekcję miłości
