@@ -1,12 +1,7 @@
-  - name: Amelka
-    link: https://amelia.app
-    target: _blank
-  - name: Fundacja
-    link: https://314.foundation/pl
-    target: _blank
-  - name: Krul Torwaru
-    link: /blog/freestyle
-  - name: Próby literackie
-    link: /blog/archive
-  - name: O mnie
-    link: /blog/about
+- name: Fundacja
+  link: https://314.foundation/pl
+  target: _blank
+- name: Próby literackie
+  link: /blog/archive
+- name: O mnie
+  link: /blog/about
