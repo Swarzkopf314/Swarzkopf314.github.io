@@ -3,7 +3,7 @@ title: "Czas"
 date: 2019-10-14
 featured-img: "posts/2019-10-14"
 description: "Nasza kultura koncentruje się na efektach działań, a nie na jednostce, która te działania wykonuje."
-custom_css: ".hero::before { background: rgba(52, 56, 81, 0.5); } "
+custom_css: ".hero::before { background: rgba(52, 56, 81, 0.2); } "
 ---
 
 *Nasza kultura koncentruje się na efektach działań, a nie na jednostce, która te działania wykonuje.*
@@ -14,9 +14,9 @@ Ale może wystarczy zmienić perspektywę?
 
 **Zamiast wartościować działania w kategoriach ich efektów, zacznijmy wartościować samych siebie w kategoriach działań**, jakie podejmujemy na co dzień?
 
-Jeśli przykładowo codziennie pomagam starszej osobie przejść przez jezdnię, to efekty tego działania mogą nie mieć wielkiej wartości; ta osoba mogła sobie poradzić sama, mogła zapomnieć o tym albo wcale tego nie zauważyć. **Ale wielką wartość ma bycie człowiekiem, który codziennie pomaga starszej osobie przejść przez jezdnię.**
+Jeśli przykładowo codziennie zdobędę się na miły gest czy zwykły uśmiech wobec choćby przypadkowo napotkanej osoby, to efekty tego działania mogą nie mieć wielkiej wartości. **Ale wielką wartość ma bycie człowiekiem, który codziennie zdobywa się na miły gest.**
 
-I żeby być takim człowiekiem, wystarczy - UWAGA - codziennie pomóc starszej osobie przejść przez jezdnię. Nic więcej. To jest proste jak codzienność.
+I żeby być takim człowiekiem, wystarczy - UWAGA - codziennie zrobić coś miłego. Nic więcej. To jest proste jak codzienność.
 
 *Jestem osobą, która codziennie robi fajną rzecz. __Więc mam wartość__.*
 
@@ -24,4 +24,8 @@ I dostrzec to - to jest właśnie szczęście.
 
 ### Ten codzienny, wytrwały czas, który wciąż cierpliwie czeka, aż dostrzeżemy, że tylko w nim i poprzez niego możemy się spełnić.
 
-Co fajnego robisz na co dzień?
+<br/>
+***
+<br/>
+
+Co dobrego robisz na co dzień?

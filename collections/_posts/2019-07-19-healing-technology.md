@@ -22,7 +22,7 @@ Dlaczego w przypadku ludzi chciałbym raczej inspirować i otwierać możliwośc
 
 Podobnie jest z depresją - nie można nikogo zmusić, żeby mu się chciało żyć. Trzeba czekać. Być. Inspirować. Otwierać możliwości. Ale każdy musi sam przejść swoją drogę.
 
-Jeśli więc chcę leczyć, to tylko w takim sensie, że chcę usuwać niepotrzebne bariery. Dlatego założyliśmy z Piotrkiem [Fundację][fundacja]{:target="_blank"} i dlatego tworzymy [Amelię][amelia]{:target="_blank"}. Chcemy usunąć bariery, dać ludziom więcej możliwości. Sprawić, żeby uleczyli się sami. Albo zniszczyli. To zależy od nich.
+Jeśli więc chcę leczyć, to tylko w takim sensie, że chcę usuwać niepotrzebne bariery. Dlatego założyliśmy z Piotrkiem [Fundację][fundacja]{:target="_blank"}. Chcemy usunąć bariery, dać ludziom więcej możliwości. Sprawić, żeby uleczyli się sami. Albo zniszczyli. To zależy od nich.
 
 Kiedy jaskóła zwichnie skrzydło, chcę pomóc jej je wyleczyć, a następnie - upewniając się, że poradzi sobie nawet w najsilniejszym wietrze - wypuścić w przestworza. Dokąd poleci - to już jej sprawa.
 
@@ -31,5 +31,5 @@ Kiedy jaskóła zwichnie skrzydło, chcę pomóc jej je wyleczyć, a następnie 
 
 *Zdjęcie w tle przedstawia budowę, którą widać z mojego okna. Budowa rozpoczęła się zaraz po tym, jak wprowadziłem się do mojego aktualnego mieszkania i od początku różne jej etapy traktowałem jako komentarz do tego, co się działo w moim życiu. W dniu pisania tego posta budowlańcy dokończyli cementować parter. Tym samym budowa w całości wyszła na powierzchnię...*
 
-[fundacja]: https://314.foundation/pl/
+[fundacja]: https://314.foundation/
 [amelia]: https://zrzutka.pl/amelia-pomoc-tu-i-teraz
