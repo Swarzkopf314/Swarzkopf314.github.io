@@ -2,7 +2,7 @@
 title: "Dezyderata"
 date: 2022-08-15
 featured-img: "posts/2022-08-15"
-description: "Moja mała dezyderata."
+description: "Moja dezyderata."
 custom_css: ".hero::before { background: rgba(52, 56, 81, 0.1); } "
 ---
 
