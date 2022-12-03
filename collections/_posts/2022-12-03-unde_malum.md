@@ -36,4 +36,4 @@ Koncepcja, że sensem życia doczesnego jest poznanie dobra i zła ma następuj�
 1. Stoicka postawa wobec zła - nie umniejszamy złu, nie popadamy w naiwny optymizm poglądu, że zło zawsze służy większemu dobru. Zło służy tylko destrukcji. Jednak z drugiej strony odbieramy mu rangę absolutną i odsuwamy od siebie jego ostateczną trwogę. Możemy spojrzeć złu w oczy i stwierdzić "istniejesz tylko po to, żebym cię poznał". W jakiś sposób taka postawa dodaje sił i być może chroni przed złamaniem się w obliczu zła. Nadaje sensu doświadczeniu zła.
 2. Sprawcza postawa wobec dobra - widzimy, że dobro bierze się z nas samych. Nie można go odseparować od świadomości zła i woli czynienia dobra. Jeśli sensem życia doczesnego jest również poznanie dobra, to musimy czynić dobro, żeby je poznać. W ten sposób czynienie dobra nabiera dodatkowego sensu, który może nas tym bardziej motywować do czynienia dobra.
 
-Mam nadzieję, że te koncpecje dodadzą komuś otuchy, tak, jak dodały jej mi.
+Mam nadzieję, że te koncpecje dodadzą komuś otuchy, tak, jak dodają jej mi.
