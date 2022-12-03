@@ -6,7 +6,7 @@ description: "Pozytywny sens życia w obliczu horrendalnego zła."
 custom_css: ".hero::before { background: rgba(52, 56, 81, 0.1); } "
 ---
 
-# Pytanie o horrendalne zło
+## Pytanie o horrendalne zło
 
 Pytanie o zło nie leży jedynie w domenie teologii. Jest ono kluczowe dla każdego, kto szuka pozytywnego sensu w naszym życiu na tym świecie.
 
@@ -16,19 +16,19 @@ Przede wszystkim musimy przyznać fakt, przed którym nie ma ucieczki - czyste, 
 
 W obliczu tej prawdy mamy zasadniczo dwa wyjścia - albo złu się poddać, albo mu się przeciwstawić. *Poddać* to znaczy nie pytać więcej, tylko zaakceptować, że świat "po prostu taki jest" i nie ma szerszego, pozytywnego uzasadanienia. *Przeciwstawić* to znaczy szukać pozytywnego sensu mimo wszystko i twierdzić, że zło nie może być ostateczne, nawet, jeśli jest ostateczne w kontekście życia doczesnego.
 
-# Konieczność koncepcji transcendentalnego dobra w obliczu horrendalnego zła
+## Konieczność koncepcji transcendentalnego dobra w obliczu horrendalnego zła
 
 Przeciwstawienie się inherentnemu złu świata wymaga w pierwszej kolejności wypracowania koncepcji *Boga*, tj. pozytywnej transcendentalnej wartości, która z definicji przekracza każdą możliwą wartość w życiu doczesnym. Jest to pewien postulat, podobny do postulatu, że istnieje niestandardowa liczba naturalna, tj. liczba większa od każdej, którą możemy fizycznie skonstruować. Taki postulat jest niesprzeczny ze standardowymi aksjomatami matematyki, chociaż jest też niedowodliwy. Podobnie jest z tak zdefiniowaną koncepcją Boga. Przyjęcie tego postulatu jest dobrowolne.
 
 Mając taką koncepcję Boga możemy stwierdzić, że nawet, jeśli stracimy wszelką pozytywną wartość w życiu doczesnym, to zawsze zostanie nam jeszcze pozytywna wartość transcendentalna. Wiara w to, że taka wartość istnieje, jakkolwiek naiwna z racjonalnego punktu widzenia, wydaje się jednak niezbędna do tego, aby złu się skutecznie przeciwstawić. Inaczej zawsze znajdzie się takie zło, które nas pokona. Aby stawić czoła złu potrzebujemy wiary w transcendentalne dobro. Ostatecznie nie ma tutaj wyboru.
 
-# Księga Rodzaju, czyli jak pogodzić transcendentalne dobro z istnieniem horrendalnego, doczesnego zła
+## Księga Rodzaju, czyli jak pogodzić transcendentalne dobro z istnieniem horrendalnego, doczesnego zła
 
 Cały czas jednak taka wiara jest niewystarczająca do tego, aby wyjaśnić istnienie zła. Istnienie transcendentalnego dobra nie usprawiedliwia istnienia horrendalnego, doczesnego zła. Wręcz przeciwnie, Bóg, który naraża nas na działanie wyniszczającego zła tylko dlatego, że nie jest to zło ostateczne (chociaż jest ostateczne w kontekście życia doczesnego) - to nie jest Bóg dobry, tylko Bóg cyniczny, jeśli nie szyderczy. Dobry Bóg nie mógł stworzyć takiego świata z *własnej woli*.
 
 Ten wniosek sugeruje możliwą odpowiedź na problem zła. Odpowiedź, która wprost jest przedstawiona w fundamencie Biblii, tj. w Księdze Rodzaju. Być może **zło jest elementem życia doczesnego dokładnie dlatego, że życie doczesne jest procesem poznania dobra i zła**. Standardowa interpretacja Księgi Rodzaju mówi, że zostaliśmy wypędzeni z Raju na skutek złamania polecenia Boga, a dobro i zło poznaliśmy niejako natychmiast po zjedzeniu owocu z Drzewa Poznania i teraz za karę musimy zła doświadczać. Dużo bardziej koherentna interpretacja jest jednak taka, że to *poznanie dobra i zła* jeszcze się nie zakończyło - ale trwa pod postacią naszego życia na Ziemi i realizuje się poprzez historię człowieka - każdego z osobna, ale i wszystkich ludzi łącznie, w formie intersubiektywnego doświadczenia. Jeśli sensem tego świata jest poznanie dobra i zła, to jego elementem musi być zarówno dobro, jak i zło. Dobry Bóg nie stworzył więc tego świata z własnej woli, przeciwnie, On chciał stowrzenia tego świata uniknąć, aby oszczędzić nam cierpienia. To my chcieliśmy poznać dobro i zło. A ta wiedza jest w szczególności okupiona kosztem poznania zła, także tego horrendalnego. Dokładnie dlatego horrendalne cierpienie musi być możliwe w świecie doczesnym, jakkolwiek nie byłoby to trudne.
 
-# Usprawiedliwienie dla tego wpisu
+## Usprawiedliwienie dla tego wpisu
 
 Ten wpis przedstawia koncepcję postawy, jaką można przyjąć wobec doświadczenia zła. Postawy, która może dawać siłę i nadzieję. Uważam, że niezgoda na zło jest fundamentalnym obowiązkiem samoświadomej, myślącej istoty. Dlatego uznałem za potrzebne znalezienie koherentnej koncepcji, która pozwoli istnienie zła skonceptualizować w taki sposób, aby dawać siłę do przeciwstawiania się temu złu. Siła może płynąć ze zrozumienia, a przynajmniej z posiadania koherentnej, ostatecznie optymistycznej konceptualizacji.
 
