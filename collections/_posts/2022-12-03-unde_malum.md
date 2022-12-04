@@ -18,7 +18,7 @@ W obliczu tej prawdy mamy zasadniczo dwa wyjścia - albo złu się poddać, albo
 
 ## Konieczność koncepcji transcendentalnego dobra w obliczu horrendalnego zła
 
-Przeciwstawienie się inherentnemu złu świata wymaga w pierwszej kolejności wypracowania koncepcji *Boga*, tj. pozytywnej transcendentalnej wartości, która z definicji przekracza każdą możliwą wartość w życiu doczesnym. Jest to pewien postulat, podobny do postulatu, że istnieje *niestandardowa liczba naturalna*, tj. liczba większa od każdej, którą możemy fizycznie skonstruować. Taki postulat jest niesprzeczny ze standardowymi aksjomatami matematyki, chociaż jest też niedowodliwy. Podobnie jest z tak zdefiniowaną koncepcją Boga.
+Przeciwstawienie się inherentnemu złu świata wymaga w pierwszej kolejności wypracowania koncepcji *Boga*, tj. pozytywnej transcendentalnej wartości, która z definicji przekracza każdą możliwą wartość w życiu doczesnym. Jest to pewien postulat, podobny do postulatu, że istnieje [niestandardowa liczba naturalna][non-standard-natural-number]{:target="_blank"}, tj. liczba większa od każdej, którą możemy fizycznie skonstruować. Taki postulat jest niesprzeczny ze standardowymi aksjomatami matematyki, chociaż jest też niedowodliwy. Podobnie jest z tak zdefiniowaną koncepcją Boga.
 
 Mając taką koncepcję Boga możemy stwierdzić, że nawet, jeśli stracimy wszelką pozytywną wartość w życiu doczesnym, to zawsze zostanie nam jeszcze pozytywna wartość transcendentalna. Wiara w to, że taka wartość istnieje, jakkolwiek naiwna z racjonalnego punktu widzenia, wydaje się jednak niezbędna do tego, aby złu się skutecznie przeciwstawić. Inaczej zawsze znajdzie się takie zło, które nas pokona. Aby stawić czoła złu potrzebujemy wiary w transcendentalne dobro. Tak więc przyjęcie postulatu istnienia Boga jest dobrowolne z racjonalnego punktu widzenia, jednak jest konieczne z perspektywy egzystencjalnej.
 
@@ -37,3 +37,5 @@ Koncepcja, że sensem życia doczesnego jest poznanie dobra i zła ma następuj�
 2. Sprawcza postawa wobec dobra - widzimy, że dobro bierze się z nas samych. Nie można go odseparować od *świadomości* zła i *woli* czynienia dobra. Jeśli sensem życia doczesnego jest również poznanie dobra, to musimy czynić dobro, żeby je poznać. W ten sposób czynienie dobra nabiera dodatkowego sensu, który może nas jeszcze bardziej do tego motywować.
 
 Mam nadzieję, że te koncpecje dodadzą komuś otuchy, tak, jak dodają jej mi.
+
+[non-standard-natural-number]: https://en.wikipedia.org/wiki/Non-standard_model_of_arithmetic
