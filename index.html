@@ -10,7 +10,8 @@ bg_img: panteon
     <div class="container">
       <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
 
-        {% for post in paginator.posts reversed %}
+        <!-- {% for post in paginator.posts reversed %} -->
+        {% for post in paginator.posts %}
           {% include card.html %}
         {% endfor %}
 
