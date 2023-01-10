@@ -1,6 +1,8 @@
 - name: Wiersze
   link: /blog/archive/poems
-- name: Próby literackie
-  link: /blog/archive
+- name: Cykle
+  link: /blog/archive/series
+- name: Rozmowy
+  link: /blog/archive/dialogs
 - name: O mnie
   link: /blog/about
