@@ -2,7 +2,7 @@
 layout: page
 title: Maciej Satkiewicz
 permalink: /blog/about
-desc: maciej.satkiewicz@314.foundation
+desc: msatkiewicz@gmail.com
 ---
 
 <center>Byłem filozofiem, ateistą, poetą, kolegą, sceptykiem, samotnikiem, studentem, melomanem, miłośnikiem przyrody, fanem mangi, naukowcem, programistą, wegetarianinem, pracownikiem, freestylowcem, przedsiębiorcą społecznym, katolikiem, przyjacielem. Miałem w życiu trochę farta i trochę trudu. Irytuje mnie tykanie zegara, za to kocham metafizyczny dźwięk oboju.</center>
