@@ -28,14 +28,14 @@ Cały czas jednak taka wiara jest niewystarczająca do tego, aby wyjaśnić istn
 
 Ten wniosek sugeruje możliwą odpowiedź na problem zła. Odpowiedź, która wprost jest przedstawiona w fundamencie Biblii, tj. w Księdze Rodzaju. Być może **zło jest elementem życia doczesnego dokładnie dlatego, że życie doczesne jest procesem poznania dobra i zła**. Standardowa interpretacja Księgi Rodzaju mówi, że zostaliśmy wypędzeni z Raju na skutek złamania polecenia Boga, a dobro i zło poznaliśmy niejako natychmiast po zjedzeniu owocu z Drzewa Poznania i teraz za karę musimy zła doświadczać. Dużo bardziej koherentna interpretacja jest jednak taka, że to *poznanie dobra i zła* jeszcze się nie zakończyło - ale trwa pod postacią naszego życia na Ziemi i realizuje się poprzez historię człowieka - każdego z osobna, ale i wszystkich ludzi łącznie, w formie intersubiektywnego doświadczenia. Jeśli sensem tego świata jest poznanie dobra i zła, to jego elementem musi być zarówno dobro, jak i zło. Dobry Bóg nie stworzył więc tego świata z własnej woli, przeciwnie, On chciał stworzenia tego świata uniknąć, aby oszczędzić nam cierpienia. To my chcieliśmy poznać dobro i zło. A ta wiedza jest w szczególności okupiona kosztem poznania zła, także tego horrendalnego (pośrednio lub bezpośrednio). Dokładnie dlatego horrendalne cierpienie musi być możliwe w świecie doczesnym, jakkolwiek byłoby to trudne.
 
-## Usprawiedliwienie dla tego wpisu
+## Potrzeba czynienia dobra
 
 Ten wpis przedstawia koncepcję postawy, jaką można przyjąć wobec doświadczenia zła. Postawy, która może dawać siłę i nadzieję. Uważam, że niezgoda na zło jest fundamentalnym obowiązkiem samoświadomej, myślącej istoty. Dlatego uznałem za potrzebne znalezienie koherentnej koncepcji, która pozwoli istnienie zła skonceptualizować w taki sposób, aby dawać siłę do przeciwstawiania się temu złu. Siła może płynąć ze zrozumienia, a przynajmniej z posiadania koherentnej, ostatecznie optymistycznej konceptualizacji.
 
 Koncepcja, że sensem życia doczesnego jest poznanie dobra i zła ma następujące korzyści:
 1. Stoicka postawa wobec zła - nie umniejszamy złu, nie popadamy w naiwny optymizm poglądu, że zło zawsze służy większemu dobru. Zło służy tylko destrukcji. Jednak z drugiej strony odbieramy mu rangę absolutną i odsuwamy od siebie jego ostateczną trwogę. Możemy spojrzeć złu w oczy i stwierdzić "istniejesz tylko po to, żebyśmy mogli cię poznać". W jakiś sposób taka postawa dodaje sił i być może chroni przed złamaniem się w obliczu zła.
-2. Sprawcza postawa wobec dobra - widzimy, że dobro bierze się z nas samych. Nie można go odseparować od *świadomości* zła i *woli* czynienia dobra. Jeśli sensem życia doczesnego jest również poznanie dobra, to **musimy czynić dobro**, żeby je poznać.
+2. Sprawcza postawa wobec dobra - widzimy, że dobro bierze się z nas samych. Nie można go odseparować od *świadomości* zła i *woli* czynienia dobra. Jeśli sensem życia doczesnego jest również poznanie dobra, to **musimy czynić dobro**, żeby je poznać. Być może takie jest nasze główne zadanie na tym świecie.
 
-Być może ta koncpecja doda komuś otuchy.
+Być może ta koncepcja doda komuś otuchy.
 
 [non-standard-natural-number]: https://en.wikipedia.org/wiki/Non-standard_model_of_arithmetic
