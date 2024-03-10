@@ -18,8 +18,8 @@ Wczuwając się w bohatera powieści staję się nim, moje Jestem ożywia tę po
 
 ## Jestem jako przewaga ewolucyjna
 
-Jednak czy to uniwersalne Jestem jest czymś więcej, niż czystą subiektywnością, swoistym polem energetycznym? Wydaje się, organizmy obdarzone świadomością zyskują pewną istotną funkcjonalną przewagę. Czy taką przewagą nie jest umiejętność podejmowania decyzji? Być może Jestem jest dokładnie tym, co umożliwia współistnienie różnych bodźców w swoistym "polu roboczym", areną, na której ścierają się różne doznania, myśli, emocje i wspomnienia. Jestem być może to dokładnie to, co pozwala przełamać automatyzm bodziec-reakcja. A skoro tak, to Jestem nie byłoby tylko czystym subiektywnym bytowaniem, ale też czystą Wolą, a więc tym, co w ogóle umożliwia partykularną wolę postaci.
+Jednak czy to uniwersalne Jestem jest czymś więcej, niż czystą subiektywnością, swoistym polem energetycznym? Wydaje się, że organizmy obdarzone świadomością zyskują pewną istotną funkcjonalną przewagę. Czy taką przewagą nie jest umiejętność podejmowania decyzji? Być może Jestem jest dokładnie tym, co umożliwia współistnienie różnych bodźców w swoistym "polu roboczym", areną, na której ścierają się różne doznania, myśli, emocje i wspomnienia. Jestem być może to dokładnie to, co pozwala przełamać automatyzm bodziec-reakcja. A skoro tak, to Jestem nie byłoby tylko czystym subiektywnym bytowaniem, ale też czystą Wolą, a więc tym, co w ogóle umożliwia partykularną wolę postaci.
 
 ## Jestem osobowe?
 
-Te rozważania prowadzą do konstatacji, że może istnieć jedno uniwersalne Jestem, które jest obdarzone Wolą. Czy jest też obdarzone pamięcią? Gdyby bowiem istniała także uniwersalna Pamięć, to niechybnie mielibyśmy do czynienia z postacią Boga, który pod wszystkimi postaciami pisze powieść o samym sobie.
+Te rozważania prowadzą do konstatacji, że może istnieć jedno uniwersalne Jestem, które jest obdarzone Wolą. Czy jest też obdarzone pamięcią? Gdyby bowiem istniała także uniwersalna Pamięć, to niechybnie mielibyśmy do czynienia z postacią Boga, który pod wszystkimi postaciami jednocześnie pisze powieść o samym sobie.
