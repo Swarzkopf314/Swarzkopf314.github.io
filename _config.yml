@@ -50,7 +50,7 @@ plugins:
 disqus:
   shortname: satkiewicz-it
 
-paginate: 9
+paginate: 12
 
 
 compress_html:
